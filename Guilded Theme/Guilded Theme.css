@@ -1,0 +1,966 @@
+/* 
+|===========================================================================================================|
+|                                                 Variables                                                 |
+|===========================================================================================================|
+*/
+
+:root {
+    --background-tertiary: #121212;
+    --background-secondary: #0d0d0d;
+    --background-secondary-alt: #090909;
+    --background-primary: #090909;
+    --background-mobile-primary: #23283d;
+    --background-mobile-secondary: #1e2233;
+    --channeltextarea-background: #101010; /* Main window text bar + reply bar background */
+    --background-accent: #6e85d3;
+    --background-message-hover: transparent;
+    --background-modifier-hover: #121212;
+    --background-modifier-active: #1a1e2e;
+    --background-modifier-selected: #171d2b;
+    --deprecated-card-bg: #12141f63;
+    --background-floating: #0d0d0d;
+    --deprecated-quickswitcher-input-background: #101320;
+    --elevation-low: none;
+    --scrollbar-auto-thumb: #101010;
+    --scrollbar-auto-track: #181818;
+    --scrollbar-thin-thumb: #141414;
+    --activity-card-background: #101320;
+    --border-colors: #151515;
+    --popout-title: #141414;
+    --popout-background-main: #101010;
+    --jump-newmessage-bars-buttons: #353535;
+    --jump-newmessage-bars: #202020;
+    --Emoji-Menu: #060606;
+  
+    /* Compact Sidebar */
+    --Compact-Sidebar: 64px; /* Left variable = 64px;, Right variable = 240px */
+    --Compact-Sidebar-Opacity: 1; /* Left variable = 0, Right variable = 1 */
+    /* Compact Member List */
+    --Member-List-Toggle: 44px; /* Left variable = 52px, Right variable = 240px */
+    --Member-List-Toggle-3: 0; /* Left variable = 0, Right variable = 1 */
+    --Member-List-Toggle-Display: none;
+  
+    /* Mention color */
+    --mention-color: #0fffff; /* Default: #0fffff */
+    --unread-color: rgb(0, 195, 209); /* Default: rgb(0, 195, 209) */
+    --accent: 0, 195, 209; /* This works in conjunction with "--unread-color" | Default: 0, 195, 209 */
+  
+    /* Mention color in chat */
+    --mention-color-bar: #00b0f4; /* Default: #00b0f4 */
+    --mention-color-background: #00b0f41f; /* Default: #00b0f41f */
+    --mention-color-hover: #00b0f41f; /* Default: #00b0f41f */
+  
+  }
+  
+  /* Not variables */
+  *, :focus, img, :after, :before, :hover, .ReactionPicker-container, .BannerWithButton-container, .UserGamesWidget-game-card, .CardWrapper-container, .FormConfirmButtonV2-container, .CopyableTextbox-container, .TeamChannelItemContents-container, .TeamNavSectionItem-container, .NavV4SectionSidebarOption-container, .NavV4SectionSidebarOption-container::after, .GuildedSelect-container .Select-control, .AvailabilityDisplayHeader-button, .HotkeyRecorder-container, .CollapsedInput-container-size-sm {border-radius: 0px !important;}
+  
+
+
+/* 
+|===========================================================================================================|
+|                                                 My stuff                                                  |
+|===========================================================================================================|
+*/
+
+/* Server banner */
+.TeamNavHeader-content {padding: 8px 0px !important;}
+.TeamNavHeader-team-search-bar-carat {margin-right: 0px !important;}
+/* Server icon border */
+.NavSelectorItem-container-active .NavSelectorItem-contents::after {border: transparent !important;}
+
+
+
+
+
+/* Navbar when on legacy mode in Advanced settings */
+.NavbarNavExploreIcons-container {display: none;}
+.Navbar-item-selector:not(.Navbar-item-selector-unpadded) {
+  padding-left: 0px;
+}
+
+/* ==========> Member list <========== */
+.TeamPageSidebarMembersV2-container {
+    background: var(--background-tertiary) !important;
+	padding: 0px !important;
+    margin-top: 0px !important;
+}
+.SidebarWrapper-container {
+    padding: 0px !important;
+}
+/* Member list titles */
+.TeamPageSidebarMembersV2-section {
+	background-color: var(--background-secondary);
+	padding: 0px;
+	height: 25px !important;
+	width: inherit;
+}
+div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-child(2) {height: 10px !important;}
+.SidebarInviteButton-icon-wrapper {background-color: var(--background-floating);}
+.VirtualizedListItem-container {text-align: center;}
+.TeamPageSidebarMembersV2-header {padding: 0px 6px;}
+.TeamPageSidebarMembersV2-row{padding: 0px 6px; margin: 0px;}
+/* ===> Member list width | Important COMPACT stuff <=== */
+.SidebarWrapper-container {
+    max-width: var(--Member-List-Toggle);
+    min-width: var(--Member-List-Toggle);
+}
+.SidebarWrapper-container:hover {
+    max-width: initial;
+    min-width: initial;
+}
+.SimpleIconTabMenuHeader-container.SimpleIconTabMenu-header{display: var(--Member-List-Toggle-Display) !important;}
+.SidebarInviteButton-container.TeamPageSidebarMembersV2-header {margin-bottom: -8px;}
+.SidebarWrapper-container:hover .SimpleIconTabMenuHeader-container.SimpleIconTabMenu-header {display: inherit !important;}
+.SidebarWrapper-container:hover .SidebarInviteButton-container.TeamPageSidebarMembersV2-header {margin-bottom: inherit;}
+/* Chat */
+.ChannelWrapper-container-with-sidebar .ChannelWrapper-contents {
+  padding-right: 40px !important;
+}
+.TeamPageContent-content {
+  margin-right: 40px;
+}
+
+/* ==========> Sidebar | Server Channel containers <========== */
+.TeamChannelsList-header {
+	background: var(--background-primary);
+	padding: 6px 12px 6px 12px;
+}
+.DraggableHandle-container.TeamChannelCategoryHeader-container.TeamChannelCategory-header {
+	background: var(--background-primary);
+	padding: 0px 12px 0px 12px;
+}
+.TeamNavMenu-wrapper-thick-scrollbar {
+	padding: 0 0px 16px 0px;
+	overflow: hidden
+}
+.TeamChannelsList-category, .TeamNavMenuSections-channels-list, .TeamChannelsList-category:not(:first-child) {margin-top: 0px;}
+.TeamNavSectionsList-container {padding: 3px 0px 0px 0px;}
+/* + on the server list */
+.InlineAddItemControl-add-icon {background-color: var(--background-mobile-secondary) !important;}
+.GroupList-container {mask-image: var(--background-mobile-secondary) !important;}
+/* ===> Sidebar Compact <=== */
+.GameContext-container:has(.TeamNavMenu-wrapper-thick-scrollbar) .WebAppV2-sidebar {
+  --team-page-nav-width: var( --Compact-Sidebar);
+}
+.GameContext-container:has(.TeamNavMenu-wrapper-thick-scrollbar) .WebAppV2-sidebar:hover {
+  --team-page-nav-width: 350px;
+}
+.GameContext-container:has(.TeamNavMenu-wrapper-thick-scrollbar) .WebAppV2-container.WebAppV2-container-has-sidebar {
+	padding-left: var( --Compact-Sidebar);
+}
+
+/* Selected Channel */
+.TeamChannelItemContents-container-selected {
+    background: rgba(var(--accent), 0.07);
+}
+.TeamChannelItemContents-container-selected:before {
+    background-color: var(--unread-color);
+    border-radius: 0px;
+    height: inherit;
+    width: 2px;
+    top: 0px;
+	left: -7px;
+    z-index: 1;
+	content: "";
+	position: relative;
+}
+/* Unread channel */
+.TeamChannelItemContents-container-unread:before {
+    background-color: #777777;
+    border-radius: 0px;
+    height: inherit;
+    width: 2px;
+    top: 0px;
+    z-index: 1;
+	content: "";
+	position: relative;
+}
+.TeamChannelItemContents-container-unread {
+  padding-left: 4px;
+  margin-left: 0px;
+  background-color: var(--jump-newmessage-bars);
+}
+.TeamChannelItemContents-container {margin: 0px;}
+/* Navigation section (overview, member, etc) */
+.TeamNavSectionItem-container-selected {background: rgba(var(--accent), 0.07);}
+.TeamNavSectionItem-container-selected::before {
+  background-color: var(--unread-color);
+  border-radius: 0px;
+  height: inherit;
+  width: 2px;
+  top: 0px;
+  left: -7px;
+  z-index: 1;
+  content: "";
+  position: relative;
+}
+
+
+
+/* ==========> Profile Section <========== */
+.UserProfileV3-container-thick-scrollbar {background: var(--background-primary);}
+.UserProfilePostPanel-container {
+    background-color: var(--background-tertiary);
+	border-color: transparent !important;
+}
+.ReactionPickerButton-container-type-content, .ReactionBadge-container-content {background-color: var(--jump-newmessage-bars);}
+
+
+
+/* ==========> Chat <========== */
+/* When mentioned */
+.ChatV2Message-container:not(.ChatV2Message-container-editing):not(.ChatV2Message-container-replying):not(.ChatV2Message-container-private).ChatV2Message-container-mentioned::after {background-color: #00ffff !important;}
+.ChatV2Message-container:not(.ChatV2Message-container-editing):not(.ChatV2Message-container-replying):not(.ChatV2Message-container-private).ChatV2Message-container-mentioned {background-color: #00b0f41f !important;}
+/* Reply Stuff + Reply arrow thing */
+.ChatV2MessageReplyHeader-container::after {border-color: #00ffff !important; border-top-left-radius: 0px;}
+.ChatV2MessageReplyHeader-container {width: max-content;}
+.ChatV2MessageReplyHeader-user-info {
+    background: var(--channeltextarea-background);
+    padding: 3px 4px 3px 4px;
+}
+.ChatV2MessageReplyHeader-message-summary {
+    background: var(--channeltextarea-background);
+    padding: 4px 4px 4px 4px;
+	margin: 0px;
+}
+.GuildedText-container-type-subtext2:hover {color: #00aff4 !important}
+/* When you're replying to a message */
+.ChatChannelInputStatusBar-container {height: 26px; background: var(--background-tertiary); padding: 0px 6px; width: 100%;}
+
+/* ===> Chat message bar <=== */
+.ChatChannelInput-container {display: flex; flex-direction: column-reverse;}
+.ChatChannelInputFooter-container {
+    height: 14px;
+    margin: 0px;
+	padding-left: 8px;
+}
+/* Chat input */
+.ChatChannelInput-container {
+    padding: 0 6px 1px 6px !important;
+	min-height: 0px !important;
+}
+.ChatChannelMessagesList-messages {padding-bottom: 10px;}
+.ChatV2Message-container-with-header {padding-bottom: 0px;}
+/* Chat bar colours & Seperation */
+.ChatChannelInput-container .ChatChannelInput-editor {background-color: transparent !important;}
+.ChatChannelInput-editor .SlateEditor-container-type-simple .SlateEditor-editor, .ChatChannelInput-editor .ReactionsControlV2-container.SlateEditor-reactions-control-wrapper {margin: 0px 4px; background-color: var(--channeltextarea-background)}
+.ChatChannelInput-container .SlateToolbarMenuIcon, .ChatChannelInput-no-permissions {background-color: var(--channeltextarea-background)}
+
+/* Embeds */
+.ContentEmbedCardStack-container .ContentEmbedCardStack-external-embed-card {max-width: fit-content;}
+.OpenGraphEmbed-content {border-top-color: transparent; border-right-color: transparent; border-bottom-color: transparent;}
+/* Important ig */
+.OpenGraphEmbedContent-contents:has(canvas), .OpenGraphEmbedContent-contents:has([src*="https://i.imgur.com/"]) {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+.OpenGraphEmbedImage-container:has([src*="https://i.imgur.com/"]), .OpenGraphEmbedImage-image[src*="https://i.imgur.com/"] {
+  width: fit-content !important;
+  height: fit-content !important;
+  max-width: 560px !important;
+  max-height: fit-content !important;
+	margin-left: 0px;
+}
+.ContentEmbedCard-close-wrapper, .ContentEmbedCard-container {
+  height: fit-content !important;
+}
+
+/* Pin messages container */
+.ChannelPinnedMessages-container, .ChannelActivityDisplay-container, .ChannelActivityDisplay-group-header, .BannerWithButton-container, .ChatV2MessageReplyTooltip-content-wrapper, .ChatV2MessageReplyTooltip-arrow {
+  background-color: var(--background-tertiary) !important;
+  border-color: var(--border-colors);
+}
+
+/* Emoji popup when you type something like ":brain:" in chat */
+.TypeaheadDrawer-container {border-color: transparent; background-color: transparent;}
+.SlateTypeaheadMenuHeader-container {background-color: var(--background-secondary);}
+.TypeaheadDrawer-list {background-color: var(--background-tertiary);}
+.MenuItemEnabled-container-highlighted {background-color: rgba(var(--accent), 0.07);}
+.MenuItemEnabled-container:hover::after {opacity: 0.1; background: rgba(var(--accent),1);}
+
+/* Application section colours */
+.ApplicantSummaryCard-container .ApplicantSummaryCard-votes, .ApplicantSummaryCard-container .ApplicantSummaryCard-buttons-applied-date, .UserInfoSummaryItem-container-layout-grid, .RecruitmentApplicantViewer-form-results {background: var(--background-tertiary);}
+.FormSection-container-section-border-lg:not(:first-child), .FormSection-container-section-border-lg:not(.FormSection-container-with-header) {border-top: var(--border-colors);}
+.ProfileCardHeader-background {box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0) !important !important;}
+/* Leave a reply box */
+.DraftInputWithSubmitV2-editor .Editor-container {background: var(--jump-newmessage-bars);}
+.ChatV2MessageContents-container .Editor-container {background: var(--channeltextarea-background);}
+.SlateToolbarStrip {border-top: 0px solid var(--border-color);  border-bottom: 1px solid var(--border-color);}
+
+/* Selected text in chat popup to make it bold, underline, etc */
+.SlateToolbarStrip.SlateSelectionToolbar-toolbar {border-color: transparent; background: var(--background-primary);}
+
+/* Applications section stuff  */
+.GuildedSelect-container .Select-control, .CopyableTextbox-container-desktop:hover {border-color: var(--border-color) !important;}
+.CopyableTextbox-container {border-color: var(--border-color) !important; background: var(--background-modifier-active);}
+
+/* Quote */
+.BlockQuoteContainerRenderer, .CustomFormSummaryTextResponse-container {background-color: var(--background-tertiary); border-left-color: var(--unread-color) !important;}
+.BlockQuoteContainerRenderer {padding: 4px 8px;}
+.BlockQuoteContainerRenderer .BlockQuoteLineRenderer { color: lightgreen !important;}
+
+/* => Other channels similar to thread/release etc <= */
+/* Post button */
+.FormConfirmButtonV2-container.FormConfirmButtonV2-container-filled.FormConfirmButtonV2-container-disabled, .FormConfirmButtonV2-container.FormConfirmButtonV2-container-desktop.FormConfirmButtonV2-container-filled.FormConfirmButtonV2-container-disabled:hover {
+   border-color: #006cac !important;
+   background: #005486 !important;
+}
+.FormConfirmButtonV2-container.FormConfirmButtonV2-container-filled.FormConfirmButtonV2-container-disabled .FormConfirmButtonV2-button-content {color: #ccc; fill: #ccc;}
+/* Attachment upload */
+.FileUploadRenderer-container {
+  border: solid 1px var(--border-color);
+  background-color: var(--background-modifier-active);
+}
+
+/* Creating a thread and having it link it in a channel (ctrl+left-click a message) */
+.ChatV2MessageContents-container-thread::after {border-color: var(--unread-color) !important;}
+.ChatMessageThread-container {background-color: var(--background-tertiary) !important; padding: 0px !important;}
+.LastReplyDisplay-container::before {
+  background: var(--unread-color) !important;
+}
+.LastReplyDisplayContent-container {padding-top: 8px;}
+.LastReplyDisplay-images-flavor-chatThread {padding-bottom: 8px;}
+
+/* ==> Profile Popout <== */
+.TransientMenu-container .PlayerCardProfilePicture-avatar {z-index: 1001;}
+.PlayerCardProfilePicture-indicator {z-index: 1002}
+.TeamAddRoleButton-container.TeamMemberRolesDisplay-add-prepended {order: 1;} /* Roles + icon on the right */
+
+/* ==========> Emoji picker popup <========== */
+.ReactionPicker-container {height: 410px !important;}
+.ReactionPickerNavbar-container {height: 357px; scrollbar-width: 0 !important;}
+.ReactionPickerNavbar-container::-webkit-scrollbar {width: 0; overflow: scroll;}
+.ReactionPicker-list {height: 360px !important;
+}
+
+
+
+
+
+
+
+
+/* Server settings  */
+.TextInputWithLabel-container {border-bottom: 1px solid transparent;}
+.TextInputWithLabel-input-element {background: var(--background-secondary)}
+.TextAreaInput-text-area, .GuildedSelect-container.GuildedSelect-container-dark .Select.is-disabled .Select-control, .GuildedSelect-container.GuildedSelect-container-dark .Select.is-disabled:hover .Select-control {border-color: var(--border-color) !important;}
+/* Buttons */
+.RangeSlider-container-type-gilded .RangeSlider-selected-rail {background: #007bff5c; border-color: transparent !important;}
+.FormConfirmButtonV2-container.FormConfirmButtonV2-container-type-gilded {box-shadow: none !important;}
+/* Optional containers */
+.RadioOptionPanel-container {border-color: transparent; background: var(--background-secondary) !important;}
+.RadioOptionPanel-container.RadioOptionPanel-container-layout-horizontal.RadioOptionPanel-container-checkbox.RadioOptionPanel-container-selected.RadiosField-option-panel {background: var(--background-modifier-active) !important;}
+
+
+
+
+/* ==========> Border colors <========== */
+.ScreenHeader-container {border-color: var(--border-colors) !important;}
+.SimpleIconTabMenu-item {border-left: 1px solid var(--border-colors);} /* Member list */
+.WebAppSidebar-container.WebAppV2-sidebar {border-right: 1px solid var(--border-colors);} /* Left Sidebars */
+.GroupSelector-container {border-right: 1px solid var(--border-colors); } /* Server List */
+.NavV4Footer-container.WebAppSidebar-footer {border-top: 1px solid var(--border-colors); } /* Bottom part (Status, name and pfp) */
+.NavV4Footer-right {border-left: 1px solid var(--border-colors); } /* Status chooser container */
+
+
+
+/* 
+|===========================================================================================================|
+|                                          Personal Preference                                              |
+|===========================================================================================================|
+*/
+
+/* Background Image behind Dreams pfp */
+[class*="ProgressiveLoadedImage"], .ChatV2MessageHeader-avatar {position: relative; z-index: 2;}
+.ChatV2MessageReplyHeader-container {margin-bottom: 2px;} /* Replied message so it doesn't conflict */
+.ChatV2MessageHeader-avatar-wrapper:has([alt="Aprilis's avatar"]):after {
+    content: '';
+    position: absolute;
+    height: 44px;
+    width: 44px;
+    top: -2px;
+    left: -2px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(https://i.imgur.com/sxvFvSq.gif);
+	z-index: 1;
+}
+/* Dreams Animated Gradient username */
+.ChatV2Message-header:has([alt="Aprilis's avatar"]) .ChatV2MessageHeader-name .GradientText-layer {
+    letter-spacing: .02em !important;
+    font-weight: 600 !important;
+    -webkit-text-fill-color: transparent !important;
+    -webkit-background-clip: text !important;
+    background-image: repeating-linear-gradient(-45deg, #861ee9, #861ee9 20px, #921eff99 20px, #921eff99 40px) !important;
+    background-size: 20em, 500px !important;
+    filter: saturate(250%);
+    text-shadow: 0 0 4px rgb(0 102 255 / 0%);
+    animation: shine 10s linear infinite, shake .82s cubic-bezier(.36, .07, .19, .97) both !important;
+}
+/* My Background */
+.ChatV2MessageHeader-avatar-wrapper:has([alt="Distorted's avatar"]):after {
+    content: '';
+    position: absolute;
+    height: 44px;
+    width: 44px;
+    top: -2px;
+    left: -2px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(https://i.gifer.com/TL80.gif);
+	z-index: 1;
+}
+/* My Animated Gradient username */
+.ChatV2Message-header:has([alt="Distorted's avatar"]) .ChatV2MessageHeader-name .GradientText-layer {
+    letter-spacing: .02em !important;
+    font-weight: 600 !important;
+    -webkit-text-fill-color: transparent !important;
+    -webkit-background-clip: text !important;
+    background-image: repeating-linear-gradient(-45deg, #1ee9d5, #1ee2e9 20px, #1effff99 20px, #1eecff99 40px) !important;
+    background-size: 20em, 500px !important;
+    filter: saturate(250%);
+    text-shadow: 0 0 4px rgb(0 102 255 / 0%);
+    animation: shine 10s linear infinite, shake .82s cubic-bezier(.36, .07, .19, .97) both !important;
+}
+/* keyframes that make it work it's magic */
+@-webkit-keyframes shine {
+  to {
+    background-position: 300% center;
+  }
+}
+@keyframes shine {
+  to {
+    background-position: -100% center;
+  }
+}
+
+
+/* Guilded Profile Embed image remover */
+.OpenGraphEmbedContent-container [src="https://img.guildedcdn.com/ExternalOGEmbedImage/22e7e2d1aeb2bc1f313a9865fb40e6a6-Full.png?w=1200&h=630"] {display: none;}
+
+
+
+/* 
+|===========================================================================================================|
+|                                        Not my code, but colours are                                       |
+|===========================================================================================================|
+*/
+
+/* |====> Not my code, but colours are <====|  */ /* Base: https://userstyles.world/style/2853/guilded-outer-space */
+
+/* Mine Start */
+
+/* Codeblock */
+.CodeContainerRenderer-container,.CodeLineRenderer {background: var(--background-primary);}
+/* Hovering over messages colour */
+.ChatV2Message-container:not(.ChatV2Message-container-editing):hover {background-color: var(--background-modifier-hover) !important;}
+
+/* Mine end */
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+ /* Background colors */
+.Navbar-container,
+.TeamSearchBar-search-bar-input,
+.SearchBarV2-container,
+.NavV4Footer-footer-content,
+.NavV4Footer-right,
+.NavV4Sidebar-sidebar-footer,
+.VoiceConnectionDisplayPanelContents-info-wrapper,
+.OnboardingExperience-background,
+.TournamentNavHeader-container {
+  background-color: var(--background-secondary) !important;
+}
+.GroupSelector-container,
+.TeamSearchBar-search-results,
+.ReactionPickerNavbar-container,
+.ReactionPickerFooter-container,
+.SelectMenuItem-container-selected,
+.ContentEmbedCardFooter-container,
+.ModalHeaderV2-container,
+.OptionsMenu-options-control,
+.MediaSplitView-media,
+.MediaInfoPane-container,
+.CustomFormSummaryTextResponse-container,
+.NavV4Sidebar-container,
+.DefaultReadonlyEditableForm-container,
+.VoiceConnectionDisplayParticipants-container,
+.UserGamesWidget-game-card,
+.PlayerAliasCard-container-type-game,
+.PlayerAliasCard-container-type-game.PlayerAliasCard-info,
+.ChatChannelList-container,
+.NavV4FooterGlobalContextDisplay-teams-wrapper,
+.FullSizedCalendarDay-container-different-month,
+.UpcomingCalendarEvent-container-desktop:hover,
+.DropdownPanel-container,
+.LimitLabel-container,
+.StreamChannelDisplay-container,.StreamsDisplayV2-container,
+.StreamPlayerControlsMinimal-button,
+.UserSettingsServerSubscriptionsUpsell-container,
+.PersistentUpsell-container-flavor-settings,
+.ItemKeybindInput-container,
+.FormSection-container-section-background-inset,
+.ActionBubbleButton-icon-container,
+.ChatChannelAlertBar-container-type-viewing-older-messages {
+  background-color: var(--background-secondary) !important;
+}
+.TeamNavMenu-container,
+.SidebarWrapper-container,
+.TeamOverviewContentItemCard-container,
+.PostDisplayV2-container,
+.QuickActionBar-container,
+.TeamApplicationInlineLink-container,
+.GoldenProgressBar-container-theme-dark,
+.ReactionPicker-content,
+.SelectMenu-container,
+.HoverContext-container.UserBadges-badge.UserBadge-container.UserBadge-container-size-sm,
+.DefaultContentEmbedCard-content-wrapper,
+.TeamListItemWrapper-container,
+.ModalV2-modal-content,
+.OptionsMenuPageWrapper-container,
+.TeamListItemIndentWrapper-container,
+.TransientMenu-container-style-default,
+.ItemManagerFilterWrapper-container,
+.MediaDisplayItemV3-meta-info-wrapper,
+.ModalFooter-container,
+.TeamPostRow-container,
+.TeamThreadPostPanelDisplay-container.TeamThreadPostPanelDisplay-container-desktop.TeamThreadPostPanel-display,
+.DocSummaryInfo-container,
+.CustomFormWrapper-container-standalone,
+.TeamOverviewLeaderboardItem-leaderboard-container,
+.ChannelActivityDisplay-item,
+.VoiceConnectionDisplayButtons-button,
+.OpenGraphEmbed-content,
+.NavV4SectionSidebar-container,
+.MyTeamsPage-container,.ExplorePage-content,
+.WebAppSidebar-container.WebAppV2-sidebar,
+.FullSizedCalendar-week,
+.UpcomingCalendarDay-container,
+.Select-menu-outer,
+.TeamEventDetails-post-metadata,.TeamEventDetails-status,.TeamEventDetails-item,.EventCardMetadata-container-size-lg,
+.AvailabilityDisplay-container,
+.SVGIconWithTooltip-container-flavor-hover-bleach,
+.FullScreenFlowStageWrapper-contents-wrapper,
+.PersistentUpsell-container-flavor-default,
+.TeamThreadPostEditor-container,
+.DeepSearchResultInfo-preview {
+  background-color: var(--background-tertiary) !important;
+}
+.ScreenHeader-container,
+.SidebarInfoItem-container,
+.TeamPageContent-container,
+.TeamNavHeaderRowButton-container,
+.LayeredPageContent-content,
+.ProfileHoverCardV2Overlay-container,
+.ProfileHoverCardV2Overlay-action-menu,
+.RadioOptionPanel-container-selected,
+.TeamSettingsAddIntegration-container,
+.SocialLinkPanel-header,
+.UserCTAPanel-container,
+.GroupSettingsPanel-container,
+.UserCTAPanel-container,
+.ChannelWrapper-contents,
+.MediaEditor-container-desktop.MediaAdderV3-editor,
+.DocDisplayItem-preview,
+.Editor-container.DocEditor-content-input,
+.ChatV2PinnedMessage-message-wrapper,
+.UserProfileV3-container,
+.FullSizedCalendarDay-container:hover,
+.FullSizedCalendarDay-container-today,
+.AvailabilityDisplayHeader-day-today,
+.AvailabilityDisplayHeader-button,
+.ServerSubscriptionBar-container,
+.PaymentInstrumentCreator-element,
+.ItemChooserItemWrapper-container,
+.TypeaheadMenu-container,
+.TournamentSettingsSupportStaff-container,
+.TournamentSettingsBracket-container,
+.ChannelUpsell-container,
+.AvailabilityDisplayDaysPlaceholder-create,
+.ProfileHoverCardOverlay-container,
+.DeepSearchOverlay-container {
+  background-color: var(--background-secondary) !important;
+}
+
+.TeamNavHeaderRowButton-container,
+.TransientMenu-container {
+  border-radius: 14px !important;
+  box-shadow: none !important;
+}
+.LogoAndWordmarkV2-container,
+.NavIcon-container,
+.SVGIcon-container.ChatChannelIcon-icon.ChatChannelIcon-icon-group,
+.OverviewWidgetItem-icon,
+.SVGIconWithTooltip-container-flavor-hover-bleach.SVGIconWithTooltip-container-active.SVGIconWithTooltip-icon,
+.SlateEditor-send-icon,
+.ActionBubbleButton-icon-container.ActionBubbleButton-icon {
+  fill: #78788e !important;
+}
+.CarouselList-container-size-sm.CarouselList-blur-light.CarouselList-right-blur {
+  background-image: linear-gradient(to right, rgba(67, 67, 90, 0), #43435a 100%) !important;
+}
+.PlayerCardProfilePicture-avatar,
+.ChatV2MessageHeader-avatar-wrapper,
+.ChatV2MessageHeader-avatar,
+.UserProfilePictureControl-picture,
+.DraftInputWithTitleV2-creator-image,
+.LoggedInUserAvatar-picture,
+.ProgressiveLoadedImage-container-circular,
+.ScrubberLabel-icon-image {
+  border-radius: 25% !important;
+}
+.PlayerCardProfilePicture-indicator,
+.UserProfilePictureControl-online-status {
+  border: 2px solid #43435a;
+}
+.QuickActionBar-container,
+.ChatV2MessageReplyTooltip-content-wrapper,
+.ChatV2MessageReplyTooltip-arrow {
+  border: none !important;
+  border-radius: 14px !important;
+}
+.QuickActionBar-action-wrapper {
+  margin: 2px !important;
+}
+.ChatChannelInput-editor,
+.DraftInputWithTitleV2-title-wrapper,
+.TeamThreadReplyCreator-unexpanded-wrapper,
+.Editor-container.Editor-container-type-simple.ChatV2MessageReplyTooltipInput-content-input {
+  border-radius: 14px !important;
+  background-color: #191919 !important;
+}
+.SlateInsertToolbar-container:after,
+.VoiceConnectionDisplayInfo-container {
+  background: none !important;
+}
+.SlateToolbarMenuIcon-container {
+  margin-left: 5px !important;
+}
+.StretchFadeBackground-container-type-default.StretchFadeBackground-stretch-bg,.StretchFadeBackground-container-type-default.StretchFadeBackground-container > *,
+.StretchFadeBackground-container-type-full-blur.StretchFadeBackground-stretch-bg,.StretchFadeBackground-container-type-full-blur.StretchFadeBackground-container > *,
+.DocDisplayItem-preview,
+.TournamentNavHeader-container {
+  mask-image: none !important;
+  -webkit-mask-image: none !important;
+  border-bottom-left-radius: 14px !important;
+  border-bottom-right-radius: 14px !important;
+}
+.ProfileHoverCardV2Overlay-info-item:not(:first-child) {
+  border-top: none !important;
+}
+
+.UserStatus-status,
+.UserAttributionDisplay-header,
+.TeamMemberRolesDisplay-header,
+.TeamMemberRolesDisplay-list,
+.UserAliasesListDisplay-header {
+  justify-content: center !important;
+  display: flex !important;
+}
+.ProfileCardHeader-background {
+  box-shadow: 0 5px 15px -5px rgb(0 0 0 / 0.5) !important;
+}
+.TeamMemberRolePill-container-gradient {
+  background: linear-gradient(90deg, #43435a, #43435a) padding-box, linear-gradient(90deg, var(--gradient-color-1), var(--gradient-color-2)) border-box;
+}
+.TeamMemberRolesDisplay-role-pill {
+  margin: 0 2px 2px 0;
+}
+.TransientMenu-container {
+  box-shadow: none;
+}
+.ProfileHoverCardV2Overlay-container-user.ProfileHoverCardV2Overlay-card-header {
+  height: 125px;
+}
+.ProfileHoverCardV2Overlay-info {
+  margin-top: 120px !important;
+}
+.ProfileCardHeader-container-orientation-vertical.ProfileCardHeader-details {
+  display: flex;
+  flex-direction: column;
+}
+.ReplyPingButton-ping-enabled.ReplyPingButton-ping-icon,
+.TeamListItemsInput-icon svg,
+.ReactionPickerNavbarItem:hover.ReactionPickerNavbarItem-icon,
+.ContextMenuItem-container.ContextMenuItem-highlighted.ContextMenuItem-icon,.ContextMenuItem-container.ContextMenuItem-highlighted.ContextMenuItem-label {
+  fill: #47c08c !important;
+  color: #47c08c;
+}
+.BlockQuoteContainerRenderer,
+.CustomFormSummaryTextResponse-container {
+  border-left: 2px solid #47c08c;
+}
+.CheckmarkIcon-container-selected.CheckmarkIcon-circle,
+.CheckboxV2-container-checked.CheckboxV2-box,
+.VerticalSelectionIndicator-container,
+.FullSizedCalendarDayHeader-date-today {
+  background-color: #47c08c;
+  border-color: #47c08c;
+}
+.CheckmarkIcon-container-clickable:hover.CheckmarkIcon-container-selected.CheckmarkIcon-circle {
+  background-color: rgba(205, 205, 242, .75);
+  border-color: #484862;
+}
+.ReactionPickerNavbarItem-active,
+.TextInputWithLabel-container-focused,.TextInputWithLabel-container-focused:hover {
+  border-bottom: solid 2px #47c08c;
+}
+.MediaUploaderDropImageInstructions-browse-link,.MediaUploaderDropImageInstructions-browse-link:hover,.MediaUploaderDropImageInstructions-browse-link:visited,.MediaUploaderDropImageInstructions-browse-link:active,.MediaUploaderDropImageInstructions-browse-link:focus,
+.RouteLink-linkify,.RouteLink-linkify:hover,.RouteLink-linkify:visited,.RouteLink-linkify:active,.RouteLink-linkify:focus,
+.PostReplyQuoteButtons-option,.PostReplyQuoteButtons-option:hover,.PostReplyQuoteButtons-option:visited,.PostReplyQuoteButtons-option:active,.PostReplyQuoteButtons-option:focus,
+.LinkRenderer,.LinkRenderer:hover,.LinkRenderer:visited,.LinkRenderer:active,.LinkRenderer:focus,
+.OpenGraphEmbedContent-title,
+.ItemManagerColumnHeader-container-sortable.ItemManagerColumnHeader-active,
+.UserSettingsEmailPage-select-button,.UserSettingsEmailPage-select-button:hover,.UserSettingsEmailPage-select-button:visited,.UserSettingsEmailPage-select-button:active,.UserSettingsEmailPage-select-button:focus,
+.TeamListItemsCompletedHeader-show-complete,.TeamListItemsCompletedHeader-show-complete:hover,.TeamListItemsCompletedHeader-show-complete:visited,.TeamListItemsCompletedHeader-show-complete:active,.TeamListItemsCompletedHeader-show-complete:focus,
+.ToggleControlButton-container.ToggleControlButton-container-desktop:hover,.ToggleControlButton-container.ToggleControlButton-container-selected {
+  color: #00aff4 !important;
+}
+.TeamPlaqueV2-container-desktop.TeamPlaqueV2-profile-pic {
+  max-height: 148px;
+}
+.TeamNavSectionsList-header {
+  display: none;
+}
+.CustomFormWrapper-container-standalone,
+.UserGameSummaryCard-game-summary,
+.UserGameSummaryCard-container {
+  border: none !important;
+  border-radius: 14px;
+  box-shadow: none;
+}
+.ReactionPicker-container,
+.BannerWithButton-container,
+.UserGamesWidget-game-card,
+.CardWrapper-container,
+.FormConfirmButtonV2-container,
+.CopyableTextbox-container,
+.TeamChannelItemContents-container,
+.TeamNavSectionItem-container,
+.NavV4SectionSidebarOption-container,.NavV4SectionSidebarOption-container::after,
+.GuildedSelect-container.Select-control,
+.AvailabilityDisplayHeader-button,
+.HotkeyRecorder-container,
+.CollapsedInput-container-size-sm {
+  border-radius: 24px !important;
+}
+.FormConfirmButtonV2-container.FormConfirmButtonV2-container-hollow {
+  border: solid 2px;
+}
+.ChannelPinnedMessages-container,
+.ChannelActivityDisplay-container,
+.ChannelActivityDisplay-group-header,
+.BannerWithButton-container,
+.ChatV2MessageReplyTooltip-content-wrapper,.ChatV2MessageReplyTooltip-arrow {
+  background-color: #525267;
+}
+.SwitchInput-container-on.SwitchInput-slide {
+  background-color: #98d38b;
+}
+.InlineAddItemControl-add-icon {
+  border-radius: 14px;
+  background-color: #43435a;
+}
+.NavbarTeamSelector-create-team:after {
+  display: none !important;
+}
+ /* cool animations i searched up in google */
+.TeamSelectorItem-container.NavSelectorItem-container {
+  will-change: transform;
+  transition: transform 50ms ease-in;
+}
+.TeamSelectorItem-container.NavSelectorItem-container:hover {
+  transform: scale(1.2);
+}
+.TeamSelectorItem-container.NavSelectorItem-container.NavSelectorItem-container-active {
+  transform: scale(1.1);
+}
+.UserProfilePostPanel-container-highlight {
+  border-top: 2px solid #47c08c;
+}
+.GlassySplashHeader-image-wrapper {
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+}
+.UserProfileNavHeader-container,
+.UserProfileNavHeader-background.StretchFadeBackground-container.StretchFadeBackground-container-type-full-blur,
+.UserProfileBackground-image {
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+}
+.ChatChannelInputStatusDrawer-container {
+  align-items: center;
+}
+
+.CheckboxPanel-container-selected {
+  background-color: rgb(95 95 128 / 0.3);
+}
+.RangeSliderStep-step-filled {
+  background-color: #444460;
+}
+.UserProfileHeader-container.UserProfileHeader-profile-picture-wrapper.UserProfileHeader-picture-control.UserProfileName-container {
+  margin-top: 5px !important;
+}
+ /* Settings icons */
+.DesktopOptionsControlItemTemplate-container::before {
+  content: ' ';
+  margin-right: 5px;
+  filter: invert(68%) sepia(6%) saturate(310%) hue-rotate(202deg) brightness(95%) contrast(89%);
+  background-size: 20px 20px;
+  height: 20px;
+  width: 20px;
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Overview" i]::before,.DesktopOptionsControlItemTemplate-container[data-name="Dashboard" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAg0lEQVRIie2UUQ6AIAxDq6cT738C8R74YWb8gNnOxKDxJfuBAmFNB3yJGUAGUCqVAaSg9qB1wGqJaIfToUL80vS0diSEt+j2gfViP9cWPdOsjITdyJbBkwmjJtM86oHS11DQ6L46l7tBU+gzaKG+KijDjs7MP+ykB5SghYadEjRF+3I25yF8q0YGo3gAAAAASUVORK5CYII=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Email" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA40lEQVRIie3UPUpDQRTF8V9MJ+gCAnENksI1JEIgvZDSLbgFt2BraSW4CkGwS2rzsQCLdJFYeB88w6hjMgGRHDi8x9yZ838z9zHs9Zd0jhlWW3qKXgowLhBeeZQCtHBbIPwBJynAUTwHsc1NjmawlvVJcwzj/RDXWGYEv+EGx7G2j5cUILXFUzx+E/6Ms5jbwl2t9iVghQWu0MQBLvH6i/qPgMpP6ES9jftwO8Y6MSe1NgtQP+N643J6lA2oPMFFeJIxHzTWACXV4KNBO9X/AswK5k5Tgz2b3UGpv61b8GP32lLvtMOytKvz/eQAAAAASUVORK5CYII=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Billing" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAh0lEQVRIie2UWwqAIBBFT320iHYS0X/urLZVO8lqG/ajEYJZaRDkgUHE4V5nfEDiJgXQAyugHsToM+geCpsYfAaLTqyulHuF3JqXesxiGdiEtEcBEhBvGihgOgrarVA3K3ax69pnEJ1kYKiB5k2DHMfbSbfoewZzBE15tih0Qsg/1EbY5J/YAMBdWSxEjj6MAAAAAElFTkSuQmCC');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="SecuritySettings" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA8klEQVRIid3VsS5EQRiG4YfVIm5go0EicTkbcRVaCqLUq/YCtlCrhCvgBrZT2YRiCypxWMUeyWZ2zRlnphBf8jVzct73n2Jm+CNZQQ9XdXv1WnZWcYgHTIKOcIaNNuBNnGO8ABz2BX1sp4C7uESVAA5b1f92Y4L7FuCwd7PApUDwgeWUrUbyic5PgkkmfI6bO21j/p/gtQDzLSYYFRCMY4LHAoJhTHBbQHAd+7gl/yTvNE1wkwGPTv+dXby3gFfYSxHAaQvBSSqc6V0y+AV8YP5ea0wHFwnwvszn8wDPC8BP2M8Bz2Ydx6aHaIgjrJWCZ+ULc3iXpMmnlvAAAAAASUVORK5CYII=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Connections" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAm0lEQVRIie2UQQ6DIBBFn8ZTNbov9djGi1TPUd10FiojHaDRGF/CamQezDfAzZlogRGYEtcAOJ9gyNBc1tsnkOIjbgBhRJCVMnH/C320myxibhDKbZFFjEDLrZZasfoYoOB39vZMkJ5BkGsK6n/JLE+FsPfnbWrOIDEJesPJNcF6rI3UKuCjnMBCl6GHF9NTEYP7NtGaP1MFxzMDGx+F8KMIaO8AAAAASUVORK5CYII=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="VoiceAndVideoSettings" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA20lEQVRIie2UTQrCMBBGX8V25dribfw5guhlXImC9TIiSC8g7pTqJVqX9QKlLjpBqRGbtoJgP5jFTGa+R0IS+Bc5wBqIgBDwpFabPCDNhVcnINIArkUGrYKAtOx8qyCgtBrA7wK2wBGwJY80PapmAydgYwK+kF3NvuS6h7aStaHkZxPAUoZ8srvuCCTk9avwpXduAugBNxlcvOmxgJn0xIBrAgCYAokY7IAB0JEYAXtZS4CxqbnShMdOdBFXMVdyyc43eDIOpNatap6XAhTW1x9a27D/gOEOGn3UHbGxQOP5idFxAAAAAElFTkSuQmCC');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="KeybindSettings" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA4klEQVRIie2UOw6CQBCGPwzBE3gHrSiw5RD20sIhrLmEtT2HsLZQC72KhkQLZmSyoYC4Gxv/ZMLM7M57Gfjj14jkOweWQOzJbwvcgYc6vwIvz3QBEoA0gHOldOaxLUOIZ45iLQRQ0c9oL/xJKBIdwlcD9l0EJ8DG8LnhV0AJLEQuRae83rX2H2SEm0HmtqgwZTam7NqcF8LX9O1ojJ2eA+AGCIKgLXKHrK3YAQfgODLJHNg69oMVZEYuRzpH7rr2Kod/Re2ETKeihW7ZXQJkfwYSXQUJ3Z/pc13fgKcnf398gTfF4qS4u0j5/AAAAABJRU5ErkJggg==');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="SoundSettings" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA9ElEQVRIie2SMYrCQBiFP6NuJR5ArAVlG208hEew9wpWgW1sBfUA1lvvVmIjeAMbBbHQ1IKdC4IW8wISMkMiSbHgg+H/3wy8L5n54a3/Ih/Y5RX+Bdy1cg2PAgrACvgFPrIIjwI8YK/9WRbhIaAEVNW3gStwA1quwB4QWEKjgAVwBhryU52NXYBTgvAQMFf/Ld+V37gAScJDQF19IF+Rv8QFey5qSsWOcQgI4g4tGqmuVT9Vjy7AIAWkhnlkX76vukz+je4xLWPuHaAD/GHGtJkGYIM8qwgctD9JG26DPMvDvMMP5q9e1tACyFQ+sM0T8FZ+egBWumB5jywi2gAAAABJRU5ErkJggg==');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Privacy" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAfElEQVRIie3Uuw0CMRBF0bP0sr2saQlqgxyJJticDvgkGFkIZMnsJOArvWhG7yajofM3rDHj1pAZqSZoLc851QTflOdkRhyxixAknN9IFxFscHmVDoUggmEVVPykC0q2uH4aLnWmk8AzzYw4YF8Kwl9Feiy1lk81QeeHuQOXSKVrRRa0hAAAAABJRU5ErkJggg==');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="StreamerMode" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAfElEQVRIie3Uuw0CMRBF0bP0sr2saQlqgxyJJticDvgkGFkIZMnsJOArvWhG7yajofM3rDHj1pAZqSZoLc851QTflOdkRhyxixAknN9IFxFscHmVDoUggmEVVPykC0q2uH4aLnWmk8AzzYw4YF8Kwl9Feiy1lk81QeeHuQOXSKVrRRa0hAAAAABJRU5ErkJggg==');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Notifications" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAsklEQVRIie2TMQ6CQBBFnzaYeATt4DB4AI4h8Tq23kVjYoO1VngG7QwUjpFsQHZGNyHRn/xqd9+bJSz8UhLgLE18D40VggyIpZlqtJ5EQM5j8kp6Apay9lHmwLEBdlsAMys86oE3JaabrDzgz+YWwUEh2FsEN4Xg2gUZvRFUyoFaWZp3YMpfMEzBBFgbWBtg6rNxh///73brwtpucFfP/p2z4XPh9SnKEIKFgEsgDSEYZmqDQFU09ljjZAAAAABJRU5ErkJggg==');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Integrations" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA3klEQVRIie3UvUoDQRTF8R9WQiQvYWeadHmFBE3jA4gSzDvZ2fsudqnsTNbawg+SwljsLCybicHZ2S4HLgzD8D+XO5fDUR3rEitsQy0xyWmwrMGres0FH0XgVbXWHOsuDPp4CpAffEfgySMa4iVA3nGNKxQN+PgvSHMr3gLkvtbtM85Tu4xtxaZ2fsBpKlwEXtUXZinAk3+8PUsxaOrQiB7Ra2MwaZgUyo+/xWe4W2DQxmSfBgG+DWZ3mCo3LVsW9ZRjio0vaxbd4CMCz5ZFcNG1AR3HNbtbdzCLjtrRL7CHd0F3iRhJAAAAAElFTkSuQmCC');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Roles" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABFklEQVRIie2UsUoDQRCGvxgIV+gDCEnrdRHyDNZpTB99iTS+gFXe4oocBxKsBK18Aps8QkIgCkmQVHIWN0fWZfd2zW15P0wz8+//DzO7Cw0CoQdkwE7iCYhDin8CuRZfUquNzCBeRhrCYFdhsHUdPqtpnocweKuovfj3YkdMsVB9PBugG8IAituSUsx8C8xCijewog3cAI/AK7AA9sA3MNW4A47LH7iEI2ACLDE/rjVwIdwhcAXMlfpcckOT+CXwYREu40G4IwcvF84fPHsc6gs3UXJLYCyxUvKJbnDwMDgXbkfhjxWNO8kdgI7+VUS6owE/jnqrqvhe0XkZ18JVR7SSzu9xjOg/8FnybR0DOOGangrrQ/sFJ3uIAjUoGV0AAAAASUVORK5CYII=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Bots" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA2ElEQVRIieWVQQrCMBBFn27VI3TtHcSdLizepXs9khQ8RG/SulWwSzd2E21SJnYSWxD8MFAyk/9m0kDgn7QHLkAFpGMAKuBpotRumgYAHp7vwbSlnWAzBgALoFbIEUXJB0iAHKhpu7Y7t9dq4AwstdAEuHZMNHEze3uVR5i/4qQBdI8lJO4agL3hAMyAo2DmywUB5mZtIQB8OUd91zQzRllg7q2JZ4Jv5HjaExQDmGM8CgkwpD42Kl2/lVC39tQ60k4g1Un/TyX7YQkN1UOURkJKYBc71e+qAQtLiSUAaAdEAAAAAElFTkSuQmCC');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Groups" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAb0lEQVRIie2VUQqAIBAFx+hw2bXtJG33qI8QNAphZf2IHfBH5A28RQVHSQJO5dqBxVKQJWZkCQCTpakUrICgq0OA2BJpw986ryoKxWYvz6wAA2fggh8LZoPMDeN7UDFsBkdnjrQORO73xOyDcT65AKrpWmAwI6jOAAAAAElFTkSuQmCC');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Customizations" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABHUlEQVRIid2UQU7DMBBFH1SNQLT36B7uQdWQ5BbZwwkIsIEzRLkGByisiZS2y14g3dKysIMiGNexk1VH+pKV+f7fnhkHTj0CIAEKoAR2GqX+FmuOV4TAGjhYsAIWLsIj4KWD8F88A+ddDHzEG2Q28bCHeIO5STxA1bOvwQZD4xOBfA9cAQ+OuUgyKATiROemjrm8EW13/VowTbVQ6pi7kW5QCyfxRS3dYMjYSwbbAQ1+tdoGnwIxAs4siIV9khYx/2u5BC6OnPQS+BD23Ulk00NbAjOBPzOIV8DYdKKFsOEAfAPvwCvwptd7A/f2yI0B9Vf0Hc9Hmzioxj95iGc4jv0cVU+bcEWHsphijBrVHPhCvdBar3PUtBgbehrxAzd81pSSIgo2AAAAAElFTkSuQmCC');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Webhooks" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAE7UlEQVRoge2Zf2iVVRjHP7u6zWbzV9ZcNn+V0ujnkkDD1kIzjSikoCKoiOyX1T+GWRQSBRVRYQVNiCIRstIwLAxt7I9Kg+zHrJb9muaGtRlqujKn2/rjOS/vuc85773ve7d7p3C/cHjve57nPOf7nPf8eM5zoYgiisiEkjzbLwOqTT97gZ489zeoGA88AbQAvUC/KceAHcDTQM2QsYuBU4DngX8IyUeVo8CzyBc7oVANfEt2B3T5EjhjCPh6MQqZMkmdCEoLMKbgrD14B5dcD7AKmAtUAaeb368j00rrv1Fw1gr1uKR2AxdkaFMH7FJt+oDL8so0Cz5UhP4GzjayGqAR+BFoBV5CdjSAc4CDqu3agrFWOBWZQjaZpUZWC/yF+7XagYlGZ6mSHTE2C455isgxYLSRNeE6EZQNRmcc7kDMKhD3NNyuSHxn6scgcz7KkePImQMy5WzZbbmSSeXaEKhQ793mOZrMoc8wwi/XrWQ58xmII/vU+yTz7AD2Z2jXBXSa3zpU+XcAfHJGLe60ucjIlntkQfnY6NR5ZDMKxN1BhyLynqlPASvxr5U+YA6wCDhs1e8l/9F4JFbgEl1iyacDi5HpZOt8hTh7JvAmEiWvKBhrD8Yja0WP+EpgpKV3D67Dd1nymUgYM6S4Cf9a6ACuNTrDkODQlncS7l5DihHW78fxOzPX0rnSI3/BkpcDY4Hh+aMsmI1MmZ+A/4BXLdkM5KCzSa732FivdHqQDeIPq64X+BV4jUEOJKcDH+GOpu2IDh6PAFM9tqYhgxC1NftKs+EwIFwNHIjoIHBkoUf2VAabzyR0pB+JAK7L1Yl6/Jcg25EyYKeqbyd9x9KoRM6MpM4cRQYtESbgbqv9wB5gGbJdjsUNxfuBW2LYv8PS/x64D7gQmAJcCjxq+tK29yFnT2w0eoysJoxaQa6w+nL0KfFO5xSwEbiT6HhvJLDGw+OtuE5MQO4WduN1FsE5wNtAm9I5jsRPuWAR8AGwHXgXaDD1Jcj9RU+xWF9lsWp4iDBlczfpSTe7rMrRiRc9tvqAh4y8ComKbfmD2ojv8GlQ7xuQWGkK8ArRU2GjeU5GsiVxUApc4akvQQ7LTcAvwPvArZZ8tuGSEc2ke3+/qX8Y/5cISqPROy+LXpKy3Nh8QNV/oUn7RneUej9kntkygkHQN5hp0MDmYVVfqhV9jnSp9yDr0Zql00A+KaNWMgQ2z1L1B7Wib438pt4XAM8hO9eT+Il2E66LBUr2A/ByBNFS5KSv9MjakSymz2a2QQXgGtwdJAjezkcWnz6k5ht5DW42/jFPHw2E9/V5uDmwXYTX5nrcm+b1cRwpJz0aDQxXG3kpcs9YBtxMuKYqgK2qXQ+y2wWYRhgBf0YYylQiu9IjwA2EV4SJuOnVTjxrJAr34u4ge4CrIvTrgK89bRotnRtxI9/thCOvMR+ZXtrmEp9yVDgxHNiMXIY0vgE+Af5EsoWXI6e93jjagEuQfDBI4q4Fd40Foc3nRjfI3F/s6Xub6a83grcXp+FGtnFLJ7KeNGbizwnHKTsZwL1+HLAlYYc7gHMz2KwFfk5os4lwjeaMFJKT3Z2lsy5khyqPYXME8oep76pglzZkTWTNiCZJiKWQbPlCJJ6qQub070hY04xccZOgDNnuZyFfqgI57FqRNdNEwvVQRBFFFHFy4H+hE2SonRcy8QAAAABJRU5ErkJggg==');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Widget" i]::before {
+  background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCAxNzIgMTcyIgpzdHlsZT0iIGZpbGw6IzAwMDAwMDsiPjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1kYXNoYXJyYXk9IiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjAiIGZvbnQtZmFtaWx5PSJub25lIiBmb250LXdlaWdodD0ibm9uZSIgZm9udC1zaXplPSJub25lIiB0ZXh0LWFuY2hvcj0ibm9uZSIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxwYXRoIGQ9Ik0wLDE3MnYtMTcyaDE3MnYxNzJ6IiBmaWxsPSJub25lIj48L3BhdGg+PGcgZmlsbD0iIzAwMDAwMCI+PHBhdGggZD0iTTI1LjA4MzMzLDIxLjVoNTMuNzVjMS45NzgsMCAzLjU4MzMzLDEuNjA1MzMgMy41ODMzMywzLjU4MzMzdjUzLjc1YzAsMS45NzggLTEuNjA1MzMsMy41ODMzMyAtMy41ODMzMywzLjU4MzMzaC01My43NWMtMS45NzgsMCAtMy41ODMzMywtMS42MDUzMyAtMy41ODMzMywtMy41ODMzM3YtNTMuNzVjMCwtMS45NzggMS42MDUzMywtMy41ODMzMyAzLjU4MzMzLC0zLjU4MzMzeiI+PC9wYXRoPjxwYXRoIGQ9Ik04OS43MzM4Myw3OC42ODI4M3YtNTMuNTk5NWMwLC0xLjk3OCAxLjYwNTMzLC0zLjU4MzMzIDMuNTgzMzMsLTMuNTgzMzNoNTMuNTk5NWMxLjk3OCwwIDMuNTgzMzMsMS42MDUzMyAzLjU4MzMzLDMuNTgzMzN2NTMuNTk5NWMwLDEuOTc4IC0xLjYwNTMzLDMuNTgzMzMgLTMuNTgzMzMsMy41ODMzM2gtNTMuNTk5NWMtMS45ODE1OCwwIC0zLjU4MzMzLC0xLjYwMTc1IC0zLjU4MzMzLC0zLjU4MzMzeiI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS4wODMzMyw4OS41ODMzM2g1My43NWMxLjk3OCwwIDMuNTgzMzMsMS42MDUzMyAzLjU4MzMzLDMuNTgzMzN2NTMuNzVjMCwxLjk3OCAtMS42MDUzMywzLjU4MzMzIC0zLjU4MzMzLDMuNTgzMzNoLTUzLjc1Yy0xLjk3OCwwIC0zLjU4MzMzLC0xLjYwNTMzIC0zLjU4MzMzLC0zLjU4MzMzdi01My43NWMwLC0xLjk3OCAxLjYwNTMzLC0zLjU4MzMzIDMuNTgzMzMsLTMuNTgzMzN6Ij48L3BhdGg+PHBhdGggZD0iTTg5LjU4MzMzLDE0Ni45MTY2N3YtNTMuNzVjMCwtMS45NzggMS42MDUzMywtMy41ODMzMyAzLjU4MzMzLC0zLjU4MzMzaDUzLjc1YzEuOTc4LDAgMy41ODMzMywxLjYwNTMzIDMuNTgzMzMsMy41ODMzM3Y1My43NWMwLDEuOTc4IC0xLjYwNTMzLDMuNTgzMzMgLTMuNTgzMzMsMy41ODMzM2gtNTMuNzVjLTEuOTc4LDAgLTMuNTgzMzMsLTEuNjA1MzMgLTMuNTgzMzMsLTMuNTgzMzN6Ij48L3BhdGg+PC9nPjwvZz48L3N2Zz4=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="LevelRewards" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABDElEQVRIid3UsS4EQRzH8Q+hvUSiUCiu0BCipJDwAuIdNHLPwKMQrUTHAxzJiUhEToFCdFrFtYLT7ObW2pyZ2ZOIbzLZyc78f7/fzu7++Y9coJ84OmWxsQqDfs2AXzQnUgtDg4xHGCRRZdCroRdUu4K27y+wUdjTqFg/y2qDWS8ZvWAPu9m8KLwRI1xmDacViTvYrCNcJn+itojEMZ/pOZ4NjmXkLOAdb5j/DYNjg/M/Ci2qahU5q1jGXDa2Cvs/cIJHPKGLq9jED8Kb3F2sOMzgNkD8HrMpBjCFyyHi15hOFc9pDTHY+ak4pJsuJa4h7EdbzK6vOMzm25gMMQihi300C/eaOMDNKAz+Np+7fmbzYNip9AAAAABJRU5ErkJggg==');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Invites" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABOklEQVRIie3TPUoDURQF4C+phBRaWIRUGhAEGwvBwg0Yd2BKN+AWLNyAW9AdiIWFhRgiWLgFhcQidZoEIYnFvCHPIX9jUljkwGWGe8895743d/hH2MMDnnCwSuESrtDHKMQ3brC5jHARF+gE0QHuQgxCrhM4xbziR3iNJn7DcVQ/xEtUf8fJIsIV3GIYGts4RyHUm2iE90KotQN3GHor08TP0A3kHq4l9x8jnThGKXB7odZFbZLBZyDco5qpNSPxNBoZTjX0jvCRJuOPsxM9y5nm4YSBsicpRxq7k04QT5fe5/YUTowtycoO/NaYaZBGB/WI05BsT4q68RpnYyGDNJ6xH3GreJzTg/H6McU1Ql9yFXCJjTn8Ql6DvCjwh188L9YGuQy+VqjbnpSsoWX2bi8SLZyucNg1lsQPC8Z4QRn9ceUAAAAASUVORK5CYII=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Bans" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA4UlEQVRIie3TPU4CQQCG4afAn0I8BtFIvAQ38BYU3MvCUFAAsbHwFpoQGgMcgYKsxezGCeFndp2t9Esm2cnuvu/Mlxn+Wq7wjA/ctAGfosA6t+ASkxJeYIN+W/CskmPwWPLQFB53fmqscN9EME6A70t6GOEiRbAQTsuqhmRTPg9SBN1y3NWQFEKtSTuI85QIn+G6LrzvZ+u7MyuvDY/rmeMRXwfg8xzwCtDbkzSCx7VMhTtR5VY4XYfe/RpOOFmfeGkCP1ZLlrQKh6X0Xt+cvg/v1Yed6KfXcj7ENteq/3M236yKhgRYI4aGAAAAAElFTkSuQmCC');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Details" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAeklEQVRIie2T0QqAIAxFT/5W9F79tn+S/Yc9RFIyRcWCYAcGssmdk11QKlgBB/goHLD0aCCJX7G1ig63s6+4W4zJiKUELc/prFALuVSDGqTJQ+7TL9oz91yLeMzCuS3SBs09GvwfdbJIymgjMCVqXZxsKH+xOlmd/DIH4NRC8jQJ7xEAAAAASUVORK5CYII=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Settings" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAnElEQVRIie2TwQ2DMAwAjwpYrB0DWKdhChiMb/MLK5RHASGIIlMMCLUn+eMoPsdJ4I8SKVACFngBps+pYYD3LJ6aAusRWMnGm1CQeHKxpqD25CrhXhExn0sexmMQnmAtg0CMdERfc5rgATR93Pdu4loUQMvy10rDAXlI4DYUn0pGoplg1RsPMNY9/Jm2CjVdaDFn2z04IFNo8pfoANGRTBkb55qhAAAAAElFTkSuQmCC');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Registration" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABMUlEQVRIie2Uv2oCQRDGfxG8YGmpibVgGUgjpgt5mJhYBHyDPIpNDiGFFkmRMv4BE8wD5A2SgKedhSl2F45ldk+9BRs/GBZ2Zr5vZnd24YhAqAF9INH2DNRDkv8CG8v+tC83+gK5sTiEQOIRWGQlF3KKb0IIvHl8r9vX4kYddaH28fwA5yEEQE1LjDrzBfAUkvxgOAXugQmw0jYG7oAoL/kZMMc9vp9AdRuiS+ARGAAvqcp95MY+XJ2UgC7wbSU8aH9HIGsCLWG/LbX+5ajoQsdMBZ+BvT+2BYaelss6ZmlVbiPdSWK/5GshwWCdqtJA+glOPBzeS2vomIngc+WPdvnsbvTaE3wt4ErYl2IzEaHmPGtMZ0BxHwFQj8gnMgMq+5IbRKg5H6Emawm8A7ekKv8H0TWSJL7xvC0AAAAASUVORK5CYII=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Brackets" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADGSURBVEhL7ZTRDcIwDEQD03QEkGC3MgfjgAQjsA340pwUTrVo4/DXJ50c+yNO4lPSxloG0830LhF5iF2JBJuepmXmbjqbxpx9M1f7CU6uAlpbvPm+RPIskTC/VAqBN3+YcEpEnQFOHrrBy3Q0YTaIyENog+70auDaO9IAc+AsribaGxF5ExxyLaA11ptvoLb17L0az6auvXsN2bW3NnDd0Io28NxQOyYEHVALaG1xM/2uMaDDtMzADXjTuQ2bbuS6YeNPpPQBU8BHVpOzBZIAAAAASUVORK5CYII=');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Support" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA60lEQVRIie3TMU7DQBSE4S8UKaChgpZTwBWIuIbFMajNNeAMIGrCAUCkSQcJRtDTJqHgIR6JE9mIKspIr/nXM7Nrr9loo1AX53hFhTLYv6nEbG7KvwSd4AVj9BKvagqqBr4FjVPAqEXBMp+tJsfCZQ27aOj9pV7sZoTjxLu+3nml/iMv862RdnCGBzzhIPguCtxgiI+YYbAinhGeZ9xH1nYuuPZzC4pgR3i3eHvm5w2H4TlN/CoXTNLCXrBBg/DveQzPfmKTXNBPC51g0xYF0/B0EruVwuo0W7FWp9qsVT/aXYvwfru9bLRW+gSss2lh7ots+QAAAABJRU5ErkJggg==');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="Advanced" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA7UlEQVRIie2VQQ6CMBBFX0Q36MYjqCfS4MrjqeiR9AosYGGiGxUX/Ca1QtIiRhf+ZJJmZii/n/kF/oCjolMMgSmwA66KnXLxu8yWwAnIgdKJXLXENPcamO2BmcJldgUiYAzcgY2iVC4CbnWMQ5hlyq+t581LMnvTvrU2zEZiliq/ErNLE7MQ+DCbA2fljERbrUvV5nUn8IXRuKA62cqqFcBAPS/wYbZQbwxMqGQ0Y5oq1zimCQHjZyHIaL7MOnHvwdkkpvJDkCy+aCuf9xTd+RGPvMC9i76GEI88wfcb+Lj3bTVaubctPvKb/E08ALm/fLnwWDLYAAAAAElFTkSuQmCC');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="GeneralSettings" i]::before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABP0lEQVRIieXVvUoDQRQF4E/tEg34U9oLsdWglYWF2olB7dTWwryElYWVoJ2+ge+QN1Bs0gUUQcQySWksdoNxmVkjiYV44MLO7LnnzM6dO8t/wRZa6KbRwuYgieMDGuyj2DcupnMjwSKaPlffiybK3yWPBcYXmMMt1nAc4PXQxRXq2MEbTtL5II4CK/1pHMbEJ/E8AoMXlEIGtZykR1QxlcY2Gjn8WshgFe2I+EyAP52+y/LbWIltUwWdTEI1RsZuhttJNXLR31BdyZbEUMpwW1nCoI0WQ+z4Rg0qgbn1nPyNgF50i2JFbkgKmsUsngL8L0XuX+0yCgGhBdxLClpKYw93mA/wC7Gv+PVGI2nzYQ0O+gUnMgYPkouuiVO8Ykn8tLzjEufpcx1nci67EMqGuK4HxU3A4HpU4gzxy/z7+ABsuKy+qDOyAQAAAABJRU5ErkJggg==');
+}
+.DesktopOptionsControlItemTemplate-container[data-name="ServerSubscriptions" i]::before {
+  display: none;
+}
+.ModalWrapper-container {
+  background-color: rgba(0, 0, 0, .4);
+}
+.OptionsMenuPageWrapper-container {
+  display: block;
+}
+.DesktopOptionsControlItemTemplate-container:hover,
+.DesktopOptionsControlItemTemplate-container-active {
+  margin-left: 0px;
+  transition: 200ms all;
+  border-bottom-left-radius: 14px;
+  border-top-left-radius: 14px;
+}
+.DesktopOptionsControlItemTemplate-container:hover:hover::after {
+  border-bottom-left-radius: 14px;
+  border-top-left-radius: 14px;
+}
+.ChatChannelListItem-container-selected {
+  background: rgb(81 86 106 / 0.54);
+}
+.ChatChannelListItem-container:not(.ChatChannelListItem-container-selected):hover {
+  background: rgba(107, 114, 138, .54);
+}
+.ModalV2-container {
+  border: none !important;
+  box-shadow: none;
+}
+.ModalFooter-container {
+  border-top: none;
+  border-radius: 14px;
+}
+.ModalV2-container-has-header.ModalV2-modal-content {
+  border-top: none;
+}
+.DesktopOptionsControlItemTemplate-container {
+  transition: 200ms all;
+}
+.NavV4Footer-right.LoggedInUserAvatar-container.LoggedInUserAvatar-online-status {
+  bottom: 0px;
+}
+.CardWrapper-container:not(.CardWrapper-container-highlighted)::after,
+.PersistentUpsell-container-flavor-default {
+  border: none;
+}
+.UserProfilePictureControl-online-status {
+  right: 0px;
+}
+.ProfileCardHeader-background {
+  height: 120px;
+}
+.ProfileHoverCardHeader-profile-picture.ProgressiveLoadedImage-container-circular,.PlayerCardProfilePicture-container-size-xlg.PlayerCardProfilePicture-indicator {
+  border: 3px solid #43435a;
+}
+.ActionBubbleButton-container:hover:not(.ActionBubbleButton-disabled).ActionBubbleButton-icon-container {
+  background-color: #39394a !important;
+}
+.ChatChannelAlertBar-container-type-viewing-older-messages {
+  color: #a3a3ac;
+}
+.ChatChannelAlertBar-container-type-viewing-older-messages.ChatChannelAlertBar-icon {
+  fill: #a3a3ac;
+}
