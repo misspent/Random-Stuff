@@ -149,11 +149,12 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 .GameContext-container:has(.TeamNavMenu-wrapper-thick-scrollbar) .WebAppV2-container.WebAppV2-container-has-sidebar {
 	padding-left: var( --Compact-Sidebar);
 }
-
+.ChatChannelListItem-container-selected {background: rgba(var(--accent), 0.09) !important;} /* Select chat message in dm's */
 /* Selected Channel */
 .TeamChannelItemContents-container-selected {
     background: rgba(var(--accent), 0.07);
 }
+
 .TeamChannelItemContents-container-selected:before {
     background-color: var(--unread-color);
     border-radius: 0px;
@@ -281,6 +282,14 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 .MenuItemEnabled-container:hover::after {opacity: 0.1; background: rgba(var(--accent),1);}
 
 /* Application section colours */
+/* More results without scrolling */
+.ItemManagerList-items.InfiniteScrollList-container {
+    display: grid !important;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 8px;
+}
+.ItemManagerListItem-container {margin: 0px; padding: 0px 8px 0px 8px;}
+/* Other */
 .ApplicantSummaryCard-container .ApplicantSummaryCard-votes, .ApplicantSummaryCard-container .ApplicantSummaryCard-buttons-applied-date, .UserInfoSummaryItem-container-layout-grid, .RecruitmentApplicantViewer-form-results {background: var(--background-tertiary);}
 .FormSection-container-section-border-lg:not(:first-child), .FormSection-container-section-border-lg:not(.FormSection-container-with-header) {border-top: var(--border-colors);}
 .ProfileCardHeader-background {box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0) !important !important;}
@@ -323,6 +332,26 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 .LastReplyDisplayContent-container {padding-top: 8px;}
 .LastReplyDisplay-images-flavor-chatThread {padding-bottom: 8px;}
 
+/* Filter Appliactions */
+.TransientMenu-container-style-default {border: 1px solid var(--border-colors);}
+.FilterWrapper-container {
+  background: var(--background-tertiary);
+  border: 1px solid var(--border-colors);
+}
+.FilterWrapper-header {border-bottom: 1px solid var(--border-colors);}
+.FilterWrapper-search {background: var(--background-modifier-active);}
+
+/* => Server settings <=  */
+.TextInputWithLabel-container {border-bottom: 1px solid transparent;}
+.TextInputWithLabel-input-element {background: var(--background-secondary)}
+.TextAreaInput-text-area, .GuildedSelect-container.GuildedSelect-container-dark .Select.is-disabled .Select-control, .GuildedSelect-container.GuildedSelect-container-dark .Select.is-disabled:hover .Select-control {border-color: var(--border-color) !important;}
+/* Buttons */
+.RangeSlider-container-type-gilded .RangeSlider-selected-rail {background: #007bff5c; border-color: transparent !important;}
+.FormConfirmButtonV2-container.FormConfirmButtonV2-container-type-gilded {box-shadow: none !important;}
+/* Optional containers */
+.RadioOptionPanel-container {border-color: transparent; background: var(--background-secondary) !important;}
+.RadioOptionPanel-container.RadioOptionPanel-container-layout-horizontal.RadioOptionPanel-container-checkbox.RadioOptionPanel-container-selected.RadiosField-option-panel {background: var(--background-modifier-active) !important;}
+
 /* ==> Profile Popout <== */
 .TransientMenu-container .PlayerCardProfilePicture-avatar {z-index: 1001;}
 .PlayerCardProfilePicture-indicator {z-index: 1002}
@@ -342,17 +371,6 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 
 
 
-/* Server settings  */
-.TextInputWithLabel-container {border-bottom: 1px solid transparent;}
-.TextInputWithLabel-input-element {background: var(--background-secondary)}
-.TextAreaInput-text-area, .GuildedSelect-container.GuildedSelect-container-dark .Select.is-disabled .Select-control, .GuildedSelect-container.GuildedSelect-container-dark .Select.is-disabled:hover .Select-control {border-color: var(--border-color) !important;}
-/* Buttons */
-.RangeSlider-container-type-gilded .RangeSlider-selected-rail {background: #007bff5c; border-color: transparent !important;}
-.FormConfirmButtonV2-container.FormConfirmButtonV2-container-type-gilded {box-shadow: none !important;}
-/* Optional containers */
-.RadioOptionPanel-container {border-color: transparent; background: var(--background-secondary) !important;}
-.RadioOptionPanel-container.RadioOptionPanel-container-layout-horizontal.RadioOptionPanel-container-checkbox.RadioOptionPanel-container-selected.RadiosField-option-panel {background: var(--background-modifier-active) !important;}
-
 
 
 
@@ -363,7 +381,6 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 .GroupSelector-container {border-right: 1px solid var(--border-colors); } /* Server List */
 .NavV4Footer-container.WebAppSidebar-footer {border-top: 1px solid var(--border-colors); } /* Bottom part (Status, name and pfp) */
 .NavV4Footer-right {border-left: 1px solid var(--border-colors); } /* Status chooser container */
-
 
 
 /* 
