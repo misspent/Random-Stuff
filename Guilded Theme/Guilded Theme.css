@@ -4,57 +4,69 @@
 |===========================================================================================================|
 */
 
+/* |======> Variables <======| */
+
+*, :before, :after {border-radius: 0px !important}
+
+
 :root {
-    --background-tertiary: #121212;
-    --background-secondary: #0d0d0d;
-    --background-secondary-alt: #090909;
-    --background-primary: #090909;
-    --background-mobile-primary: #23283d;
-    --background-mobile-secondary: #1e2233;
-    --channeltextarea-background: #101010; /* Main window text bar + reply bar background */
-    --background-accent: #6e85d3;
-    --background-message-hover: transparent;
-    --background-modifier-hover: #121212;
-    --background-modifier-active: #1a1e2e;
-    --background-modifier-selected: #171d2b;
-    --deprecated-card-bg: #12141f63;
-    --background-floating: #0d0d0d;
-    --deprecated-quickswitcher-input-background: #101320;
-    --elevation-low: none;
-    --scrollbar-auto-thumb: #101010;
-    --scrollbar-auto-track: #181818;
-    --scrollbar-thin-thumb: #141414;
-    --activity-card-background: #101320;
-    --border-colors: #151515;
-    --popout-title: #141414;
-    --popout-background-main: #101010;
-    --jump-newmessage-bars-buttons: #353535;
-    --jump-newmessage-bars: #202020;
-    --Emoji-Menu: #060606;
-  
-    /* Compact Sidebar */
-    --Compact-Sidebar: 64px; /* Left variable = 64px;, Right variable = 240px */
-    --Compact-Sidebar-Opacity: 1; /* Left variable = 0, Right variable = 1 */
-    /* Compact Member List */
-    --Member-List-Toggle: 44px; /* Left variable = 52px, Right variable = 240px */
-    --Member-List-Toggle-3: 0; /* Left variable = 0, Right variable = 1 */
-    --Member-List-Toggle-Display: none;
-  
-    /* Mention color */
-    --mention-color: #0fffff; /* Default: #0fffff */
-    --unread-color: rgb(0, 195, 209); /* Default: rgb(0, 195, 209) */
-    --accent: 0, 195, 209; /* This works in conjunction with "--unread-color" | Default: 0, 195, 209 */
-  
-    /* Mention color in chat */
-    --mention-color-bar: #00b0f4; /* Default: #00b0f4 */
-    --mention-color-background: #00b0f41f; /* Default: #00b0f41f */
-    --mention-color-hover: #00b0f41f; /* Default: #00b0f41f */
-  
-  }
-  
-  /* Not variables */
-  *, :focus, img, :after, :before, :hover, .ReactionPicker-container, .BannerWithButton-container, .UserGamesWidget-game-card, .CardWrapper-container, .FormConfirmButtonV2-container, .CopyableTextbox-container, .TeamChannelItemContents-container, .TeamNavSectionItem-container, .NavV4SectionSidebarOption-container, .NavV4SectionSidebarOption-container::after, .GuildedSelect-container .Select-control, .AvailabilityDisplayHeader-button, .HotkeyRecorder-container, .CollapsedInput-container-size-sm {border-radius: 0px !important;}
-  
+  --background-tertiary: #121212;
+  --background-secondary: #0d0d0d;
+  --background-secondary-alt: #090909;
+  --background-primary: #090909;
+  --background-mobile-primary: #23283d;
+  --background-mobile-secondary: #1e2233;
+  --channeltextarea-background: #101010; /* Main window text bar + reply bar background */
+  --background-accent: #6e85d3;
+  --background-message-hover: transparent;
+  --background-modifier-hover: #121212;
+  --background-modifier-active: #1a1e2e;
+  --background-modifier-selected: #171d2b;
+  --deprecated-card-bg: #12141f63;
+  --background-floating: #0d0d0d;
+  --deprecated-quickswitcher-input-background: #101320;
+  --elevation-low: none;
+  --scrollbar-auto-thumb: #101010;
+  --scrollbar-auto-track: #181818;
+  --scrollbar-thin-thumb: #141414;
+  --activity-card-background: #101320;
+  --border-colors: #151515;
+  --popout-title: #141414;
+  --popout-background-main: #101010;
+  --jump-newmessage-bars-buttons: #353535;
+  --jump-newmessage-bars: #202020;
+  --Emoji-Menu: #060606;
+
+  /* Compact Sidebar */
+  --Compact-Sidebar: 340px; /* Left variable = 64px;, Right variable = 340px */
+  --Compact-Sidebar-Hover: 340px; /* Make this the same as the Right variable above */
+	
+  /* Compact Member List */
+  --Member-List-Toggle: 52px; /* Left variable = 52px, Right variable = 240px */
+  --Member-List-Toggle-Display: none; /* Left variable = none, Right variable = flex */
+  --Invite-button: none; /* Left variable = none, Right variable = flex */
+  --Group-Headers: none; /* Left variable = none, Right variable = flex */
+  --Server-Details: none; /* Left variable = none, Right variable = flex */
+
+  /* Mention color */
+  --mention-color: #0fffff; /* Default: #0fffff */
+  --unread-color: rgb(0, 195, 209); /* Default: rgb(0, 195, 209) */
+  --accent: 0, 195, 209; /* This works in conjunction with "--unread-color" | Default: 0, 195, 209 */
+
+  /* Mention color in chat */
+  --mention-color-bar: #00b0f4; /* Default: #00b0f4 */
+  --mention-color-background: #00b0f41f; /* Default: #00b0f41f */
+  --mention-color-hover: #00b0f41f; /* Default: #00b0f41f */
+
+}
+
+/* ========> Remove this if you want it to function normally with variable above <========= */
+.PageSidebar-container .VirtualizedListItem-container:has(.SidebarInviteButton-container), .SimpleIconTabMenuHeader-container.SimpleIconTabMenu-header {display: none !important;}
+
+
+
+/* Not variables */
+*, :focus, img, :after, :before, :hover, .ReactionPicker-container, .BannerWithButton-container, .UserGamesWidget-game-card, .CardWrapper-container, .FormConfirmButtonV2-container, .CopyableTextbox-container, .TeamChannelItemContents-container, .TeamNavSectionItem-container, .NavV4SectionSidebarOption-container, .NavV4SectionSidebarOption-container::after, .GuildedSelect-container .Select-control, .AvailabilityDisplayHeader-button, .HotkeyRecorder-container, .CollapsedInput-container-size-sm {border-radius: 0px !important;}
 
 
 /* 
@@ -63,11 +75,26 @@
 |===========================================================================================================|
 */
 
+/* |======> My stuff <======| */
+
 /* Server banner */
 .TeamNavHeader-content {padding: 8px 0px !important;}
 .TeamNavHeader-team-search-bar-carat {margin-right: 0px !important;}
 /* Server icon border */
 .NavSelectorItem-container-active .NavSelectorItem-contents::after {border: transparent !important;}
+
+
+
+
+
+
+
+
+/* Emoji poppop-up */
+.ReactionPicker-navbar {height: 357px;}
+
+
+
 
 
 
@@ -95,7 +122,7 @@
 	height: 25px !important;
 	width: inherit;
 }
-div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-child(2) {height: 10px !important;}
+
 .SidebarInviteButton-icon-wrapper {background-color: var(--background-floating);}
 .VirtualizedListItem-container {text-align: center;}
 .TeamPageSidebarMembersV2-header {padding: 0px 6px;}
@@ -109,9 +136,6 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
     max-width: initial;
     min-width: initial;
 }
-.SimpleIconTabMenuHeader-container.SimpleIconTabMenu-header{display: var(--Member-List-Toggle-Display) !important;}
-.SidebarInviteButton-container.TeamPageSidebarMembersV2-header {margin-bottom: -8px;}
-.SidebarWrapper-container:hover .SimpleIconTabMenuHeader-container.SimpleIconTabMenu-header {display: inherit !important;}
 .SidebarWrapper-container:hover .SidebarInviteButton-container.TeamPageSidebarMembersV2-header {margin-bottom: inherit;}
 /* Chat */
 .ChannelWrapper-container-with-sidebar .ChannelWrapper-contents {
@@ -141,14 +165,15 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 .GroupList-container {mask-image: var(--background-mobile-secondary) !important;}
 /* ===> Sidebar Compact <=== */
 .GameContext-container:has(.TeamNavMenu-wrapper-thick-scrollbar) .WebAppV2-sidebar {
-  --team-page-nav-width: var( --Compact-Sidebar);
-}
-.GameContext-container:has(.TeamNavMenu-wrapper-thick-scrollbar) .WebAppV2-sidebar:hover {
-  --team-page-nav-width: 350px;
+  --team-page-nav-width: var(--Compact-Sidebar);
 }
 .GameContext-container:has(.TeamNavMenu-wrapper-thick-scrollbar) .WebAppV2-container.WebAppV2-container-has-sidebar {
-	padding-left: var( --Compact-Sidebar);
+	padding-left: var(--Compact-Sidebar) !important;
 }
+.GameContext-container:has(.TeamNavMenu-wrapper-thick-scrollbar) .WebAppV2-sidebar:hover {
+  --team-page-nav-width: var(--Compact-Sidebar-Hover);
+}
+.WebAppV2-sidebar {max-width: var(--Compact-Sidebar-Hover);}
 .ChatChannelListItem-container-selected {background: rgba(var(--accent), 0.09) !important;} /* Select chat message in dm's */
 /* Selected Channel */
 .TeamChannelItemContents-container-selected {
@@ -196,7 +221,30 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
   content: "";
   position: relative;
 }
-
+/* ====> Fixes the way the bs baby made sidebar works, way better than default "top" bs <==== */
+.VirtualizedListItem-container {
+	display: flex;
+	flex-direction: column;
+	position: relative !important;
+	top: 0px !important;
+}
+.TeamPageSidebarMembersV2-section-first > .ChannelListHeader-text {max-height: 32px;}
+.PageSidebar-container:not(:hover) .SidebarInfoItem-container.TeamPageContentSidebarAbout-container {display: var(--Server-Details);}
+/* Top Sidebar Buttons */
+.PageSidebar-container:not(:hover) .SimpleIconTabMenuHeader-container.SimpleIconTabMenu-header {display: var(--Member-List-Toggle-Display) !important;}
+.SidebarInviteButton-container.TeamPageSidebarMembersV2-header {margin-bottom: -8px;}
+/* Invite button */
+.PageSidebar-container:not(:hover) .VirtualizedListItem-container:has(.SidebarInviteButton-container) {display: var(--Invite-button) !important;}
+.VirtualizedListItem-container:has(.SidebarInviteButton-container) {height: 38px !important;}
+/* Header */
+.PageSidebar-container:not(:hover) .VirtualizedListItem-container:has(.ChannelListHeader-container) {display: var(--Group-Headers) !important;}
+.VirtualizedListItem-container:has(.ChannelListHeader-container) {height: auto !important;}
+/* ==> Removes Status borders <== */
+.PlayerCardProfilePicture-indicator, .UserProfilePictureControl-online-status {border: 0px solid transparent !important;}
+.OnlineStatusDisplay-container-size-sm {
+  height: 12px;
+  width: 12px;
+}
 
 
 /* ==========> Profile Section <========== */
@@ -238,14 +286,14 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 }
 /* Chat input */
 .ChatChannelInput-container {
-    padding: 0 6px 1px 6px !important;
+    padding: 0 11px 1px 1px !important;
 	min-height: 0px !important;
 }
 .ChatChannelMessagesList-messages {padding-bottom: 10px;}
 .ChatV2Message-container-with-header {padding-bottom: 0px;}
 /* Chat bar colours & Seperation */
 .ChatChannelInput-container .ChatChannelInput-editor {background-color: transparent !important;}
-.ChatChannelInput-editor .SlateEditor-container-type-simple .SlateEditor-editor, .ChatChannelInput-editor .ReactionsControlV2-container.SlateEditor-reactions-control-wrapper {margin: 0px 4px; background-color: var(--channeltextarea-background)}
+.ChatChannelInput-editor .SlateEditor-container-type-simple .SlateEditor-editor, .ChatChannelInput-editor .ReactionsControlV2-container.SlateEditor-reactions-control-wrapper {margin: 0px 2px; background-color: var(--channeltextarea-background)}
 .ChatChannelInput-container .SlateToolbarMenuIcon, .ChatChannelInput-no-permissions {background-color: var(--channeltextarea-background)}
 
 /* Embeds */
@@ -292,7 +340,7 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 /* Other */
 .ApplicantSummaryCard-container .ApplicantSummaryCard-votes, .ApplicantSummaryCard-container .ApplicantSummaryCard-buttons-applied-date, .UserInfoSummaryItem-container-layout-grid, .RecruitmentApplicantViewer-form-results {background: var(--background-tertiary);}
 .FormSection-container-section-border-lg:not(:first-child), .FormSection-container-section-border-lg:not(.FormSection-container-with-header) {border-top: var(--border-colors);}
-.ProfileCardHeader-background {box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0) !important !important;}
+.ProfileCardHeader-background {box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0) !important;}
 /* Leave a reply box */
 .DraftInputWithSubmitV2-editor .Editor-container {background: var(--jump-newmessage-bars);}
 .ChatV2MessageContents-container .Editor-container {background: var(--channeltextarea-background);}
@@ -359,10 +407,13 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 
 /* ==========> Emoji picker popup <========== */
 .ReactionPicker-container {height: 410px !important;}
-.ReactionPickerNavbar-container {height: 357px; scrollbar-width: 0 !important;}
+.ReactionPickerNavbar-container {height: 357px;}
 .ReactionPickerNavbar-container::-webkit-scrollbar {width: 0; overflow: scroll;}
 .ReactionPicker-list {height: 360px !important;
 }
+
+
+
 
 
 
@@ -383,11 +434,16 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 .NavV4Footer-right {border-left: 1px solid var(--border-colors); } /* Status chooser container */
 
 
+
 /* 
 |===========================================================================================================|
 |                                          Personal Preference                                              |
 |===========================================================================================================|
 */
+
+/* |===> Personal Preference <==| */
+
+
 
 /* Background Image behind Dreams pfp */
 [class*="ProgressiveLoadedImage"], .ChatV2MessageHeader-avatar {position: relative; z-index: 2;}
@@ -478,9 +534,6 @@ div.VirtualizedListItem-container:has(.SidebarInviteButton-container) + :nth-chi
 
 /* Mine end */
 
-body {
-  font-family: 'Nunito', sans-serif;
-}
  /* Background colors */
 .Navbar-container,
 .TeamSearchBar-search-bar-input,
