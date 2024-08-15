@@ -1,9 +1,4 @@
-/* 
-|===========================================================================================================|
-|                                                 Variables                                                 |
-|===========================================================================================================|
-*/
-
+@-moz-document domain("guilded.gg") {
 /* |======> Variables <======| */
 
 *, :before, :after {border-radius: 0px !important}
@@ -68,13 +63,9 @@
 /* Not variables */
 *, :focus, img, :after, :before, :hover, .ReactionPicker-container, .BannerWithButton-container, .UserGamesWidget-game-card, .CardWrapper-container, .FormConfirmButtonV2-container, .CopyableTextbox-container, .TeamChannelItemContents-container, .TeamNavSectionItem-container, .NavV4SectionSidebarOption-container, .NavV4SectionSidebarOption-container::after, .GuildedSelect-container .Select-control, .AvailabilityDisplayHeader-button, .HotkeyRecorder-container, .CollapsedInput-container-size-sm {border-radius: 0px !important;}
 
+}
 
-/* 
-|===========================================================================================================|
-|                                                 My stuff                                                  |
-|===========================================================================================================|
-*/
-
+@-moz-document domain("guilded.gg") {
 /* |======> My stuff <======| */
 
 /* Server banner */
@@ -82,6 +73,12 @@
 .TeamNavHeader-team-search-bar-carat {margin-right: 0px !important;}
 /* Server icon border */
 .NavSelectorItem-container-active .NavSelectorItem-contents::after {border: transparent !important;}
+
+
+
+
+
+
 
 
 
@@ -293,7 +290,8 @@
 .ChatV2Message-container-with-header {padding-bottom: 0px;}
 /* Chat bar colours & Seperation */
 .ChatChannelInput-container .ChatChannelInput-editor {background-color: transparent !important;}
-.ChatChannelInput-editor .SlateEditor-container-type-simple .SlateEditor-editor, .ChatChannelInput-editor .ReactionsControlV2-container.SlateEditor-reactions-control-wrapper {margin: 0px 2px; background-color: var(--channeltextarea-background)}
+.ChatChannelInput-editor .SlateEditor-container-type-simple .SlateEditor-editor, .ChatChannelInput-editor .ReactionsControlV2-container.SlateEditor-reactions-control-wrapper {margin: 0px 0px 0px 2px; background-color: var(--channeltextarea-background)}
+.ReactionsControlV2-container.SlateEditor-reactions-control-wrapper {margin-right: 2px !important;}
 .ChatChannelInput-container .SlateToolbarMenuIcon, .ChatChannelInput-no-permissions {background-color: var(--channeltextarea-background)}
 
 /* Embeds */
@@ -343,7 +341,7 @@
 .ProfileCardHeader-background {box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0) !important;}
 /* Leave a reply box */
 .DraftInputWithSubmitV2-editor .Editor-container {background: var(--jump-newmessage-bars);}
-.ChatV2MessageContents-container .Editor-container {background: var(--channeltextarea-background);}
+.ChatV2MessageContents-container .Editor-container, .EditorV2InsertToolbar-container, .EditorV2Display-editable, .ReactionsControlV2-container {background: var(--channeltextarea-background);}
 .SlateToolbarStrip {border-top: 0px solid var(--border-color);  border-bottom: 1px solid var(--border-color);}
 
 /* Selected text in chat popup to make it bold, underline, etc */
@@ -367,8 +365,8 @@
 .FormConfirmButtonV2-container.FormConfirmButtonV2-container-filled.FormConfirmButtonV2-container-disabled .FormConfirmButtonV2-button-content {color: #ccc; fill: #ccc;}
 /* Attachment upload */
 .FileUploadRenderer-container {
-  border: solid 1px var(--border-color);
-  background-color: var(--background-modifier-active);
+  border: solid 1px var(--background-primary);
+  background-color: var(--background-modifier-hover);
 }
 
 /* Creating a thread and having it link it in a channel (ctrl+left-click a message) */
@@ -412,7 +410,8 @@
 .ReactionPicker-list {height: 360px !important;
 }
 
-
+.CodeblockRendererV2-container,
+.CodeblockRendererV2-container-line-numbers .BlockTextRendererV2-container {background: #080808;}
 
 
 
@@ -433,14 +432,9 @@
 .NavV4Footer-container.WebAppSidebar-footer {border-top: 1px solid var(--border-colors); } /* Bottom part (Status, name and pfp) */
 .NavV4Footer-right {border-left: 1px solid var(--border-colors); } /* Status chooser container */
 
+}
 
-
-/* 
-|===========================================================================================================|
-|                                          Personal Preference                                              |
-|===========================================================================================================|
-*/
-
+@-moz-document domain("guilded.gg") {
 /* |===> Personal Preference <==| */
 
 
@@ -517,12 +511,31 @@
 
 
 
-/* 
-|===========================================================================================================|
-|                                        Not my code, but colours are                                       |
-|===========================================================================================================|
-*/
 
+
+}
+
+@-moz-document domain("guilded.gg") {
+/* Member list 
+.VirtualizedListItem-container[style*="position: absolute; height: 22px;"] {
+	height: 0px !important;
+}
+.VirtualizedListItem-container[style*="position: absolute; height: 38px;"] {
+	height: 0px !important;
+}
+.VirtualizedListItem-container[style*="position: absolute; height: 42px;"] {
+	height: 0px !important;
+}
+*/
+}
+
+@-moz-document url("guilded.gg") {
+/* Font */
+
+body {font-family: 'Nunito', sans-serif !important;}
+}
+
+@-moz-document domain("guilded.gg") {
 /* |====> Not my code, but colours are <====|  */ /* Base: https://userstyles.world/style/2853/guilded-outer-space */
 
 /* Mine Start */
@@ -1033,4 +1046,5 @@
 }
 .ChatChannelAlertBar-container-type-viewing-older-messages.ChatChannelAlertBar-icon {
   fill: #a3a3ac;
+}
 }
