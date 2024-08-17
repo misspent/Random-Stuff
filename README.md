@@ -15,9 +15,10 @@
 `!buyammo` - Where and how to buy ammo  
 `!minimap` - Change minimap style/position  
 `!shit` - All spreadsheet links in one message  
-`!basic` - All types of ways to get basic tool kit
+`!basic` - All types of ways to get basic tool kit  
 `!tools` - Chart of drop chance based on area and tier of tools  
-`!backup` - Backup of your keybinds, settings and Mod Organizer profile
+`!whatthegundoin` - Shows you what each stats / upgrade means?  
+`!backup` - Backup of your keybinds, settings and Mod Organizer profile  
 `!factions` - To unlock every faction from the beginning, you can type `greh`/`renegades`/`isg`/`z`
 `!dxvk` - Optimize the game with up-to-date dll files, etc... More testing required so this is TEMP (I'm on v2.3) | Do `!k98` to undo?
 
@@ -54,6 +55,7 @@ Keep backups of `Anomaly/appdata/user.ltx`, `G.A.M.M.A. MCM values` & `G.A.M.M.A
 **Enable the following**:
 
 - New Item Highlight
+- Body Dots on Minimap
 - Optional Modern UI font | Disable Tactical Fonts
 - 340- Black Market (Buyable Gear) - SalamanderAnder & nox
 
@@ -96,11 +98,13 @@ Keep backups of `Anomaly/appdata/user.ltx`, `G.A.M.M.A. MCM values` & `G.A.M.M.A
 - `Drunks Starting Loadouts v7` (From GAMMA Discord)
 - `No Silencer Stats - veerserif` (From GAMMA Discord)
 - [Weightless Ammo](https://www.moddb.com/mods/stalker-anomaly/addons/weightless-ammo-gamma-compatible)
+- [7em1's repair kit rework](https://www.moddb.com/mods/stalker-anomaly/addons/7em1s-repair-kit-rework)
 - [Full Upgrades](https://github.com/themrdemonized/DLTX-MiniMod-Pack-STALKER-Anomaly/tree/master) ( Get from here/GAMMA discord)
 - [Free zoom revisited](https://www.moddb.com/mods/stalker-anomaly/addons/free-zoom-revisited)
 
 **Quality of Life**
 - `Lockable Artifact Conditions v1.1.1 - G_FLAT` (From GAMMA Discord)
+- [Activated Charcoal v1.6.1](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-activated-charcoal)
 - [Artifact signature locator](https://www.moddb.com/mods/stalker-anomaly/addons/atrifact-signature-locator)
 - [Climb stairs faster DLTX 1.2](https://www.moddb.com/mods/stalker-anomaly/addons/climb-stairs-faster-dltx-1-0)
 - [1.5.2 Disassemble All Items (With Patch Chance) (UPDATE 6.1)](https://www.moddb.com/mods/stalker-anomaly/addons/disassemble-all-items)
@@ -129,9 +133,14 @@ Keep backups of `Anomaly/appdata/user.ltx`, `G.A.M.M.A. MCM values` & `G.A.M.M.A
 - [Base Skills Pack v1.2.2](https://www.moddb.com/mods/stalker-anomaly/addons/base-skills-pack)
 - [Companions Don't Die](https://www.moddb.com/mods/stalker-anomaly/addons/companions-dont-die/page/2#comments)
 
+**Added for next build - Remove when you update**
+- [A.R.E.A Player Animations: Refresh](https://www.moddb.com/mods/stalker-anomaly/addons/area-player-animations-refresh)
+- [Western Goods v3.0.0](https://www.moddb.com/mods/stalker-anomaly/addons/western-goods)
+
 **Textures - Visual**
+- [Nicer Flashlights and Headlamps v2.0](https://www.moddb.com/mods/stalker-anomaly/addons/nicer-flashlights-and-headlamps-addon/page/2#comments) (I used Clean variant 2 / F.E.A.R variant)
 - [Devices of Anomaly Redone (UPDATE 4.1)](https://www.moddb.com/mods/stalker-anomaly/addons/devices-of-anomaly-redone)
-- [Minimalist Companion UI](https://www.moddb.com/mods/stalker-anomaly/addons/minimalist-companion-ui)
+- ~~[Minimalist Companion UI](https://www.moddb.com/mods/stalker-anomaly/addons/minimalist-companion-ui)~~
 - [Inventory Weights Revised (UPDATE 1)](https://www.moddb.com/mods/stalker-anomaly/addons/151152-inventory-weights-revised)
 - [UI Rework G.A.M.M.A . Style by Sota](https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota) - Use my edited one of this
 - Re-install: `Modular Compass Minimap - lifestorock` and move the minimap to the top-right.
@@ -141,7 +150,7 @@ Keep backups of `Anomaly/appdata/user.ltx`, `G.A.M.M.A. MCM values` & `G.A.M.M.A
 **Heavier Textures - idk**
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem)
 - [RE:PACK GLASS AND WINDOWS 1.5](https://www.moddb.com/mods/stalker-anomaly/addons/repack-glass-and-windows-14)
-- [Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78)
+- [Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78) - Use the skies from this / from A.D.E.G.A (place the sky textures below this if you want them)
 - [DLTX T.H.A.P. Rework 2.3](https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework)
 - [RE:PACK Barbed Wire 1.1](https://www.moddb.com/mods/stalker-anomaly/addons/repack-barbed-wire-1-0)
 - [RE:PACK Doors 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-doors-10)
