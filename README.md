@@ -41,6 +41,13 @@ Tips & Tricks Playlist: https://www.youtube.com/watch?v=81IXxI2OI9w&list=PL_OIXN
 
 Keep backups of `Anomaly/appdata/user.ltx`, `G.A.M.M.A. MCM values` & `G.A.M.M.A\overwrite\bin\reshade.ini` which is where all in-game settings, reshade settings + keybinds are stored (I've made a .bat for this)    
 
+#### Reposition weapons (in debug mode?)
+- [HUD Offsets Editor](https://www.moddb.com/mods/stalker-anomaly/addons/hud-offsets-editor1)
+- [Draggable Hud Editor (UPDATE 9)](https://www.moddb.com/mods/stalker-anomaly/addons/draggable-hud-editor)
+
+This is how `skilldex` from Gamma discord server does it (he has ultra wide)
+
+
 ---
 
 
