@@ -75,7 +75,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 
 ✅ = Enabled  
 ❌ = Disabled  
-⛔ = Switch between it on/off  
+⛔ = Switch between it on/off/new playthrough  
 
 **Other Categories / Bulk stuff**  
 -  `Ultimate GAMMA Gun Pack` - From GAMMA discord. Drag drop all folders into `G.A.M.M.A\mods` folder ✅
@@ -113,7 +113,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - `No Silencer Stats - veerserif` (From GAMMA Discord) ✅
 - [Weightless Ammo](https://www.moddb.com/mods/stalker-anomaly/addons/weightless-ammo-gamma-compatible) ✅
 - [7em1's repair kit rework](https://www.moddb.com/mods/stalker-anomaly/addons/7em1s-repair-kit-rework) ❌
-- [Full Upgrades](https://github.com/themrdemonized/DLTX-MiniMod-Pack-STALKER-Anomaly/tree/master/Full_upgrades_DLTX) ( Get from here/GAMMA discord) ❌
+- [Full Upgrades](https://github.com/themrdemonized/DLTX-MiniMod-Pack-STALKER-Anomaly/tree/master/Full_upgrades_DLTX) (Get from here/GAMMA discord) ❌
 - [Free zoom revisited](https://www.moddb.com/mods/stalker-anomaly/addons/free-zoom-revisited) ✅
 
 **Quality of Life**
@@ -134,6 +134,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [Machine Pistols & Sawn Off in Sidearm Slot V1.1](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-machine-pistols-sawn-off-in-sidearm-slot) ✅
 - [HeatVision v1.3](https://www.moddb.com/mods/stalker-anomaly/addons/heatvision-v02-extension-for-beefs-nvg-dx11engine-mod) + [New goggles icon for HEATVISION V1.3](https://www.moddb.com/mods/stalker-anomaly/addons/new-goggles-icon-for-heatvision-v13-dltx) (Merge) 
 - [Dialogue Expanded Expanded v5](https://www.moddb.com/mods/stalker-anomaly/addons/dialogue-expanded-expanded-152-eng) ✅
+- [Realistic Durability Drops V1.5.X](https://www.moddb.com/mods/stalker-anomaly/addons/realistic-durability-drops-v15x) - Partial support (only works on armors?) ✅
 - [Prefer Best Disassembly Tool](https://www.moddb.com/mods/stalker-anomaly/addons/prefer-best-disassembly-tool) ✅
 - [More meat from mutants](https://www.moddb.com/mods/stalker-anomaly/addons/more-meat-from-mutants) ✅
 - [Backpacks of the Zone](https://www.moddb.com/mods/stalker-anomaly/addons/backpacks-of-the-zone) ✅
@@ -142,6 +143,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 **True Game changer**
 - [RE:DONE Collection v2.3.4 VOL.1](https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection) ❌
 - [RE:DONE Collection 1.1.2 Vol.2](https://www.moddb.com/mods/stalker-anomaly/addons/redone-collection-vol-2) ❌
+- [Zone Passive Income v0.5.4](https://www.moddb.com/mods/stalker-anomaly/addons/zone-passive-income) ⛔
 - [Experience Framework v2.1-U2](https://www.moddb.com/mods/stalker-anomaly/addons/experience-framework) ✅
 - [Base Skills Pack v1.2.2](https://www.moddb.com/mods/stalker-anomaly/addons/base-skills-pack) ✅
 - [Skills Expansion 2.1](https://www.moddb.com/mods/stalker-anomaly/addons/skills-expansion-for-anomaly-skill-system) ✅
