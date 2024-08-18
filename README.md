@@ -106,7 +106,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - `No Silencer Stats - veerserif` (From GAMMA Discord)
 - [Weightless Ammo](https://www.moddb.com/mods/stalker-anomaly/addons/weightless-ammo-gamma-compatible)
 - [7em1's repair kit rework](https://www.moddb.com/mods/stalker-anomaly/addons/7em1s-repair-kit-rework)
-- [Full Upgrades](https://github.com/themrdemonized/DLTX-MiniMod-Pack-STALKER-Anomaly/tree/master) ( Get from here/GAMMA discord)
+- [Full Upgrades](https://github.com/themrdemonized/DLTX-MiniMod-Pack-STALKER-Anomaly/tree/master/Full_upgrades_DLTX) ( Get from here/GAMMA discord)
 - [Free zoom revisited](https://www.moddb.com/mods/stalker-anomaly/addons/free-zoom-revisited)
 
 **Quality of Life**
@@ -138,21 +138,22 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [RE:DONE Collection 1.1.2 Vol.2](https://www.moddb.com/mods/stalker-anomaly/addons/redone-collection-vol-2)
 - [Experience Framework v2.1-U2](https://www.moddb.com/mods/stalker-anomaly/addons/experience-framework)
 - [Base Skills Pack v1.2.2](https://www.moddb.com/mods/stalker-anomaly/addons/base-skills-pack)
-- [Companions Don't Die](https://www.moddb.com/mods/stalker-anomaly/addons/companions-dont-die/page/2#comments)
+- [Skills Expansion 2.1](https://www.moddb.com/mods/stalker-anomaly/addons/skills-expansion-for-anomaly-skill-system)
+- [Companions Don't Die](https://www.moddb.com/mods/stalker-anomaly/addons/companions-dont-die)
 
 **Added for next build - Remove when you update**
 - [A.R.E.A Player Animations: Refresh](https://www.moddb.com/mods/stalker-anomaly/addons/area-player-animations-refresh)
 - [Western Goods v3.0.0](https://www.moddb.com/mods/stalker-anomaly/addons/western-goods)
 
 **Textures - Visual**
-- [Nicer Flashlights and Headlamps v2.0](https://www.moddb.com/mods/stalker-anomaly/addons/nicer-flashlights-and-headlamps-addon/page/2#comments) (I used Clean variant 2 / F.E.A.R variant)
+- [Nicer Flashlights and Headlamps v2.0](https://www.moddb.com/mods/stalker-anomaly/addons/nicer-flashlights-and-headlamps-addon) (I used Clean variant 2 / F.E.A.R variant)
 - [Devices of Anomaly Redone (UPDATE 4.1)](https://www.moddb.com/mods/stalker-anomaly/addons/devices-of-anomaly-redone)
 - ~~[Minimalist Companion UI](https://www.moddb.com/mods/stalker-anomaly/addons/minimalist-companion-ui)~~
 - [Inventory Weights Revised (UPDATE 1)](https://www.moddb.com/mods/stalker-anomaly/addons/151152-inventory-weights-revised)
 - [UI Rework G.A.M.M.A . Style by Sota](https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota) - Use my edited one of this
 - Re-install: `Modular Compass Minimap - lifestorock` and move the minimap to the top-right.
 - [Dynahud Hud Manager](https://www.moddb.com/mods/stalker-anomaly/addons/dynahud-hud-manager)
-`Reworked status icons (alt) - v1.5 - AlphaLion` (From GAMMA Discord)
+- `Reworked status icons (alt) - v1.5 - AlphaLion` (From GAMMA Discord)
 
 **Heavier Textures - idk**
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem)
@@ -163,6 +164,91 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [RE:PACK Doors 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-doors-10)
 - [Vehicles Redux V1.3 2024 | NEW TEXTURES (No upscale)](https://www.moddb.com/mods/stalker-anomaly/addons/vehicles-redux-v11-2024-new-textures-no-upscale)
 - [Arrival - Anomalies](https://www.moddb.com/mods/stalker-anomaly/addons/arrival-anomalies)
+
+
+#### 💡 Partial automation
+1. Use [JDownloader 2](https://jdownloader.org/jdownloader2) 
+2. Copy & paste all **automatic** links from the dropdown below into it, and it'll auto-download the zips.
+3. The ones under **manual** you'll have to do yourself; some are missing as you can only get them from [GAMMA Discord server](https://discord.gg/stalker-gamma) (refer to above for the names).
+
+<details>
+  <summary align=>📋 Copy & Paste link - code format</summary>
+  <br>
+
+
+```yaml
+
+Manual:
+https://github.com/ilrathCXV/Campfire-Limb-Healing
+https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
+https://github.com/themrdemonized/DLTX-MiniMod-Pack-STALKER-Anomaly/tree/master/Full_upgrades_DLTX
+
+Automatic:
+https://www.moddb.com/mods/stalker-anomaly/addons/hidetooltip
+https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework
+https://www.mediafire.com/folder/793vdxt5yzml9/A.D.E.G.A+1.3.1
+https://www.moddb.com/mods/stalker-anomaly/addons/fight-my-foes
+https://www.moddb.com/mods/stalker-anomaly/addons/western-goods
+https://www.moddb.com/mods/stalker-anomaly/addons/cozy-campfires
+https://www.moddb.com/mods/stalker-anomaly/addons/quickslotsplus
+https://drive.google.com/file/d/1mrSLkKga9e43hqshQaweM58a1aFE5eEo
+https://www.moddb.com/mods/stalker-anomaly/addons/mcm-key-wrapper
+https://www.moddb.com/mods/stalker-anomaly/addons/battery-recycle
+https://www.moddb.com/mods/stalker-anomaly/addons/repack-doors-10
+https://www.moddb.com/mods/stalker-anomaly/addons/usable-bar-doors
+https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection
+https://www.moddb.com/mods/stalker-anomaly/addons/base-skills-pack
+https://www.moddb.com/mods/stalker-anomaly/addons/arrival-anomalies
+https://www.moddb.com/mods/stalker-anomaly/addons/ascendantcrosshairs
+https://www.moddb.com/mods/stalker-anomaly/addons/free-zoom-revisited
+https://www.moddb.com/mods/stalker-anomaly/addons/companions-dont-die
+https://www.moddb.com/mods/stalker-anomaly/addons/dynahud-hud-manager
+https://www.moddb.com/mods/stalker-anomaly/addons/experience-framework
+https://www.moddb.com/mods/stalker-anomaly/addons/disassemble-all-items
+https://www.moddb.com/mods/stalker-anomaly/addons/backpacks-of-the-zone
+https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78
+https://www.moddb.com/mods/stalker-anomaly/addons/more-meat-from-mutants
+https://www.moddb.com/mods/stalker-anomaly/addons/repack-barbed-wire-1-0
+https://www.moddb.com/mods/stalker-anomaly/addons/7em1s-repair-kit-rework
+https://www.moddb.com/mods/stalker-anomaly/addons/dltx-activated-charcoal
+https://www.moddb.com/mods/stalker-anomaly/addons/detailed-description-01
+https://www.moddb.com/mods/stalker-anomaly/addons/invictus-protect-rc1819
+https://www.moddb.com/mods/stalker-anomaly/addons/redone-collection-vol-2
+https://www.moddb.com/mods/stalker-anomaly/addons/minimalist-companion-ui
+https://www.moddb.com/mods/stalker-anomaly/addons/devices-of-anomaly-redone
+https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-popup-messages-apm
+https://www.moddb.com/mods/stalker-anomaly/addons/background-color-highlight
+https://www.moddb.com/mods/stalker-anomaly/addons/atrifact-signature-locator
+https://www.moddb.com/mods/stalker-anomaly/addons/golden-autumn-retexture-v10
+https://www.moddb.com/mods/stalker-anomaly/addons/repack-glass-and-windows-14
+https://www.moddb.com/mods/stalker-anomaly/addons/climb-stairs-faster-dltx-1-0
+https://www.moddb.com/mods/stalker-anomaly/addons/prefer-best-disassembly-tool
+https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota
+https://www.moddb.com/mods/stalker-anomaly/addons/area-player-animations-refresh
+https://www.moddb.com/mods/stalker-anomaly/addons/dltx-unofficial-autocomplete-v4
+https://www.moddb.com/mods/stalker-anomaly/addons/mcm-required-device-selector-key
+https://www.moddb.com/mods/stalker-anomaly/addons/weightless-ammo-gamma-compatible
+https://www.moddb.com/mods/stalker-anomaly/addons/smaller-stalker-collision-radius
+https://www.moddb.com/mods/stalker-anomaly/addons/151152-inventory-weights-revised
+https://www.moddb.com/mods/stalker-anomaly/addons/extra-cordon-darkscape-transition
+https://www.moddb.com/mods/stalker-anomaly/addons/stamina-regeneration-when-walking
+https://www.moddb.com/mods/stalker-anomaly/addons/dialogue-expanded-expanded-152-eng
+https://www.moddb.com/mods/stalker-anomaly/addons/upgraded-guns-and-armors-in-stashes
+https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem
+https://www.moddb.com/mods/stalker-anomaly/addons/nicer-flashlights-and-headlamps-addon
+https://www.moddb.com/mods/stalker-anomaly/addons/new-goggles-icon-for-heatvision-v13-dltx
+https://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma
+https://www.moddb.com/mods/stalker-anomaly/addons/skills-expansion-for-anomaly-skill-system
+https://www.moddb.com/mods/stalker-anomaly/addons/oaco-octavias-anomaly-cooking-overhaul-v204
+https://www.moddb.com/mods/stalker-anomaly/addons/dltx-better-caffeine-tablets-for-anomaly-152
+https://www.moddb.com/mods/stalker-anomaly/addons/dltx-machine-pistols-sawn-off-in-sidearm-slot
+https://www.moddb.com/mods/stalker-anomaly/addons/vehicles-redux-v11-2024-new-textures-no-upscale
+https://www.moddb.com/mods/stalker-anomaly/addons/heatvision-v02-extension-for-beefs-nvg-dx11engine-mod
+https://www.moddb.com/mods/stalker-anomaly/addons/carry-weight-slider-up-to-10000kg-take-all-x-button-152
+```
+
+</details>
+
 
 ---
 
