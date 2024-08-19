@@ -181,6 +181,9 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 2. Copy & paste all **automatic** links from the dropdown below into it, and it'll auto-download the zips. | Make it not extract the files (maybe?)
 3. The ones under **manual** you'll have to do yourself; some are missing as you can only get them from [GAMMA Discord server](https://discord.gg/stalker-gamma) (refer to above for the names).
 
+> Might turn the format below to the *https://www.moddb.com/addons/start/xxx* download alternatives, so all you have to do is click the links and BOOM, it'll start to download the mod... We shall see.
+
+
 <details>
   <summary align=>📋 Copy & Paste link - code format</summary>
   <br>
