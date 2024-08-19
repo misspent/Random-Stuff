@@ -59,7 +59,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 **Disable the following**:  
 
 - NPC loot claim
-- G.A.M.M.A. Free Zoom v3 | If you install: Free zoom - revisited
+- Disable both already installed Free zoom mods | If you install: Free zoom - revisited
 - 234- Dynamic Anomalies Overhaul - Demonized | If you install: Arrival - Anomalies
 
 **Enable the following**:
