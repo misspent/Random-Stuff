@@ -61,6 +61,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - NPC loot claim
 - Disable both already installed Free zoom mods | If you install: Free zoom - revisited
 - 234- Dynamic Anomalies Overhaul - Demonized | If you install: Arrival - Anomalies
+- 290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot | If you install Atmospherics
 
 **Enable the following**:
 
@@ -164,6 +165,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - `Reworked status icons (alt) - v1.5 - AlphaLion` (From GAMMA Discord) ❌
 
 **Heavier Textures - idk**
+- [Aydins Grass Tweaks SSS Terrain LOD compatibility](https://www.moddb.com/mods/stalker-anomaly/addons/aydins-grass-tweaks-sss-terrain-lod-compatiblity) (Not sure if necessary? - Not needed with A.D.E.G.A?) ⛔
 - [Corrections of Brightly Colored Trees and Bushes (up 2.0)](https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes) ✅
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem) ✅
 - [RE:PACK GLASS AND WINDOWS 1.5](https://www.moddb.com/mods/stalker-anomaly/addons/repack-glass-and-windows-14) ✅
