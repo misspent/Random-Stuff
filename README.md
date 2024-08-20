@@ -9,6 +9,7 @@
 ### **📌 Stalker G.A.M.M.A Information - [Join Discord server](https://discord.gg/stalker-gamma)**  
 
 **⚙️ Go into GAMMA Discord channel bot-commands and type**:  
+`!update` - How to update  
 `!fps` - Get an FPS counter  
 `!reshade` - Get reshade back  
 `!dof` - Disable Depth of Filed  
@@ -19,11 +20,12 @@
 `!minimap` - Change minimap style/position  
 `!shit` - All spreadsheet links in one message  
 `!basic` - All types of ways to get basic tool kit  
+`!v6` - Update G.A.M.M.A Launcher to its most recent version  
 `!tools` - Chart of drop chance based on area and tier of tools  
 `!whatthegundoin` - Shows you what each stats / upgrade means?  
 `!backup` - Backup of your keybinds, settings and Mod Organizer profile  
-`!factions` - To unlock every faction from the beginning, you can type `greh`/`renegades`/`isg`/`z`
-`!dxvk` - Optimize the game with up-to-date dll files, etc... More testing required so this is TEMP (I'm on v2.3) | Do `!k98` to undo?
+`!factions` - To unlock every faction from the beginning, you can type `greh`/`renegades`/`isg`/`z`  
+`!dxvk` - Optimize the game with up-to-date dll files, etc... More testing required so this is TEMP (I'm on v2.3) | Do `!k98` to undo?  
 
 Tips & Tricks Playlist: https://www.youtube.com/watch?v=81IXxI2OI9w&list=PL_OIXNKBvhGAZliyCRMHD6cTHkD-bZX9c  
 
