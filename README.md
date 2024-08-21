@@ -80,9 +80,10 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 ❌ = Disabled  
 ⛔ = Switch between it on/off/new playthrough  
 
-**Other Categories / Bulk stuff**  
+**Other Categories / Bulk stuff / Noted**  
 -  `Ultimate GAMMA Gun Pack` - From GAMMA discord. Drag drop all folders into `G.A.M.M.A\mods` folder ✅
 -  [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) ✅
+-  [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) (I only used the Performance Alife.ltx & edited myself) ❌
 
 **G.A.M.M.A Fixes**
 - Disable: `G.A.M.M.A. Free Zoom v3` ✅
@@ -169,9 +170,10 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 **Heavier Textures - idk**
 - [Aydins Grass Tweaks SSS Terrain LOD compatibility](https://www.moddb.com/mods/stalker-anomaly/addons/aydins-grass-tweaks-sss-terrain-lod-compatiblity) (Not sure if necessary? - Not needed with A.D.E.G.A?) ⛔
 - [Corrections of Brightly Colored Trees and Bushes (up 2.0)](https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes) ✅
+- `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From GAMMA Discord / [here - 21/08/2024](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2)) ⛔
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem) ✅
 - [RE:PACK GLASS AND WINDOWS 1.5](https://www.moddb.com/mods/stalker-anomaly/addons/repack-glass-and-windows-14) ✅
-- [Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78) - Use the skies from this / from A.D.E.G.A (place the sky textures below this if you want them) ✅
+- [Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78) - Use the skies from this / from [A.D.E.G.A](https://www.mediafire.com/file/a5ijdglduul6ap4/Optional_Upscaled_Sky_Textures.7z/file) (place the sky textures below this if you want them) ✅
 - [DLTX T.H.A.P. Rework 2.3](https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework) ✅
 - [RE:PACK PSEUDOGIANT 1.7](https://www.moddb.com/mods/stalker-anomaly/addons/repack-pseudogiant-1-7) ✅
 - [RE:PACK Barbed Wire 1.1](https://www.moddb.com/mods/stalker-anomaly/addons/repack-barbed-wire-1-0) ✅
@@ -220,6 +222,7 @@ https://www.moddb.com/mods/stalker-anomaly/addons/ascendantcrosshairs
 https://www.moddb.com/mods/stalker-anomaly/addons/free-zoom-revisited
 https://www.moddb.com/mods/stalker-anomaly/addons/companions-dont-die
 https://www.moddb.com/mods/stalker-anomaly/addons/dynahud-hud-manager
+https://www.moddb.com/mods/stalker-anomaly/addons/zone-passive-income
 https://www.moddb.com/mods/stalker-anomaly/addons/experience-framework
 https://www.moddb.com/mods/stalker-anomaly/addons/disassemble-all-items
 https://www.moddb.com/mods/stalker-anomaly/addons/backpacks-of-the-zone
