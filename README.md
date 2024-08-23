@@ -52,6 +52,7 @@ Keep backups of `Anomaly/appdata/user.ltx`, `G.A.M.M.A. MCM values` & `G.A.M.M.A
 
 This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 
+> I've not encountered anything strange, irritating, or buggy with all these mods so far; if I do, then I'll more than likely test and find the issue, but for now it's good to go (imo). Fingers crossed, aye?
 
 ---
 
@@ -61,6 +62,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 **Disable the following**:  
 
 - NPC loot claim
+- G.A.M.M.A. Not so instant tooltip
 - Disable both already installed Free zoom mods | If you install: Free zoom - revisited
 - 234- Dynamic Anomalies Overhaul - Demonized | If you install: Arrival - Anomalies
 - 290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot | If you install Atmospherics
@@ -69,8 +71,10 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 
 - New Item Highlight
 - Body Dots on Minimap
+- Demonized Death Animations | Testing this atm
 - Optional Modern UI font | Disable Tactical Fonts
 - 340- Black Market (Buyable Gear) - SalamanderAnder & nox
+- 218- Quick Companion Teleport (teleports rescue mission targets) - RazorShultz
 
 ---
 
@@ -178,16 +182,24 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [RE:PACK PSEUDOGIANT 1.7](https://www.moddb.com/mods/stalker-anomaly/addons/repack-pseudogiant-1-7) ✅
 - [RE:PACK Barbed Wire 1.1](https://www.moddb.com/mods/stalker-anomaly/addons/repack-barbed-wire-1-0) ✅
 - [RE:PACK Doors 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-doors-10) ✅
+- [RE:PACK SIGNS 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-signs-10) ✅
 - [Vehicles Redux V1.3 2024 | NEW TEXTURES (No upscale)](https://www.moddb.com/mods/stalker-anomaly/addons/vehicles-redux-v11-2024-new-textures-no-upscale) ✅
 - [Arrival - Anomalies](https://www.moddb.com/mods/stalker-anomaly/addons/arrival-anomalies) ✅
+
+<details>
+  <summary align="center">📷 Mods I have enabled + load order (I left out G.A.M.M.A Fixes; refer to above for that order) | May become outdated</summary>
+  <br>
+
+![22/08/2024 - 14:46](<My Mods - Stalker GAMMA.png>)
+
+</details>
+
 
 
 #### 💡 Partial automation
 1. Use [JDownloader 2](https://jdownloader.org/jdownloader2) 
 2. Copy & paste all **automatic** links from the dropdown below into it, and it'll auto-download the zips. | Make it not extract the files (maybe?)
 3. The ones under **manual** you'll have to do yourself; some are missing as you can only get them from [GAMMA Discord server](https://discord.gg/stalker-gamma) (refer to above for the names).
-
-> Might turn the format below to the *https://www.moddb.com/addons/start/xxx* download alternatives, so all you have to do is click the links and BOOM, it'll start to download the mod... We shall see.
 
 
 <details>
@@ -214,6 +226,7 @@ https://drive.google.com/file/d/1mrSLkKga9e43hqshQaweM58a1aFE5eEo
 https://www.moddb.com/mods/stalker-anomaly/addons/mcm-key-wrapper
 https://www.moddb.com/mods/stalker-anomaly/addons/battery-recycle
 https://www.moddb.com/mods/stalker-anomaly/addons/repack-doors-10
+https://www.moddb.com/mods/stalker-anomaly/addons/repack-signs-10
 https://www.moddb.com/mods/stalker-anomaly/addons/usable-bar-doors
 https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection
 https://www.moddb.com/mods/stalker-anomaly/addons/base-skills-pack
@@ -262,6 +275,7 @@ https://www.moddb.com/mods/stalker-anomaly/addons/oaco-octavias-anomaly-cooking-
 https://www.moddb.com/mods/stalker-anomaly/addons/dltx-better-caffeine-tablets-for-anomaly-152
 https://www.moddb.com/mods/stalker-anomaly/addons/dltx-machine-pistols-sawn-off-in-sidearm-slot
 https://www.moddb.com/mods/stalker-anomaly/addons/vehicles-redux-v11-2024-new-textures-no-upscale
+https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes
 https://www.moddb.com/mods/stalker-anomaly/addons/heatvision-v02-extension-for-beefs-nvg-dx11engine-mod
 https://www.moddb.com/mods/stalker-anomaly/addons/carry-weight-slider-up-to-10000kg-take-all-x-button-152
 ```
@@ -302,28 +316,33 @@ SR-2M Veresk
 ---
 
 ### 📝 Information
-  
+
+- Guns with broken barrels are unusable
 - Buy wood from a trader (cheap AF) = infinite wood parts.  
 - All the ammo you can buy from butchers is very sustainable.  
 - I mostly use Scar for healing; the effects are interesting as well.  
 - It's recommended to use your mules to stash radioactive artifacts. Hehe.  
+- Shooting boars head while they are the most resistant part (shoot the sides)
 - A tip for repairing armor: don't buy glue for repairs. Buy basic sewing kits.  
 - Carry little alcohol and favor cigarettes for curing radiation. They weigh less.  
-- Miracle Machine: Take lots of buckshot or slugs and a couple grenades. psy res like joints.  
-- Vadulin is best kept for head and torso healing, and Ibuprofen is best kept for arms and legs.  
 - If an emission starts, consume 1 antibiotic to skip the emission (it makes you blackout).  
--You can strike those white & blue boxes, as well as wooden crates, for a chance for some loot.  
-- You can place a pistol in your top left slot (where binoculars could go), so you can have three guns.  
+- Miracle Machine: Take lots of buckshot or slugs and a couple grenades. psy res like joints.  
+- You can strike those white & blue boxes, as well as wooden crates, for a chance for some loot.  
+- Vadulin is best kept for head and torso healing, and Ibuprofen is best kept for arms and legs.  
 - You need crafting kits for each gun to swap out the parts (handgun kit, rifle kit, armor kit, etc.).  
+- You can place a pistol in your top left slot (where binoculars could go), so you can have three guns.  
+- Pills can give you some dizziness. Horrible when you have a precision weapon. It can be countered by taking caffeine pills.  
 - For the mil spec, notice you can buy a compression bag for dirt cheap at any general trader; it'll give you 1 mil and 1 dura.  
 - You can place any gear in any per-existing stash, and it'll save. You can use any backpack and create your own stash anywhere.  
-- Pills can give you some dizziness. Horrible when you have a precision weapon. It can be countered by taking caffeine pills.  
 - Iron sights are very much better than hip shooting. To the point where hip shooting is only useful against really close mutants, at best.  
-- You'll want to craft or buy an anomaly detector (it's like a white tricorder from Star Trek). That will beep when you get close to anomalies. You'll thank me later!  
 - Ammunition is not the only factor causing damage. A certain gun might have marginally better damage, though not a huge amount and certainly not in the early game.  
+- You'll want to craft or buy an anomaly detector (it's like a white tricorder from Star Trek). That will beep when you get close to anomalies. You'll thank me later!  
+- With experience mod "Insanity"; you can farm the points at the Agroprom electricity building, keep going in and out of the building (without dying), and boom sorted.
+- Do not open packages you have in your inventory without pre-saving : you didn't notice but it was for a mission and you lost rep with that faction when you opened it.  
 - The same goes for artifact detectors. There are tiers, and the higher ones give better location information on the artifacts. VERY much easier once you get the better ones.  
-- You can ask random people to just join you for free and forever; just talk to them and see if the option is available. Use them as mules! The best way to increase your carry capacity in the early game  
+- AFAIK, the three stats will start to hurt you when they are low. 2 bars is definitely low. Hit enter and see if more info shows up, including low on food/water/sleep indicators.
 - When crafting, durability isn't always taken into consideration. So even a 0% armor part can be used to craft better backpacks, for example. Break them all down until you don't need them.  
+- You can ask random people to just join you for free and forever; just talk to them and see if the option is available. Use them as mules! The best way to increase your carry capacity in the early game  
 - After you kill a bunch of stalkers, save the game before checking their inventories. Weapon quality is random but locked once you open their inventory. So you can save scum from your kills until you get the gun you want with a 60% barrel.  
 - For good healing without the use of caffeine tablets, try antidotes and ibuprofen. Ibuprofen targets the arms and legs, and the antidote targets the torso and head. Neither of these medications causes dizziness, and you can get them very early in the game.  
 - Then, you require a bunch of maintenance parts (oils and such) that work at different levels of disrepair: 30%+, 40%+, 60%+, etc. The lower the percent they can repair, the more expensive they are. It is much better to keep maintaining your gear regularly for high durability.  
@@ -331,8 +350,15 @@ SR-2M Veresk
 - Exos become incredibly easy to maintain if you max rep with Ecologists and get the recipe for the PSU that reduces power consumption by 80% (3 different versions, all are OP). Full sprint for hours, and it will barely drain. You get a cool ability depending on which PSU recipe you get.  
 - You'll want to keep parts that are over 60% durable. Over 60% means it can be cleaned and repaired up to 100% relatively cheaply. Between 10 and 59% is doable, but very expensive. Only doable in a situation where you really need that part and can't buy it. Under 10% is never repairable.  
 - Artifacts and certain items can be equipped in the belt slots on your armor. Different armor has different slots and can be improved with kits or at traders. Artifacts are of little consequence early in the game, but grab everything you can, and eventually you'll be able to merge them together to improve their effectiveness up to 100% and then craft them into higher tiers of artifacts.  
-- Do not open packages you have in your inventory without pre-saving : you didn't notice but it was for a mission and you lost rep with that faction when you opened it.  
-- AFAIK, the three stats will start to hurt you when they are low. 2 bars is definitely low. Hit enter and see if more info shows up, including low on food/water/sleep indicators.
+
+### 🔫 Top 5 recommended pistols:
+- **FN Five-seveN**: absolute S tier handgun when it comes to dealing with armor
+- **Steppe Eagle**: a Deagle with a scope, OP against Sin
+- **Korth Custom 6**: the best .45 ACP handgun available
+- **Coonan Magnum Compact**: .357 caliber with a good rate of fire and silencer affinity
+- **Glock 19 Hornet**: arguably the best starting pistol, extended mag and stupid high rate of fire, crazy accurate
+
+From: [RFM](https://www.youtube.com/@rfm_/videos)
 
 ---
 
