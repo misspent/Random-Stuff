@@ -63,16 +63,17 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 
 - NPC loot claim
 - G.A.M.M.A. Not so instant tooltip
-- Disable both already installed Free zoom mods | If you install: Free zoom - revisited
-- 234- Dynamic Anomalies Overhaul - Demonized | If you install: Arrival - Anomalies
-- 290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot | If you install Atmospherics
+- G.A.M.M.A. Press Key to Drop Item | If you use: `Drop and Disassemble Hotkey`
+- Disable both already installed Free zoom mods | If you use: `Free zoom - revisited`
+- 234- Dynamic Anomalies Overhaul - Demonized | If you use: `Arrival - Anomalies`
+- 290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot | If you use: `Atmospherics`
 
 **Enable the following**:
 
 - New Item Highlight
 - Body Dots on Minimap
 - Demonized Death Animations | Testing this atm
-- Optional Modern UI font | Disable Tactical Fonts
+- Optional Modern UI font | Disable `Tactical Fonts`
 - 340- Black Market (Buyable Gear) - SalamanderAnder & nox
 - 218- Quick Companion Teleport (teleports rescue mission targets) - RazorShultz
 
@@ -88,6 +89,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 -  `Ultimate GAMMA Gun Pack` - From G.A.M.M.A discord. Drag drop all folders into `G.A.M.M.A\mods` folder ✅
 -  [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) ✅
 -  [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) (I only used the Performance Alife.ltx & edited myself) ❌
+-  [G.A.M.M.A. Reticles Revisited](https://www.moddb.com/mods/stalker-anomaly/addons/red-eotech-reticle-for-gamma-that-doesnt-washout-when-using-nvgs) (Possibly fixes washed out NVG (nightvision) reticles?) ❌
 -  [Juan's Weapon Delivery Service](https://drive.google.com/drive/folders/1_AMbGEbJDT8zioOTtNcEY62SmyMEilqI) & [Image previews](https://imgur.com/a/juans-weapon-delivery-service-showcase-pictures-UQKgPwS) (from G.A.M.M.A discord server | Already in UGP) ❌
 
 **G.A.M.M.A Fixes**
@@ -99,6 +101,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 
 **Important or Utility**
 - [Anomaly Popup Messages (APM) (UPDATE 2)](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-popup-messages-apm) ✅
+- [Drop and Disassemble Hotkey](https://www.moddb.com/mods/stalker-anomaly/addons/drop-and-disassemble-hotkey) ✅
 - [Cozy Campfires](https://www.moddb.com/mods/stalker-anomaly/addons/cozy-campfires) ✅
 - [Device Selector Key](https://www.moddb.com/mods/stalker-anomaly/addons/mcm-required-device-selector-key) ✅
 - [ULTIMATE AUTOSAVE V2.0](https://www.moddb.com/mods/stalker-anomaly/addons/ultimate-autosave) ✅
