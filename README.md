@@ -85,9 +85,10 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 ⛔ = Switch between it on/off/new playthrough  
 
 **Other Categories / Bulk stuff / Noted**  
--  `Ultimate GAMMA Gun Pack` - From GAMMA discord. Drag drop all folders into `G.A.M.M.A\mods` folder ✅
+-  `Ultimate GAMMA Gun Pack` - From G.A.M.M.A discord. Drag drop all folders into `G.A.M.M.A\mods` folder ✅
 -  [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) ✅
 -  [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) (I only used the Performance Alife.ltx & edited myself) ❌
+-  [Juan's Weapon Delivery Service](https://drive.google.com/drive/folders/1_AMbGEbJDT8zioOTtNcEY62SmyMEilqI) & [Image previews](https://imgur.com/a/juans-weapon-delivery-service-showcase-pictures-UQKgPwS) (from G.A.M.M.A discord server | Already in UGP) ❌
 
 **G.A.M.M.A Fixes**
 - Disable: `G.A.M.M.A. Free Zoom v3` ✅
@@ -100,9 +101,11 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [Anomaly Popup Messages (APM) (UPDATE 2)](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-popup-messages-apm) ✅
 - [Cozy Campfires](https://www.moddb.com/mods/stalker-anomaly/addons/cozy-campfires) ✅
 - [Device Selector Key](https://www.moddb.com/mods/stalker-anomaly/addons/mcm-required-device-selector-key) ✅
+- [ULTIMATE AUTOSAVE V2.0](https://www.moddb.com/mods/stalker-anomaly/addons/ultimate-autosave) ✅
 - [MCM Key Wrapper (Anomaly 1.5.1/1.5.2)](https://www.moddb.com/mods/stalker-anomaly/addons/mcm-key-wrapper) ✅
 - [QuickSlotsPlus](https://www.moddb.com/mods/stalker-anomaly/addons/quickslotsplus) ✅
-- [Inventory Icons Resizer](https://drive.google.com/file/d/1mrSLkKga9e43hqshQaweM58a1aFE5eEo/view) (From GAMMA discord) ❌
+- [Inventory Icons Resizer](https://drive.google.com/file/d/1mrSLkKga9e43hqshQaweM58a1aFE5eEo/view) (From G.A.M.M.A discord) ❌
+- [New Tasks Addon](https://github.com/lTheon/iTheon-New-Tasks-Addon) ✅
 - [HideTooltip](https://www.moddb.com/mods/stalker-anomaly/addons/hidetooltip) ✅
 - [Milspec PDA 1.11.1 with Kill Tracker](https://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma) ✅
 - [Background Colors Highlight](https://www.moddb.com/mods/stalker-anomaly/addons/background-color-highlight) (Use my file edit) ✅
@@ -116,12 +119,12 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [OACO Octavia's Anomaly Cooking Overhaul v2.0.4](https://www.moddb.com/mods/stalker-anomaly/addons/oaco-octavias-anomaly-cooking-overhaul-v204) ✅
 - [Better Caffeine Tablets for Anomaly](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-better-caffeine-tablets-for-anomaly-152) ✅
 - [Carry weight slider up to 10000kg](https://www.moddb.com/mods/stalker-anomaly/addons/carry-weight-slider-up-to-10000kg-take-all-x-button-152) ✅
-- `Mechanic Upgrades Re-Enabled` (From GAMMA Discord) ❌
-- `Drunks Starting Loadouts v7` (From GAMMA Discord) ✅
-- `No Silencer Stats - veerserif` (From GAMMA Discord) ✅
+- `Mechanic Upgrades Re-Enabled` (From G.A.M.M.A Discord) ❌
+- `Drunks Starting Loadouts v7` (From G.A.M.M.A Discord) ✅
+- `No Silencer Stats - veerserif` (From G.A.M.M.A Discord) ✅
 - [Weightless Ammo](https://www.moddb.com/mods/stalker-anomaly/addons/weightless-ammo-gamma-compatible) ✅
 - [7em1's repair kit rework](https://www.moddb.com/mods/stalker-anomaly/addons/7em1s-repair-kit-rework) ❌
-- [Full Upgrades](https://github.com/themrdemonized/DLTX-MiniMod-Pack-STALKER-Anomaly/tree/master/Full_upgrades_DLTX) (Get from here/GAMMA discord) ❌
+- [Full Upgrades](https://github.com/themrdemonized/DLTX-MiniMod-Pack-STALKER-Anomaly/tree/master/Full_upgrades_DLTX) (Get from here/G.A.M.M.A discord) ❌
 - [Free zoom revisited](https://www.moddb.com/mods/stalker-anomaly/addons/free-zoom-revisited) ✅
 
 **Quality of Life**
@@ -136,7 +139,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [Stamina regeneration when Walking](https://www.moddb.com/mods/stalker-anomaly/addons/stamina-regeneration-when-walking) ✅
 - `[MCM] Accurate stats` (From GAMMA Discord) ✅
 - [Detailed description 0.32](https://www.moddb.com/mods/stalker-anomaly/addons/detailed-description-01) ✅
-- `New descr v0.32 - accurate GAMMA sleep + dizziness + final percentages - G_FLAT` (From GAMMA Discord) ✅
+- `New descr v0.32 - accurate GAMMA sleep + dizziness + final percentages - G_FLAT` (From G.A.M.M.A Discord) ✅
 
 **Other**
 - [Machine Pistols & Sawn Off in Sidearm Slot V1.1](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-machine-pistols-sawn-off-in-sidearm-slot) ✅
@@ -169,12 +172,12 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [UI Rework G.A.M.M.A . Style by Sota](https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota) - Use my edited one of this ✅
 - Re-install: `Modular Compass Minimap - lifestorock` and move the minimap to the top-right. ✅
 - [Dynahud Hud Manager](https://www.moddb.com/mods/stalker-anomaly/addons/dynahud-hud-manager) ❌
-- `Reworked status icons (alt) - v1.5 - AlphaLion` (From GAMMA Discord) ❌
+- `Reworked status icons (alt) - v1.5 - AlphaLion` (From G.A.M.M.A Discord) ❌
 
 **Heavier Textures - idk**
 - [Aydins Grass Tweaks SSS Terrain LOD compatibility](https://www.moddb.com/mods/stalker-anomaly/addons/aydins-grass-tweaks-sss-terrain-lod-compatiblity) (Not sure if necessary? - Not needed with A.D.E.G.A?) ⛔
 - [Corrections of Brightly Colored Trees and Bushes (up 2.0)](https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes) ✅
-- `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From GAMMA Discord / [here - 21/08/2024](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2)) ⛔
+- `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From G.A.M.M.A Discord / [here - 21/08/2024](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2)) ⛔
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem) ✅
 - [RE:PACK GLASS AND WINDOWS 1.5](https://www.moddb.com/mods/stalker-anomaly/addons/repack-glass-and-windows-14) ✅
 - [Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78) - Use the skies from this / from [A.D.E.G.A](https://www.mediafire.com/file/a5ijdglduul6ap4/Optional_Upscaled_Sky_Textures.7z/file) (place the sky textures below this if you want them) ✅
@@ -210,6 +213,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 ```yaml
 
 Manual:
+https://github.com/lTheon/iTheon-New-Tasks-Addon
 https://github.com/ilrathCXV/Campfire-Limb-Healing
 https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
 https://github.com/themrdemonized/DLTX-MiniMod-Pack-STALKER-Anomaly/tree/master/Full_upgrades_DLTX
