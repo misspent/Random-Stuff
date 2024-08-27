@@ -63,6 +63,8 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 
 - NPC loot claim
 - G.A.M.M.A. Not so instant tooltip
+- G.A.M.M.A. Weathers | If you use: `Atmospherics GAMMA`
+- 282- GAMMA Loading Screens - CS Eden | If you use: `Atmospheric Loading Screen`
 - G.A.M.M.A. Press Key to Drop Item | If you use: `Drop and Disassemble Hotkey`
 - Disable both already installed Free zoom mods | If you use: `Free zoom - revisited`
 - 234- Dynamic Anomalies Overhaul - Demonized | If you use: `Arrival - Anomalies`
@@ -185,13 +187,14 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [Corrections of Brightly Colored Trees and Bushes (up 2.0)](https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes) ✅
 - `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From G.A.M.M.A Discord / [here - 21/08/2024](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2)) ⛔
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem) ✅
-- [RE:PACK GLASS AND WINDOWS 1.5](https://www.moddb.com/mods/stalker-anomaly/addons/repack-glass-and-windows-14) ✅
 - [Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78) - Use the skies from this / from [A.D.E.G.A](https://www.mediafire.com/file/a5ijdglduul6ap4/Optional_Upscaled_Sky_Textures.7z/file) (place the sky textures below this if you want them) ✅
+- [RE:PACK GLASS AND WINDOWS 1.5](https://www.moddb.com/mods/stalker-anomaly/addons/repack-glass-and-windows-14) ✅
 - [DLTX T.H.A.P. Rework 2.3](https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework) ✅
 - [RE:PACK PSEUDOGIANT 1.7](https://www.moddb.com/mods/stalker-anomaly/addons/repack-pseudogiant-1-7) ✅
 - [RE:PACK Barbed Wire 1.1](https://www.moddb.com/mods/stalker-anomaly/addons/repack-barbed-wire-1-0) ✅
 - [RE:PACK Doors 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-doors-10) ✅
 - [RE:PACK SIGNS 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-signs-10) ✅
+- [RE:PACK CROW 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-crow-10) ✅
 - [Vehicles Redux V1.3 2024 | NEW TEXTURES (No upscale)](https://www.moddb.com/mods/stalker-anomaly/addons/vehicles-redux-v11-2024-new-textures-no-upscale) ✅
 - [Arrival - Anomalies](https://www.moddb.com/mods/stalker-anomaly/addons/arrival-anomalies) ✅
 
