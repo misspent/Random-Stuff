@@ -40,6 +40,7 @@ Tips & Tricks Playlist: https://www.youtube.com/watch?v=81IXxI2OI9w&list=PL_OIXN
 - [Storyline Progression Guides](<https://docs.google.com/spreadsheets/d/1ltWH1CUjjv7KG2lzS0HY4YtQqs7nsW82CilzAULjJdw/edit?usp=sharing>)
 - [RF packages spawning points](<https://docs.google.com/spreadsheets/d/1mDAAm9izEtoeDRsKjsYpL0hSbcjWz-AgdIg0DSogPeM/edit?gid=0#gid=0>)
 - [Stash Tier chance by Location](https://docs.google.com/spreadsheets/d/1YJUwO5sAnzh3UFWZJS82oz6_QTkmcnBBJDpFnG_XIro)  
+- [G.A.M.M.A. RF Package Locations](<https://docs.google.com/spreadsheets/d/1mDAAm9izEtoeDRsKjsYpL0hSbcjWz-AgdIg0DSogPeM>)
 - [UPDATED GAMMA Weapon Database](<https://drive.google.com/file/d/1mNqIq0TgHX0CaIpUZ4e5MgMIKoIHlhTs/view?usp=sharing>)
 - [Zone Handbook (contains a lot of good guides)](https://docs.google.com/spreadsheets/d/17ZLrcwv-5aFjusQ6yKdHrBkq0fiPRBCvdCnzrvpz-Y0)
 - [Weapons + Armours + Mutants + Artifacts + Food + Drinks + Medicines + etc.](<https://docs.google.com/spreadsheets/d/1OWE25Go9kSao5-IDOS4ZWkBtLfyEF_hPLJz7QQR2lqY/edit#gid=302497032>)
@@ -152,7 +153,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [Dialogue Expanded Expanded v5](https://www.moddb.com/mods/stalker-anomaly/addons/dialogue-expanded-expanded-152-eng) ✅
 - [Realistic Durability Drops V1.5.X](https://www.moddb.com/mods/stalker-anomaly/addons/realistic-durability-drops-v15x) - Partial support (only works on armors?) ✅
 - [Interactive PDA 1.64](https://www.moddb.com/mods/stalker-anomaly/addons/interactive-pda-01) ✅
-- [Prefer Best Disassembly Tool](https://www.moddb.com/mods/stalker-anomaly/addons/prefer-best-disassembly-tool) ✅
+- ~~[Prefer Best Disassembly Tool](https://www.moddb.com/mods/stalker-anomaly/addons/prefer-best-disassembly-tool)~~
 - [More meat from mutants](https://www.moddb.com/mods/stalker-anomaly/addons/more-meat-from-mutants) ✅
 - [Backpacks of the Zone](https://www.moddb.com/mods/stalker-anomaly/addons/backpacks-of-the-zone) ✅
 - [Invictus Protect (Anomaly 1.5.1/1.5.2)](https://www.moddb.com/mods/stalker-anomaly/addons/invictus-protect-rc1819) ❌
@@ -160,6 +161,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 **True Game changer**
 - [RE:DONE Collection v2.3.4 VOL.1](https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection) ❌
 - [RE:DONE Collection 1.1.2 Vol.2](https://www.moddb.com/mods/stalker-anomaly/addons/redone-collection-vol-2) ❌
+- [Gifts From Companions v0.6.4](https://www.moddb.com/mods/stalker-anomaly/addons/gifts-from-companions-addon/page/2#comments) ⛔
 - [Zone Passive Income v0.5.4](https://www.moddb.com/mods/stalker-anomaly/addons/zone-passive-income) ⛔
 - [Experience Framework v2.1-U2](https://www.moddb.com/mods/stalker-anomaly/addons/experience-framework) ✅
 - [Base Skills Pack v1.2.2](https://www.moddb.com/mods/stalker-anomaly/addons/base-skills-pack) ✅
@@ -187,9 +189,10 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [Corrections of Brightly Colored Trees and Bushes (up 2.0)](https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes) ✅
 - `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From G.A.M.M.A Discord / [here - 21/08/2024](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2)) ⛔
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem) ✅
-- [Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78) - Use the skies from this / from [A.D.E.G.A](https://www.mediafire.com/file/a5ijdglduul6ap4/Optional_Upscaled_Sky_Textures.7z/file) (place the sky textures below this if you want them) ✅
+- ~~[Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78)~~
+- [A.D.E.G.A - Optional Upscaled Sky Textures](https://www.mediafire.com/file/a5ijdglduul6ap4/Optional_Upscaled_Sky_Textures.7z) (place the sky textures below this if you want them) ✅
 - [RE:PACK GLASS AND WINDOWS 1.5](https://www.moddb.com/mods/stalker-anomaly/addons/repack-glass-and-windows-14) ✅
-- [DLTX T.H.A.P. Rework 2.3](https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework) ✅
+- ~~[DLTX T.H.A.P. Rework 2.3](https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework)~~
 - [RE:PACK PSEUDOGIANT 1.7](https://www.moddb.com/mods/stalker-anomaly/addons/repack-pseudogiant-1-7) ✅
 - [RE:PACK Barbed Wire 1.1](https://www.moddb.com/mods/stalker-anomaly/addons/repack-barbed-wire-1-0) ✅
 - [RE:PACK Doors 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-doors-10) ✅
