@@ -62,7 +62,7 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 
 **Disable the following**:  
 
-- NPC loot claim
+- G.A.M.M.A. NPC Loot Claim Remade & NPC loot claim
 - G.A.M.M.A. Not so instant tooltip
 - G.A.M.M.A. Weathers | If you use: `Atmospherics GAMMA`
 - 282- GAMMA Loading Screens - CS Eden | If you use: `Atmospheric Loading Screen`
@@ -89,11 +89,12 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 ⛔ = Switch between it on/off/new playthrough  
 
 **Other Categories / Bulk stuff / Noted**  
--  `Ultimate GAMMA Gun Pack` - From G.A.M.M.A discord. Drag drop all folders into `G.A.M.M.A\mods` folder ✅
--  [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) ✅
--  [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) (I only used the Performance Alife.ltx & edited myself) ❌
--  [G.A.M.M.A. Reticles Revisited](https://www.moddb.com/mods/stalker-anomaly/addons/red-eotech-reticle-for-gamma-that-doesnt-washout-when-using-nvgs) (Possibly fixes washed out NVG (nightvision) reticles? | Only use for EoTech ) ✅
--  [Juan's Weapon Delivery Service](https://drive.google.com/drive/folders/1_AMbGEbJDT8zioOTtNcEY62SmyMEilqI) & [Image previews](https://imgur.com/a/juans-weapon-delivery-service-showcase-pictures-UQKgPwS) (from G.A.M.M.A discord server | Already in UGP) ❌
+- [Frosty Weapon Pack](https://youtu.be/0mAgUuvs1FY) (from G.A.M.M.A Discord - This is a YT link tutorial) ❌
+- [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) ✅
+- [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) (I only used the Performance Alife.ltx & tweaked file myself) ❌
+- [G.A.M.M.A. Reticles Revisited](https://www.moddb.com/mods/stalker-anomaly/addons/red-eotech-reticle-for-gamma-that-doesnt-washout-when-using-nvgs) (Possibly fixes washed out NVG (nightvision) reticles? | Only use for EoTech ) ✅
+- ~~[Juan's Weapon Delivery Service](https://drive.google.com/drive/folders/1_AMbGEbJDT8zioOTtNcEY62SmyMEilqI) & [Image previews](https://imgur.com/a/juans-weapon-delivery-service-showcase-pictures-UQKgPwS)~~ (from G.A.M.M.A discord server | Already in UGP) ❌
+- [Background Colors Highlight](https://www.moddb.com/mods/stalker-anomaly/addons/background-color-highlight) (Place this above: `110- SortingPlus - RavenAscendant` | Use my file edit) ✅
 
 **G.A.M.M.A Fixes**
 - Disable: `G.A.M.M.A. Free Zoom v3` ✅
@@ -114,7 +115,6 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - [New Tasks Addon](https://github.com/lTheon/iTheon-New-Tasks-Addon) ✅
 - [HideTooltip](https://www.moddb.com/mods/stalker-anomaly/addons/hidetooltip) ✅
 - [Milspec PDA 1.11.1 with Kill Tracker](https://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma) ✅
-- [Background Colors Highlight](https://www.moddb.com/mods/stalker-anomaly/addons/background-color-highlight) (Use my file edit) ✅
 - [Autocomplete Tasks v2.1.4](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-unofficial-autocomplete-v4) ✅
 - [Extra Level Transitions (UPDATE 4)](https://www.moddb.com/mods/stalker-anomaly/addons/extra-cordon-darkscape-transition) (Added more to file from the comments of the mod) ✅
 - [Campfire Limb Healing](https://github.com/ilrathCXV/Campfire-Limb-Healing) ✅
@@ -185,9 +185,9 @@ This is how `skilldex` from Gamma discord server does it (he has ultra wide)
 - `Reworked status icons (alt) - v1.5 - AlphaLion` (From G.A.M.M.A Discord) ❌
 
 **Heavier Textures - idk**
+- `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From G.A.M.M.A Discord / [here](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2) - 21/08/2024]) ⛔
 - [Aydins Grass Tweaks SSS Terrain LOD compatibility](https://www.moddb.com/mods/stalker-anomaly/addons/aydins-grass-tweaks-sss-terrain-lod-compatiblity) (Not sure if necessary? - Not needed with A.D.E.G.A?) ⛔
 - [Corrections of Brightly Colored Trees and Bushes (up 2.0)](https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes) ✅
-- `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From G.A.M.M.A Discord / [here - 21/08/2024](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2)) ⛔
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem) ✅
 - ~~[Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78)~~
 - [A.D.E.G.A - Optional Upscaled Sky Textures](https://www.mediafire.com/file/a5ijdglduul6ap4/Optional_Upscaled_Sky_Textures.7z) (place the sky textures below this if you want them) ✅
