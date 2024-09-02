@@ -16,7 +16,7 @@ bind up kUP
 bind down kDOWN
 bind jump kSPACE
 bind crouch mouse5
-bind accel kSCROLL
+bind accel kAX
 bind sprint_toggle kLSHIFT
 bind forward kW
 bind back kS
@@ -24,6 +24,8 @@ bind lstrafe kA
 bind rstrafe kD
 bind llookout kC
 bind rlookout kV
+bind cam_1 kUNLABELED
+bind cam_3 kF14
 bind cam_zoom_in kT
 bind cam_zoom_out kRBRACKET
 bind night_vision kN
@@ -37,8 +39,9 @@ bind wpn_fire mouse1
 bind wpn_zoom mouse2
 bind wpn_zoom_dec kKANJI
 bind wpn_reload kF10
+bind wpn_func kSCROLL
 bind wpn_firemode_prev k9
-bind wpn_firemode_next kF14
+bind wpn_firemode_next kNOCONVERT
 bind pause kPAUSE
 bind use kE
 bind screenshot kF12
@@ -72,7 +75,7 @@ cam_slide_inert 0.25
 cl_cod_pickup_mode on
 cl_dynamiccrosshair on
 con_sensitive 0.15
-crash_save 1
+crash_save 0
 crash_save_count 2
 discord_status off
 discord_update_rate 0.5
@@ -97,17 +100,21 @@ g_dead_body_collision actor_only
 g_dispersion_base 1.7
 g_dispersion_factor 1.7
 g_dynamic_music off
+g_end_modif 0.
 g_feel_grenade on
+g_firepos off
 g_freelook_toggle off
 g_game_difficulty gd_veteran
+g_god off
 g_hit_pwr_modif 1.
-g_important_save on
+g_important_save off
 g_ironsights_zoom_factor 1.
 g_lookout_toggle off
 g_multi_item_pickup on
 g_simple_pda on
-g_sleep_time 3
+g_sleep_time 10
 g_sprint_toggle on
+g_unlimitedammo off
 g_use_tracers on
 g_walk_toggle on
 head_bob_factor 1.
@@ -126,6 +133,7 @@ hud_info on
 hud_weapon on
 keyboard_buffer_size 128
 keypress_on_start on
+log_missing_ini off
 log_timestamps 0
 lua_gcstep 400
 markswitch_color (0.000000, 0.000000, 0.000000, 0.000000)
@@ -143,8 +151,9 @@ particle_update_mod 0.5
 pda_map_zoom_in_to_mouse 1
 pda_map_zoom_out_to_mouse 1
 ph_frequency 100.00000
+ph_gravity 19.62
 ph_iterations 18
-power_loss_bias 0.31
+power_loss_bias 0.235
 power_loss_factor 0.5
 pseudogiant_can_damage_objects_on_stomp 1
 r1_detail_textures on
@@ -189,7 +198,7 @@ r2_ls_dsm_kernel 0.7
 r2_ls_psm_kernel 0.7
 r2_ls_squality 1.
 r2_ls_ssm_kernel 0.7
-r2_mask_control (0.000000, 0.000000, 0.000000, 0.000000)
+r2_mask_control (0.000000, 0.000000, 1.000000, 0.000000)
 r2_mblur 0.
 r2_mblur_enabled off
 r2_parallax_h 0.02
@@ -265,19 +274,20 @@ r3_use_dx10_1 on
 r3_volumetric_smoke on
 r4_enable_tessellation on
 r4_wireframe off
+r__3Dfakescope 0
 r__actor_shadow off
 r__bloom_thresh (0.700000, 0.800000, 0.900000, 0.000000)
 r__bloom_weight (0.330000, 0.330000, 0.330000, 0.000000)
 r__clear_models_on_unload off
 r__color_grading (0.500000, 0.500000, 0.500000)
 r__detail_density 0.54
-r__detail_height 0.9
+r__detail_height 0.8
 r__detail_radius 110
 r__dtex_range 50.
 r__enable_grass_shadow off
 r__exposure 1.097
 r__fakescope 1
-r__framelimit 72
+r__framelimit 160
 r__gamma 0.97
 r__geometry_lod 1.5
 r__heatvision 0
@@ -305,7 +315,7 @@ rs_refresh_60hz off
 rs_screenmode borderless
 rs_skeleton_update 32
 rs_stats off
-rs_v_sync on
+rs_v_sync off
 rs_vis_distance 1.
 scope_2dtexactive 0
 scope_blur_inner 0.2
@@ -329,16 +339,16 @@ shader_param_3 (0.838000, 0.847000, 0.852000, -0.005000)
 shader_param_4 (1.120000, 1.120000, 1.130000, -0.420000)
 shader_param_5 (0.000000, 0.000000, 0.000000, 0.000000)
 shader_param_6 (0.000000, 1.000000, 0.000000, 0.000000)
-shader_param_7 (100.000000, 0.500000, 0.000000, 0.000000)
-shader_param_8 (0.000000, 0.000000, 0.000000, 0.000000)
+shader_param_7 (1.000000, 0.500000, 0.000000, 0.000000)
+shader_param_8 (0.000000, 10.600000, 100.000000, 6.000000)
 sil_glow_color (1.000000, 0.000000, 0.000000)
 sil_glow_cool_temp_rate 0.01
 sil_glow_max_temp 0.15
 sil_glow_shot_temp 0.004
-slot_0 brewed_coffee
-slot_1 bandage
-slot_2 medkit
-slot_3 akvatab
+slot_0 bandage
+slot_1 medkit
+slot_2 yadylin
+slot_3 drug_charcoal
 snd_acceleration on
 snd_cache_size 256
 snd_device OpenAL Soft
@@ -369,7 +379,7 @@ ssfx_int_grass_params_1 (1.000000, 1.000000, 1.000000, 25.000000)
 ssfx_int_grass_params_2 (1.000000, 5.000000, 0.300000, 2.000000)
 ssfx_is_underground 0
 ssfx_lightsetup_1 (0.500000, 0.600000, 0.000000, 0.000000)
-ssfx_lut (1.000000, 27.000000, 0.000000, 0.000000)
+ssfx_lut (0.800000, 17.000000, 0.000000, 0.000000)
 ssfx_rain_1 (2.000000, 0.100000, 0.600000, 2.000000)
 ssfx_rain_2 (0.700000, 0.100000, 1.000000, 0.500000)
 ssfx_rain_3 (0.500000, 1.000000, 0.000000, 0.000000)
@@ -379,7 +389,7 @@ ssfx_shadows (256.000000, 1536.000000, 0.000000)
 ssfx_ssr (1.000000, 0.160000, 0.000000, 0.000000)
 ssfx_ssr_2 (1.100000, 1.200000, 1.000000, 0.050000)
 ssfx_ssr_quality 0
-ssfx_terrain_offset (-0.070000, -0.050000, -0.130000, 0.000000)
+ssfx_terrain_offset (-0.130000, -0.130000, -0.130000, -0.130000)
 ssfx_terrain_quality (6.000000, 0.000000, 0.000000, 0.000000)
 ssfx_volumetric (0.000000, 1.000000, 4.000000, 7.142857)
 ssfx_water (1.000000, 0.800000, 1.000000, 0.000000)
@@ -391,8 +401,8 @@ ssfx_wetsurfaces_1 (0.500000, 1.400000, 0.700000, 1.250000)
 ssfx_wetsurfaces_2 (0.800000, 1.500000, 0.200000, 0.350000)
 ssfx_wind_grass (9.500000, 1.400000, 1.500000, 0.400000)
 ssfx_wind_trees (11.000000, 0.150000, 0.500000, 0.100000)
-ssfx_wpn_dof_1 (0.150000, 0.400000, 0.000000, 0.000000)
-ssfx_wpn_dof_2 0.
+ssfx_wpn_dof_1 (0.150000, 0.400000, 0.000000, 0.950000)
+ssfx_wpn_dof_2 0.1
 string_table_error_msg 0
 telekinetic_objects_include_corpses 0
 texture_lod 0
