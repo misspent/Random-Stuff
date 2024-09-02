@@ -33,17 +33,18 @@ Tips & Tricks Playlist: https://www.youtube.com/watch?v=81IXxI2OI9w&list=PL_OIXN
 
 
 ### **ℹ️ MORE INFORMATION**:  
-- [Weapon Chart](<https://docs.google.com/spreadsheets/d/1sOtZAVmTUP8Mc387xSEHlFcPqg1CtT1YgQmxu6Xlz6M/edit?usp=sharing>)
-- [Nimble weapons trade](<https://docs.google.com/spreadsheets/d/1lKlMGe56ep1c-mzt19WoHr_BfulFr3Fn6AQGDr-v3tM/edit#gid=380913558>)
-- [Aslan Lottery Outcomes](https://docs.google.com/spreadsheets/d/1Ocz6SF8KT0DVYTy7gkH6FYX9bd-IwbW8ONbb6IGmc0c)  
-- [Drugs crafting spreadsheet](<https://docs.google.com/spreadsheets/d/1UXTQRwq6qKE-EgoVb-f0dDxRk45ujQs2XRPgFv_x9R4/edit#gid=0>)
-- [Storyline Progression Guides](<https://docs.google.com/spreadsheets/d/1ltWH1CUjjv7KG2lzS0HY4YtQqs7nsW82CilzAULjJdw/edit?usp=sharing>)
-- [RF packages spawning points](<https://docs.google.com/spreadsheets/d/1mDAAm9izEtoeDRsKjsYpL0hSbcjWz-AgdIg0DSogPeM/edit?gid=0#gid=0>)
-- [Stash Tier chance by Location](https://docs.google.com/spreadsheets/d/1YJUwO5sAnzh3UFWZJS82oz6_QTkmcnBBJDpFnG_XIro)  
+- [Weapon Chart](<https://docs.google.com/spreadsheets/d/1sOtZAVmTUP8Mc387xSEHlFcPqg1CtT1YgQmxu6Xlz6M>)
+- [Nimble weapons trade](<https://docs.google.com/spreadsheets/d/1lKlMGe56ep1c-mzt19WoHr_BfulFr3Fn6AQGDr-v3tM>)
+- [Aslan Lottery Outcomes](<https://docs.google.com/spreadsheets/d/1Ocz6SF8KT0DVYTy7gkH6FYX9bd-IwbW8ONbb6IGmc0c>)  
+- [Gamma Reshade Database](<https://docs.google.com/spreadsheets/d/1psiAYFNaGSYs2j5Gbd6p67SyVi6PQvhr9vSUOiyFATw>)
+- [Drugs crafting spreadsheet](<https://docs.google.com/spreadsheets/d/1UXTQRwq6qKE-EgoVb-f0dDxRk45ujQs2XRPgFv_x9R4>)
+- [Storyline Progression Guides](<https://docs.google.com/spreadsheets/d/1ltWH1CUjjv7KG2lzS0HY4YtQqs7nsW82CilzAULjJdw>)
+- [RF packages spawning points](<https://docs.google.com/spreadsheets/d/1mDAAm9izEtoeDRsKjsYpL0hSbcjWz-AgdIg0DSogPeM>)
+- [Stash Tier chance by Location](<https://docs.google.com/spreadsheets/d/1YJUwO5sAnzh3UFWZJS82oz6_QTkmcnBBJDpFnG_XIro>)  
 - [G.A.M.M.A. RF Package Locations](<https://docs.google.com/spreadsheets/d/1mDAAm9izEtoeDRsKjsYpL0hSbcjWz-AgdIg0DSogPeM>)
-- [UPDATED GAMMA Weapon Database](<https://drive.google.com/file/d/1mNqIq0TgHX0CaIpUZ4e5MgMIKoIHlhTs/view?usp=sharing>)
-- [Zone Handbook (contains a lot of good guides)](https://docs.google.com/spreadsheets/d/17ZLrcwv-5aFjusQ6yKdHrBkq0fiPRBCvdCnzrvpz-Y0)
-- [Weapons + Armours + Mutants + Artifacts + Food + Drinks + Medicines + etc.](<https://docs.google.com/spreadsheets/d/1OWE25Go9kSao5-IDOS4ZWkBtLfyEF_hPLJz7QQR2lqY/edit#gid=302497032>)
+- [UPDATED GAMMA Weapon Database](<https://drive.google.com/file/d/1mNqIq0TgHX0CaIpUZ4e5MgMIKoIHlhTs>)
+- [Zone Handbook (contains a lot of good guides)](<https://docs.google.com/spreadsheets/d/17ZLrcwv-5aFjusQ6yKdHrBkq0fiPRBCvdCnzrvpz-Y0>)
+- [Weapons + Armours + Mutants + Artifacts + Food + Drinks + Medicines + etc.](<https://docs.google.com/spreadsheets/d/1OWE25Go9kSao5-IDOS4ZWkBtLfyEF_hPLJz7QQR2lqY>)
 
 ### **Other**:
 
@@ -92,8 +93,9 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 ⛔ = Switch between it on/off/new playthrough  
 
 **Other Categories / Bulk stuff / Noted**  
-- [Frosty Weapon Pack](https://youtu.be/0mAgUuvs1FY) (from G.A.M.M.A Discord - This is a YT link tutorial) ✅
 - [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) ✅
+- [Frosty Weapon Pack](https://youtu.be/0mAgUuvs1FY) (from G.A.M.M.A Discord - This is a YT link tutorial) ✅
+- `Consciousness Grass Overhaul` (From G.A.M.M.A Discord | huh8410 - This is CRAZY, it's early and not finished but still **EXTREMELY** impressive) ⛔
 - [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) (I only used the Performance Alife.ltx & tweaked file myself) ❌
 - [G.A.M.M.A. Reticles Revisited](https://www.moddb.com/mods/stalker-anomaly/addons/red-eotech-reticle-for-gamma-that-doesnt-washout-when-using-nvgs) (Possibly fixes washed out NVG (nightvision) reticles? | Only use for EoTech ) ✅
 - ~~[Juan's Weapon Delivery Service](https://drive.google.com/drive/folders/1_AMbGEbJDT8zioOTtNcEY62SmyMEilqI) & [Image previews](https://imgur.com/a/juans-weapon-delivery-service-showcase-pictures-UQKgPwS)~~ (from G.A.M.M.A discord server | Already in UGP) ❌
@@ -127,6 +129,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [inakrins hitmarker Yuzuke Enhanced](https://www.moddb.com/mods/stalker-anomaly/addons/inakrins-hitmarker-for-gamma)
 - [OACO Octavia's Anomaly Cooking Overhaul v2.0.4](https://www.moddb.com/mods/stalker-anomaly/addons/oaco-octavias-anomaly-cooking-overhaul-v204) ✅
 - [Better Caffeine Tablets for Anomaly](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-better-caffeine-tablets-for-anomaly-152) ✅
+- [Even More Hideout Furniture [Update 2]](https://www.moddb.com/mods/stalker-anomaly/addons/even-more-hideout-furniture) ✅
 - [Carry weight slider up to 10000kg](https://www.moddb.com/mods/stalker-anomaly/addons/carry-weight-slider-up-to-10000kg-take-all-x-button-152) ✅
 - `Mechanic Upgrades Re-Enabled` (From G.A.M.M.A Discord) ❌
 - `Drunks Starting Loadouts v7` (From G.A.M.M.A Discord) ✅
@@ -138,6 +141,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 **Quality of Life**
 - `Lockable Artifact Conditions v1.1.1 - G_FLAT` (From GAMMA Discord) ✅
+- [Expert Tools Crafting Recipe](https://www.moddb.com/mods/stalker-anomaly/addons/expert-tools-crafting-recipe-dltxgammaefp) ✅
 - [Activated Charcoal v1.6.1](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-activated-charcoal) ✅
 - [Artifact signature locator](https://www.moddb.com/mods/stalker-anomaly/addons/atrifact-signature-locator) ✅
 - [Climb stairs faster DLTX 1.2](https://www.moddb.com/mods/stalker-anomaly/addons/climb-stairs-faster-dltx-1-0) ✅
@@ -146,9 +150,6 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Fight my foes](https://www.moddb.com/mods/stalker-anomaly/addons/fight-my-foes) ✅
 - [Smaller Stalker Collision Radius](https://www.moddb.com/mods/stalker-anomaly/addons/smaller-stalker-collision-radius) ❌
 - [Stamina regeneration when Walking](https://www.moddb.com/mods/stalker-anomaly/addons/stamina-regeneration-when-walking) ✅
-- `[MCM] Accurate stats` (From GAMMA Discord) ✅
-- [Detailed description 0.32](https://www.moddb.com/mods/stalker-anomaly/addons/detailed-description-01) ✅
-- `New descr v0.32 - accurate GAMMA sleep + dizziness + final percentages - G_FLAT` (From G.A.M.M.A Discord) ✅
 
 **Other**
 - [Machine Pistols & Sawn Off in Sidearm Slot V1.1](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-machine-pistols-sawn-off-in-sidearm-slot) ✅
@@ -184,6 +185,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Inventory Weights Revised (UPDATE 1)](https://www.moddb.com/mods/stalker-anomaly/addons/151152-inventory-weights-revised) ✅
 - [UI Rework G.A.M.M.A . Style by Sota](https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota) - Use my edited one of this ✅
 - Re-install: `Modular Compass Minimap - lifestorock` and move the minimap to the top-right. ✅
+[Enhanced Graphical User Interface INC v.0.6.4](https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-gui/page/8#comments) ❌
 - [Dynahud Hud Manager](https://www.moddb.com/mods/stalker-anomaly/addons/dynahud-hud-manager) ❌
 - `Reworked status icons (alt) - v1.5 - AlphaLion` (From G.A.M.M.A Discord) ❌
 
@@ -204,11 +206,16 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Vehicles Redux V1.3 2024 | NEW TEXTURES (No upscale)](https://www.moddb.com/mods/stalker-anomaly/addons/vehicles-redux-v11-2024-new-textures-no-upscale) ✅
 - [Arrival - Anomalies](https://www.moddb.com/mods/stalker-anomaly/addons/arrival-anomalies) ✅
 
+**Detailed Stats Setup**:
+- `[MCM] Accurate stats` (From GAMMA Discord) ✅
+- [Detailed description 0.32](https://www.moddb.com/mods/stalker-anomaly/addons/detailed-description-01) ✅
+- `New descr v0.32 - accurate GAMMA sleep + dizziness + final percentages - G_FLAT` (From G.A.M.M.A Discord) ✅
+
 <details>
   <summary align="center">📷 Mods I have enabled + load order (I left out G.A.M.M.A Fixes; refer to above for that order) | May become outdated</summary>
   <br>
 
-![22/08/2024 - 14:46](<My Mods - Stalker GAMMA.png>)
+![My Mods - Stalker GAMMA v2](https://github.com/user-attachments/assets/9fae2e81-db2e-4690-abfc-4429101a9c5e)
 
 </details>
 
