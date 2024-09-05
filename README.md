@@ -45,6 +45,7 @@ Tips & Tricks Playlist: https://www.youtube.com/watch?v=81IXxI2OI9w&list=PL_OIXN
 - [UPDATED GAMMA Weapon Database](<https://drive.google.com/file/d/1mNqIq0TgHX0CaIpUZ4e5MgMIKoIHlhTs>)
 - [Zone Handbook (contains a lot of good guides)](<https://docs.google.com/spreadsheets/d/17ZLrcwv-5aFjusQ6yKdHrBkq0fiPRBCvdCnzrvpz-Y0>)
 - [Weapons + Armours + Mutants + Artifacts + Food + Drinks + Medicines + etc.](<https://docs.google.com/spreadsheets/d/1OWE25Go9kSao5-IDOS4ZWkBtLfyEF_hPLJz7QQR2lqY>)
+- [Link to all spreadsheets in the discord server](https://discord.com/channels/912320241713958912/976570969768476753/1109969814388215889) / do `!SHIT` in bot-commands
 
 ### **Other**:
 
@@ -92,9 +93,11 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 ❌ = Disabled  
 ⛔ = Switch between it on/off/new playthrough  
 
-**Other Categories / Bulk stuff / Noted**  
+**Other Categories / Bulk stuff / Noted / Not used**  
 - [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) ✅
 - [Frosty Weapon Pack](https://youtu.be/0mAgUuvs1FY) (from G.A.M.M.A Discord - This is a YT link tutorial) ✅
+- [Anomaly Texture Overhaul (AOT)](https://youtu.be/pUWrZPTP5kA) (This is a YT link tutorial) ❌
+- [Emergent Zone: LUTs](https://www.mediafire.com/file/3alqes8302cfqpi/EMERGENT_ZONE_pack_1_v3.0_FOMOD.zip/file) (From G.A.M.M.A Discord) ❌
 - `Consciousness Grass Overhaul` (From G.A.M.M.A Discord | huh8410 - This is CRAZY, it's early and not finished but still **EXTREMELY** impressive) ⛔
 - [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) (I only used the Performance Alife.ltx & tweaked file myself) ❌
 - [G.A.M.M.A. Reticles Revisited](https://www.moddb.com/mods/stalker-anomaly/addons/red-eotech-reticle-for-gamma-that-doesnt-washout-when-using-nvgs) (Possibly fixes washed out NVG (nightvision) reticles? | Only use for EoTech ) ✅
@@ -102,6 +105,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 **G.A.M.M.A Fixes**
 - [A.D.E.G.A](https://www.mediafire.com/folder/793vdxt5yzml9/A.D.E.G.A+1.3.1) - Merge them and place it above `Particles Cinematic VFX 3.5 1.1.2 BOTZ YAWM` & `Screen Space Shaders` ✅
+- [Aydins Grass Tweaks SSS Terrain LOD compatibility](https://www.moddb.com/mods/stalker-anomaly/addons/aydins-grass-tweaks-sss-terrain-lod-compatiblity) (Not sure if necessary? - Not needed with A.D.E.G.A?) ⛔
 - [Golden Autumn Retexture](https://www.moddb.com/mods/stalker-anomaly/addons/golden-autumn-retexture-v10) - Chose varying one ⛔
 - `Grass Tweaks (reinstall for different options) - Aydin` - Re-install to your preferred and place below Golden Autumn ⛔
 - `Black Market (Buyable Gear) - SalamanderAnder & nox` - Optional ⛔
@@ -153,7 +157,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 **Other**
 - [Machine Pistols & Sawn Off in Sidearm Slot V1.1](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-machine-pistols-sawn-off-in-sidearm-slot) ✅
-- [HeatVision v1.3](https://www.moddb.com/mods/stalker-anomaly/addons/heatvision-v02-extension-for-beefs-nvg-dx11engine-mod) + [New goggles icon for HEATVISION V1.3](https://www.moddb.com/mods/stalker-anomaly/addons/new-goggles-icon-for-heatvision-v13-dltx) (Merge) 
+- [HeatVision v1.3](https://www.moddb.com/mods/stalker-anomaly/addons/heatvision-v02-extension-for-beefs-nvg-dx11engine-mod) + [New goggles icon for HEATVISION V1.3](https://www.moddb.com/mods/stalker-anomaly/addons/new-goggles-icon-for-heatvision-v13-dltx) (Merge + reduce batter consumption) 
 - [Dialogue Expanded Expanded v5](https://www.moddb.com/mods/stalker-anomaly/addons/dialogue-expanded-expanded-152-eng) ✅
 - [Realistic Durability Drops V1.5.X](https://www.moddb.com/mods/stalker-anomaly/addons/realistic-durability-drops-v15x) - Partial support (only works on armors?) ✅
 - [Interactive PDA 1.64](https://www.moddb.com/mods/stalker-anomaly/addons/interactive-pda-01) ✅
@@ -174,6 +178,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 **Added for next build - Remove when you update**
 - [A.R.E.A Player Animations: Refresh](https://www.moddb.com/mods/stalker-anomaly/addons/area-player-animations-refresh) ❌
+- [NPCs Limping and Healing](https://www.moddb.com/mods/stalker-anomaly/addons/mcm-npcs-limping-and-healing) ❌
 - [Western Goods v3.0.0](https://www.moddb.com/mods/stalker-anomaly/addons/western-goods) ❌
 
 **Textures - Visual**
@@ -190,8 +195,8 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `Reworked status icons (alt) - v1.5 - AlphaLion` (From G.A.M.M.A Discord) ❌
 
 **Heavier Textures - idk**
-- `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From G.A.M.M.A Discord / [here](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2) - 21/08/2024]) ⛔
-- [Aydins Grass Tweaks SSS Terrain LOD compatibility](https://www.moddb.com/mods/stalker-anomaly/addons/aydins-grass-tweaks-sss-terrain-lod-compatiblity) (Not sure if necessary? - Not needed with A.D.E.G.A?) ⛔
+- `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From G.A.M.M.A Discord / [here](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2) - 21/08/2024) ⛔
+- [Zone Reality Remade](https://www.mediafire.com/file/liv6lrk1mz2xg4v/Zone_Reality_Remade.7z/file) ⛔
 - [Corrections of Brightly Colored Trees and Bushes (up 2.0)](https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes) ✅
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem) ✅
 - ~~[Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78)~~
