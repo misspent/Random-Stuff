@@ -96,7 +96,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 **Other Categories / Bulk stuff / Noted / Not used**  
 - [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) ✅
 - [Frosty Weapon Pack](https://youtu.be/0mAgUuvs1FY) (from G.A.M.M.A Discord - This is a YT link tutorial) ✅
-- [Anomaly Texture Overhaul (AOT)](https://youtu.be/pUWrZPTP5kA) (This is a YT link tutorial) ❌
+- [ATO Anomaly Texture Overhaul Beta 2](https://www.moddb.com/mods/stalker-anomaly/addons/ato-anomaly-texture-overhaul-beta-2) ⛔
 - [Emergent Zone: LUTs](https://www.mediafire.com/file/3alqes8302cfqpi/EMERGENT_ZONE_pack_1_v3.0_FOMOD.zip/file) (From G.A.M.M.A Discord) ❌
 - `Consciousness Grass Overhaul` (From G.A.M.M.A Discord | huh8410 - This is CRAZY, it's early and not finished but still **EXTREMELY** impressive) ⛔
 - [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) (I only used the Performance Alife.ltx & tweaked file myself) ❌
@@ -105,6 +105,8 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 **G.A.M.M.A Fixes**
 - [A.D.E.G.A](https://www.mediafire.com/folder/793vdxt5yzml9/A.D.E.G.A+1.3.1) - Merge them and place it above `Particles Cinematic VFX 3.5 1.1.2 BOTZ YAWM` & `Screen Space Shaders` ✅
+- [Anomaly Custom Weather](https://drive.google.com/file/d/1VlZJxwn14DJcUYycHN03w7ZJMWeqT9Bo) (From G.A.M.M.A Discord - Place *above* Atmospherics G.A.M.M.A) ⛔
+- [Anomaly Custom Weathers for Atmospherics](https://drive.google.com/file/d/1NhWRJtK4c6aU9MfzL3Fwiy45phjA202F) (From G.A.M.M.A Discord - Place *below* Atmospherics G.A.M.M.A) ⛔
 - [Aydins Grass Tweaks SSS Terrain LOD compatibility](https://www.moddb.com/mods/stalker-anomaly/addons/aydins-grass-tweaks-sss-terrain-lod-compatiblity) (Not sure if necessary? - Not needed with A.D.E.G.A?) ⛔
 - [Golden Autumn Retexture](https://www.moddb.com/mods/stalker-anomaly/addons/golden-autumn-retexture-v10) - Chose varying one ⛔
 - `Grass Tweaks (reinstall for different options) - Aydin` - Re-install to your preferred and place below Golden Autumn ⛔
@@ -190,7 +192,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Inventory Weights Revised (UPDATE 1)](https://www.moddb.com/mods/stalker-anomaly/addons/151152-inventory-weights-revised) ✅
 - [UI Rework G.A.M.M.A . Style by Sota](https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota) - Use my edited one of this ✅
 - Re-install: `Modular Compass Minimap - lifestorock` and move the minimap to the top-right. ✅
-[Enhanced Graphical User Interface INC v.0.6.4](https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-gui/page/8#comments) ❌
+- [Enhanced Graphical User Interface INC v.0.6.4](https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-gui/page/8#comments) ❌
 - [Dynahud Hud Manager](https://www.moddb.com/mods/stalker-anomaly/addons/dynahud-hud-manager) ❌
 - `Reworked status icons (alt) - v1.5 - AlphaLion` (From G.A.M.M.A Discord) ❌
 
