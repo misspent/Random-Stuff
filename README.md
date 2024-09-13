@@ -225,7 +225,8 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
   <summary align="center">📷 Mods I have enabled + load order (I left out G.A.M.M.A Fixes; refer to above for that order) | May become outdated</summary>
   <br>
 
-![My Mods - Stalker GAMMA v2](https://github.com/user-attachments/assets/9fae2e81-db2e-4690-abfc-4429101a9c5e)
+![My Mods - Stalker GAMMA v3](https://github.com/user-attachments/assets/6cc848c8-75a7-43b1-a877-c21da07a070c)
+
 
 </details>
 
