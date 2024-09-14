@@ -70,11 +70,13 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `G.A.M.M.A. NPC Loot Claim Remade & NPC loot claim`
 - `G.A.M.M.A. Not so instant tooltip`
 - `G.A.M.M.A. Weathers` | If you use: `Atmospherics GAMMA`
+- `23- THAP Rework - IENCE` | If you use: `M.H.P. Hands pack`
 - `282- GAMMA Loading Screens - CS Eden` | If you use: `Atmospheric Loading Screen`
 - `G.A.M.M.A. Press Key to Drop Item` | If you use: `Drop and Disassemble Hotkey`
 - `Disable both already installed Free zoom mods` | If you use: `Free zoom - revisited`
 - `234- Dynamic Anomalies Overhaul - Demonized` | If you use: `Arrival - Anomalies`
 - `290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot` | If you use: `Atmospherics`
+- `Ishmaeel's Kill Tracker` | Use Milspec PDA Kill Tracker instead (this fixes busy hands for: New Tasks Addon - iTheon)
 
 **Enable the following**:
 
@@ -85,7 +87,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `340- Black Market (Buyable Gear) - SalamanderAnder & nox`
 - `218- Quick Companion Teleport (teleports rescue mission targets) - RazorShultz`
 
-**Tweaked for following**:
+**Moved / Tweaked for following**:
 - `Grass Tweaks (reinstall for different options) - Aydin` | Rotate how I make the game look with this + other visual mods
 
 ---
@@ -99,7 +101,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 **Other Categories / Bulk stuff / Noted / Not used**  
 - [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) ✅
 - [Frosty Weapon Pack](https://youtu.be/0mAgUuvs1FY) (from G.A.M.M.A Discord - This is a YT link tutorial) ✅
-- [Headgear Animations v0.9.2](https://www.moddb.com/mods/stalker-anomaly/addons/headgear-animations) (Pretty damn cool animations) ❌
+- [Headgear Animations v0.9.2](https://www.moddb.com/mods/stalker-anomaly/addons/headgear-animations) (Pretty damn cool animations) & [Outfit Animations v1.0.2](https://www.moddb.com/mods/stalker-anomaly/addons/outfit-animations-v099) ✅
 - ~~[Juan's Weapon Delivery Service](https://drive.google.com/drive/folders/1_AMbGEbJDT8zioOTtNcEY62SmyMEilqI) & [Image previews](https://imgur.com/a/juans-weapon-delivery-service-showcase-pictures-UQKgPwS)~~ (from G.A.M.M.A discord server | Already in UGP) ❌
 
 **G.A.M.M.A Fixes**
@@ -117,7 +119,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [MCM Key Wrapper (Anomaly 1.5.1/1.5.2)](https://www.moddb.com/mods/stalker-anomaly/addons/mcm-key-wrapper) ✅
 - [QuickSlotsPlus](https://www.moddb.com/mods/stalker-anomaly/addons/quickslotsplus) ✅
 - [Inventory Icons Resizer](https://drive.google.com/file/d/1mrSLkKga9e43hqshQaweM58a1aFE5eEo/view) (From G.A.M.M.A discord) ❌
-- [New Tasks Addon](https://github.com/lTheon/iTheon-New-Tasks-Addon) ✅
+- [New Tasks Addon](https://github.com/lTheon/iTheon-New-Tasks-Addon) (Disable: Ishmaeel's Kill Tracker & Fairer thermal anomalies) ✅
 - [HideTooltip](https://www.moddb.com/mods/stalker-anomaly/addons/hidetooltip) ✅
 - [Milspec PDA 1.11.1 with Kill Tracker](https://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma) ✅
 - [Background Colors Highlight](https://www.moddb.com/mods/stalker-anomaly/addons/background-color-highlight) (~~Place this above: `110- SortingPlus - RavenAscendant`~~ | Use my file edit) ✅
@@ -128,10 +130,11 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Rostok - Usable Bar doors](https://www.moddb.com/mods/stalker-anomaly/addons/usable-bar-doors) ✅
 
 **Optional Utility**
-- [inakrins hitmarker Yuzuke Enhanced](https://www.moddb.com/mods/stalker-anomaly/addons/inakrins-hitmarker-for-gamma)
+- [inakrins hitmarker Yuzuke Enhanced](https://www.moddb.com/mods/stalker-anomaly/addons/inakrins-hitmarker-for-gamma) ❌
 - [OACO Octavia's Anomaly Cooking Overhaul v2.0.4](https://www.moddb.com/mods/stalker-anomaly/addons/oaco-octavias-anomaly-cooking-overhaul-v204) ✅
 - [Better Caffeine Tablets for Anomaly](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-better-caffeine-tablets-for-anomaly-152) ✅
 - [Even More Hideout Furniture [Update 2]](https://www.moddb.com/mods/stalker-anomaly/addons/even-more-hideout-furniture) ✅
+- [Quick Action Wheel](https://www.moddb.com/mods/stalker-anomaly/addons/quick-action-wheel) ❌
 - [Carry weight slider up to 10000kg](https://www.moddb.com/mods/stalker-anomaly/addons/carry-weight-slider-up-to-10000kg-take-all-x-button-152) ✅
 - `Mechanic Upgrades Re-Enabled` (From G.A.M.M.A Discord) ❌
 - `Drunks Starting Loadouts v7` (From G.A.M.M.A Discord) ✅
@@ -144,6 +147,8 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 **Quality of Life**
 - `Lockable Artifact Conditions v1.1.1 - G_FLAT` (From GAMMA Discord) ✅
 - [Detectors Software Update (DSU)](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-detectors-software-update-dsu) ✅
+- `Remember Outfit Belt v1.0.1 - G_FLAT` (From GAMMA Discord) ✅
+- [Lower Weapon Sprint Optimized](https://www.moddb.com/mods/stalker-anomaly/addons/lower-weapon-sprint-optimized) ❌
 - [Expert Tools Crafting Recipe](https://www.moddb.com/mods/stalker-anomaly/addons/expert-tools-crafting-recipe-dltxgammaefp) ✅
 - [Activated Charcoal v1.6.1](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-activated-charcoal) ✅
 - [Artifact signature locator](https://www.moddb.com/mods/stalker-anomaly/addons/atrifact-signature-locator) (Added: `artifact_signature_locator = 1, 1` to `trade_ecolog_herman.ltx` - **NOT TESTED**) ✅
@@ -156,57 +161,62 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Stamina regeneration when Walking](https://www.moddb.com/mods/stalker-anomaly/addons/stamina-regeneration-when-walking) ✅
 
 **Other**
-- [Machine Pistols & Sawn Off in Sidearm Slot V1.1](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-machine-pistols-sawn-off-in-sidearm-slot) ✅
-- [HeatVision v1.3](https://www.moddb.com/mods/stalker-anomaly/addons/heatvision-v02-extension-for-beefs-nvg-dx11engine-mod) + [New goggles icon for HEATVISION V1.3](https://www.moddb.com/mods/stalker-anomaly/addons/new-goggles-icon-for-heatvision-v13-dltx) (Merge + reduce batter consumption) 
+- ~~[Machine Pistols & Sawn Off in Sidearm Slot V1.1](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-machine-pistols-sawn-off-in-sidearm-slot)~~ ❌
+- [HeatVision v1.3](https://www.moddb.com/mods/stalker-anomaly/addons/heatvision-v02-extension-for-beefs-nvg-dx11engine-mod) + [New goggles icon for HEATVISION V1.3](https://www.moddb.com/mods/stalker-anomaly/addons/new-goggles-icon-for-heatvision-v13-dltx) (Merge + reduce batter consumption) ✅
+- `Scopes for TOZ-34 Chimera Hunter - EverybodyLies` (From GAMMA Discord) ❌
+- [Improved Special Sound Effects V3.0.0](https://www.moddb.com/mods/stalker-anomaly/addons/isfx-improved-special-sound-effects-v300) ✅
+- [Upgraded Guns And Armors In Stashes (UPDATE 1)](https://www.moddb.com/mods/stalker-anomaly/addons/upgraded-guns-and-armors-in-stashes) ✅
+- `Expanded Sidearm Weapons` (From GAMMA Discord | Add your own with ease) ✅
 - [Dialogue Expanded Expanded v5](https://www.moddb.com/mods/stalker-anomaly/addons/dialogue-expanded-expanded-152-eng) ✅
 - [Realistic Durability Drops V1.5.X](https://www.moddb.com/mods/stalker-anomaly/addons/realistic-durability-drops-v15x) - Partial support (only works on armors?) ✅
 - [Interactive PDA 1.64](https://www.moddb.com/mods/stalker-anomaly/addons/interactive-pda-01) ✅
-- ~~[Prefer Best Disassembly Tool](https://www.moddb.com/mods/stalker-anomaly/addons/prefer-best-disassembly-tool)~~
 - [More meat from mutants](https://www.moddb.com/mods/stalker-anomaly/addons/more-meat-from-mutants) ✅
 - [Backpacks of the Zone](https://www.moddb.com/mods/stalker-anomaly/addons/backpacks-of-the-zone) ✅
-- [Invictus Protect (Anomaly 1.5.1/1.5.2)](https://www.moddb.com/mods/stalker-anomaly/addons/invictus-protect-rc1819) ❌
+- [Invictus Protect](https://www.moddb.com/mods/stalker-anomaly/addons/invictus-protect-rc1819) ❌
 - [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) / [Performance and Reasonable alife.ltx settings](https://www.moddb.com/mods/stalker-anomaly/addons/performance-and-reasonable-alifeltx-settings) (I only used the Performance Alife.ltx & tweaked file myself) ✅
 
 **True Game changer**
 - [RE:DONE Collection v2.3.4 VOL.1](https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection) ❌
 - [RE:DONE Collection 1.1.2 Vol.2](https://www.moddb.com/mods/stalker-anomaly/addons/redone-collection-vol-2) ❌
-- [Gifts From Companions v0.6.4](https://www.moddb.com/mods/stalker-anomaly/addons/gifts-from-companions-addon) ⛔
-- [Zone Passive Income v0.5.4](https://www.moddb.com/mods/stalker-anomaly/addons/zone-passive-income) ⛔
+- [Gifts From Companions v0.6.4](https://www.moddb.com/mods/stalker-anomaly/addons/gifts-from-companions-addon) ✅
+- [Zone Passive Income v0.5.4](https://www.moddb.com/mods/stalker-anomaly/addons/zone-passive-income) ✅
 - [Experience Framework v2.1-U2](https://www.moddb.com/mods/stalker-anomaly/addons/experience-framework) ✅
-- [Base Skills Pack v1.2.2](https://www.moddb.com/mods/stalker-anomaly/addons/base-skills-pack) ✅
+- [RPG System for GAMMA v40](https://github.com/ilrathCXV/RPG-XP-Redux-Orleon-ilrathCXV)  (Get from here/G.A.M.M.A discord) ✅
+- ~~[Base Skills Pack v1.2.2](https://www.moddb.com/mods/stalker-anomaly/addons/base-skills-pack)~~
 - [Skills Expansion 2.1](https://www.moddb.com/mods/stalker-anomaly/addons/skills-expansion-for-anomaly-skill-system) ✅
 - [Companions Don't Die](https://www.moddb.com/mods/stalker-anomaly/addons/companions-dont-die) ❌
 
 **Added for next build - Remove when you update**
+- [NPCs Limping and Healing](https://www.moddb.com/mods/stalker-anomaly/addons/mcm-npcs-limping-and-healing) ✅
+- `Geiger Clicks Rework v1.1 - By G_FLAT` (From G.A.M.M.A discord) ✅
 - [A.R.E.A Player Animations: Refresh](https://www.moddb.com/mods/stalker-anomaly/addons/area-player-animations-refresh) ❌
-- [NPCs Limping and Healing](https://www.moddb.com/mods/stalker-anomaly/addons/mcm-npcs-limping-and-healing) ❌
-- [Western Goods v3.0.0](https://www.moddb.com/mods/stalker-anomaly/addons/western-goods) ❌
+- [Western Goods v3.0.0](https://www.moddb.com/mods/stalker-anomaly/addons/western-goods) ✅
 
 **Textures - Visual**
 - [Nicer Flashlights and Headlamps v2.0](https://www.moddb.com/mods/stalker-anomaly/addons/nicer-flashlights-and-headlamps-addon) (I used Clean variant 2 / F.E.A.R variant) ⛔
 - [Devices of Anomaly Redone (UPDATE 4.1)](https://www.moddb.com/mods/stalker-anomaly/addons/devices-of-anomaly-redone) ✅
-- [Dismemberment v0.81](https://www.moddb.com/mods/stalker-anomaly/addons/dismemberment-01) ❌
+- ~~[Dismemberment v0.81](https://www.moddb.com/mods/stalker-anomaly/addons/dismemberment-01)~~
 - `Gentlemans Dismemberment` (from G.A.M.M.A Discord) & `300- Blood pool with trails and steps - xcvb` (Already in G.A.M.M.A's modlist but is disabled by default) ✅
 - ~~[Minimalist Companion UI](https://www.moddb.com/mods/stalker-anomaly/addons/minimalist-companion-ui)~~
 - [Inventory Weights Revised (UPDATE 1)](https://www.moddb.com/mods/stalker-anomaly/addons/151152-inventory-weights-revised) ✅
 - [UI Rework G.A.M.M.A . Style by Sota](https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota) - Use my edited one of this ✅
 - Re-install: `Modular Compass Minimap - lifestorock` and move the minimap to the top-right. ✅
+- `Simplified minimap - v1.0 - By AlphaLion` (From G.A.M.M.A discord | Tweaked file: zone_map_16 (moves map to top-right)) ✅
 - [Enhanced Graphical User Interface INC v.0.6.4](https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-gui) ❌
 - [Dynahud Hud Manager](https://www.moddb.com/mods/stalker-anomaly/addons/dynahud-hud-manager) ❌
 - `Reworked status icons (alt) - v1.5 - AlphaLion` (From G.A.M.M.A Discord) ❌
+- [M.H.P. Hands pack](https://www.moddb.com/addons/thap-re-rework) (From G.A.M.M.A discord) ✅
 
 **Heavier Textures - idk**
-- [Corrections of Brightly Colored Trees and Bushes (up 2.0)](https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes) ❌
-- `Rotten Life Texture pack - Oscoar, Hippobot, YuriVernadsky` (From G.A.M.M.A Discord / [here](https://drive.google.com/file/d/1qkpy6ygJJXav5BfD7FM9lLCvxZ22fBB2) - 21/08/2024) ⛔
-- [ATO Anomaly Texture Overhaul Beta 2](https://www.moddb.com/mods/stalker-anomaly/addons/ato-anomaly-texture-overhaul-beta-2) ⛔
-- [Emergent Zone: LUTs](https://www.mediafire.com/file/k1obdjr60lzkwkt/EMERGENT_ZONE_2_v1.0.zip/file) (From G.A.M.M.A Discord) ✅
+- ~~[Corrections of Brightly Colored Trees and Bushes (up 2.0)](https://www.moddb.com/mods/stalker-anomaly/addons/corrections-of-brightly-colored-trees-and-bushes)~~
 - [A.D.E.G.A - Optional Upscaled Sky Textures](https://www.mediafire.com/file/a5ijdglduul6ap4/Optional_Upscaled_Sky_Textures.7z) (place the sky textures below this if you want them) ⛔
-- [Zone Reality Remade](https://www.mediafire.com/file/liv6lrk1mz2xg4v/Zone_Reality_Remade.7z/file) ✅
+- `Rotten Life SEMIFINAL (From G.A.M.M.A Discord / [here](https://drive.google.com/file/d/1ofcPT7r7k4ugC96WCQMySZWRF2joln40/view) - 21/08/2024) ⛔
+- [ATO Anomaly Texture Overhaul Beta 2](https://www.moddb.com/mods/stalker-anomaly/addons/ato-anomaly-texture-overhaul-beta-2) ✅
+- [Emergent Zone: LUTs](https://www.mediafire.com/file/k1obdjr60lzkwkt/EMERGENT_ZONE_2_v1.0.zip/file) (From G.A.M.M.A Discord) ✅
+- [Zone Reality Remade](https://www.mediafire.com/file/liv6lrk1mz2xg4v/Zone_Reality_Remade.7z/file) ⛔
 - [Aydins Grass Tweaks SSS Terrain LOD compatibility](https://www.moddb.com/mods/stalker-anomaly/addons/aydins-grass-tweaks-sss-terrain-lod-compatiblity) (Not sure if necessary? - Not needed with A.D.E.G.A?) ✅
 - [Atmospheric Loading Screen](https://www.moddb.com/mods/stalker-anomaly/addons/atmospheric-loading-screen-by-salem) ✅
-- ~~[Atmospherics GAMMA](https://drive.google.com/drive/folders/1FpiCxz2zKTrbC3ocQlp4iaYzGzcgvT78)~~
 - [RE:PACK GLASS AND WINDOWS 1.5](https://www.moddb.com/mods/stalker-anomaly/addons/repack-glass-and-windows-14) ✅
-- ~~[DLTX T.H.A.P. Rework 2.3](https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework)~~
 - [RE:PACK PSEUDOGIANT 1.7](https://www.moddb.com/mods/stalker-anomaly/addons/repack-pseudogiant-1-7) ✅
 - [RE:PACK Barbed Wire 1.1](https://www.moddb.com/mods/stalker-anomaly/addons/repack-barbed-wire-1-0) ✅
 - [RE:PACK Doors 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-doors-10) ✅
