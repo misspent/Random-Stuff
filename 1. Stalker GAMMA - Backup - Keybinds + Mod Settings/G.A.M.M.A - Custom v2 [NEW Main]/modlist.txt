@@ -4,63 +4,66 @@
 -My Weapon Repositions
 -Newly added by Grok - Sort & Orgnaise_separator
 +New descr v0.32 - accurate GAMMA sleep + dizziness + final percentages [3]
-+Detailed Description v0.32 [2]
-+[MCM] Accurate Stats v0.4.1 - with G_Flat edits [1]
++Detailed Description v0.32 [1]
++[MCM] Accurate Stats v041 [sept 12] - G_FLAT edit for SOTA UI [1]
 -Detailed Stats Setup_separator
-+Consciousness Grass Overhaul
++Consciousness Grass Overhaul v0.2
 -Arrival QoL - patches
 -Arrival v13
-+Vehicles Redux V1.3
-+RE-PACK Crow v1.0
-+RE-PACK Signs v1.0
-+RE-PACK Doors v1.0
-+RE-PACK Barbed Wire v1.1
-+RE-PACK Pseudogiant v1.7
-+RE-PACK Glass and Windows v1.5
--Zone Reality Remade
-+A.D.E.G.A - Optional Upscaled Sky Textures
-+Atmospheric Loading Screen
--Corrections of Brightly Colored Trees and Bushes (up 2.0)
--EMERGENT ZONE pack 1 - v3.0
-+ATO Anomaly Texture Overhaul - Beta b2
--ROTTEN LIFE - Oscoar, Hippobot, YuriVernadsky
++RE-PACKS - Merged
++Atmospheric Loading Screen ONLY
++Aydins Grass Tweaks SSS Terrain LOD compatiblity
+-ATO Anomaly Texture Overhaul - Beta b2
++Emergent Zone v1.0 - 2
+-Rotten Life - SEMIFINAL
++Zone Reality Remade
+-A.D.E.G.A - v1.5.3
+-A.D.E.G.A - Optional Upscaled Sky Textures
 -Heavier Textures - idk_separator
--Reworked status icons (alt) - v1.5 - AlphaLion
--Dynahud Hud Manager v31 [2]
++M.H.P. Hands pack
++Outfit Animations v1.0.2
++[MCM] Headgear Animations v0.9.2
+-Dynahud Hud Manager v33 [2]
 -Enhanced Graphical User Interface v.0.6.4 [1]
++Simplified minimap - v1.0 - By AlphaLion
 +Modular Compass Minimap - lifestorock
 +UI Rework G.A.M.M.A. Style - My edit [Sota]
 +Inventory Weights Revised
 +Gentlemans Dismemberment
--[MCM] Dismemberment v0.81
-+Devices of Anomaly Redone (UPDATE 4.1)
--G.A.M.M.A Style Modern UI v2 - My Own little edit
-+Nicer Flashlights and Headlamps v2.0 - F.E.A.R variant
++Devices of Anomaly Redone v4.1
 -Nicer Flashlights and Headlamps v2.0 - Clean variant 2
++Nicer Flashlights and Headlamps v2.0 - F.E.A.R variant
 -Textures - Visuals_separator
--Western Goods v3.0.0
--[MCM] NPCs Limping and Healing
+-Map Edits - Bar v1.0
++Western Goods v3.0.0
 -A.R.E.A Player Animations - Refresh
++Geiger Clicks Rework v1.1 - By G_FLAT
+-[MCM] NPCs Limping and Healing (FIX 2)
+-Walking and Sprinting Reanimation for Lowered weapon - Redotix99
 -Added for next build - Remove when you update_separator
 -Companions don't die
+-Improved Travel Guides v2
 +Skills Expansion v2.1
-+Base Skills Pack v1.2.2
+-Base Skills Pack v1.2.2
++[MCM] RPG System for GAMMA
 +Experience Framework v2.1-U2
--[DLTX] Zone Passive Income v0.5.4
--[DLTX] Gifts From Companions v0.6.4
++[DLTX] Zone Passive Income v0.7.2
++[DLTX] Gifts From Companions v0.6.4
 -RE-DONE Collection v1.1.2.2 [NORTH MAPS COLLECTION]
 -RE-DONE Collection v2.3.4.1 [SOUTH MAPS COLLECTION]
 -True Game Changers_separator
 +[A LIFE] Performance - My edit
 -Invictus Protect
++Dialogue Expanded v5
 +Backpacks of the Zone
 +More meat from mutants
 +[MCM] Interactive PDA v1.64
 +Realistic Durability Drops V1.5
-+Dialogue Expanded Expanded v5
++[DLTX] Expanded Sidearm Weapons
 +Upgraded Guns And Armors In Stashes
++[ISFX] Improved Special Sound Effects V3.0.0
+-Scopes for TOZ-34 Chimera Hunter - EverybodyLies
 +[DLTX] HeatVision v1.3 + New goggles icon - MERGE
-+[DLTX] Machine Pistols & Sawn Off in Sidearm Slot V1.1
 -Other_separator
 +Stamina regen when Walking
 -Smaller Stalker Collision Radius
@@ -72,6 +75,9 @@
 +Artifact signature locator v1.0.2
 +[DLTX] Activated Charcoal v1.6.1
 +[DLTX] Expert Tools Crafting Recipe
+-Lower Weapon Sprint Optimized v1.3
++Remember Outfit Belt v1.0.1 - G_FLAT
++[DLTX] - Detectors Software Update (DSU)
 +Lockable Artifact Conditions v1.1.1 - G_FLAT
 -Quality of Life_separator
 +Free zoom - revisited
@@ -82,20 +88,21 @@
 +Drunks Starting Loadouts v7
 -Mechanic Upgrades Re-Enabled
 +Carry weight slider up to 10000kg
++[MCM] Quick Action Wheel v2.0.5
 +Even More Hideout Furniture v2.2
 +[DLTX] Better Caffeine Tablets v1.1
 +[DLTX] Anomaly Cooking Overhaul v2.0.4
-+[MCM] inakrins hitmarker Yuzuke Enhanced
+-[MCM] inakrins hitmarker Yuzuke Enhanced
 -Optional Utility_separator
 -HUD Offsets Editor - Reposition Weapons [2]
-+Draggable Hud Editor v10 - Reposition Weapons [1]
+-Draggable Hud Editor v10 - Reposition Weapons [1]
 +Rostok - Usable bar doors
 +Ascendant Crosshairs
 +Campfire Limb Healing
-+Extra Level Transitions v4
++Extra Level Transitions v4 + Edits
 +Autocomplete Tasks v2.1.4
 +Background Colors Highlight
-+Milspec PDA v1.11.1 - with Kill Tracker
++Milspec PDA v1.13 with Kill Tracker
 +HideTooltip v1.1
 +New Tasks Addon - iTheon
 -[MCM] Inventory Icons Resizer
@@ -107,6 +114,7 @@
 +[MCM] Drop and Disassemble Hotkey
 +[MCM] Anomaly Popup Messages v2.3
 -Imporant or Utility_separator
+-Universal Animations v2
 -(127) Remington R5 Assault Rifle V.2
 -(126) AR57A4 Carbine
 -(125) Molot VPO-136 and VPO-101 Rifles
@@ -183,9 +191,10 @@
 -(52) Tec-9 Submachinegun
 -(51) TT-33 Brunner Kit
 -(50) Walther P38 Pistol
--Juan's Weapons Guns - Edits by Snaptrap_separator
+-Juan's Weapons Guns_separator
 -261- Ammo Check - Ishmaeel
-+(13) Escape From Tarkov New Game Loadouts (Adds EFT Guns To New Game Screen)
++(14) Escape From Tarkov New Game Loadouts (Adds EFT Guns To New Game Screen)
++(13) Escape From Tarkov Grenade Pack
 +(12) Bullet Icons Like Tarkov (No Longer Ammo Box Icons)
 +(11) Frosty Weapon Pack DLTX Edits And Fixes
 +(10) Meowie And Juan Reworked Weapon Textures
@@ -265,15 +274,14 @@
 +G.A.M.M.A. Repair Kit Renaming
 +287- G.A.M.M.A. Massive Text Overhaul Project - SageDaHerb and Dr.Pr1nkos
 +G.A.M.M.A. Short Psi Storms
-+Anomaly Custom Weathers for Atmospherics
-+Atmospherics GAMMA v2.57
--290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot
++Anomaly CUSTOM Weathers for Atmospherics v1.58
+-Atmospherics GAMMA v2.62
++290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot
 +Anomaly Custom Weather
 +190- Screen Space Shaders 20 - Ascii1457
 +189- Beef's NVG - theRealBeef
 +188- Enhanced Shaders - KennShade
--Golden Autumn Retexture v1.1
-+Aydins Grass Tweaks SSS Terrain LOD compatiblity
++Golden Autumn Retexture v1.1
 +289- Grass Tweaks (reinstall for different options) - Aydin
 +360- GAMMA Reload Timing Fix - aegis27
 +Retrogue's Additional Weapons
@@ -310,7 +318,6 @@
 +Teivaz's Gunslinger Exo Animations Port
 +Solarint's New Piano Songs
 +Particles Cinematic VFX 3.5 1.1.2 BOTZ YAWM
--A.D.E.G.A - v1.5.3
 +Maid's and Grok's BaS Dynamic Zoom Enabler
 +Momopate's Detailed Weapon Stats
 +Momopate's Barrel Condition Effects Display
@@ -319,7 +326,7 @@
 +Optional Modern UI font
 +LSZ AI Tweaks
 +330- Personal Adjustable Waypoint - Catspaw
-+Ishmaeel's Kill Tracker
+-Ishmaeel's Kill Tracker
 +Grulag's In-game G.A.M.M.A. Manual
 +Grizzy's Guns Inertia
 +Grok's and Darkasleif's Armor Exchange
@@ -753,7 +760,7 @@
 +26- High Res PDA Maps - Bazingarrey
 +25- High Res Loading Screens - Bazingarrey
 -24- Skies Redux - d_nan
-+23- THAP Rework - IENCE
+-23- THAP Rework - IENCE
 +21- Visual_separator
 +20- EFT footsteps and tinnitus 1.1 - Souvlakii
 +19- Horror Overhaul - DesmanMetzger
