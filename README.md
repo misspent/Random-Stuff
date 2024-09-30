@@ -100,7 +100,8 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 ⛔ = Switch between it on/off/new playthrough + Not tested  
 
 **Other Categories / Bulk stuff / Noted / Not used**  
-- [Realistic Blood HQ REDONE 1.1](https://www.moddb.com/mods/stalker-anomaly/addons/realistic-blood-hq-redone-10-dltx) (testing)
+- [NO Dizziness from Drugs and Medicine](https://www.moddb.com/mods/stalker-anomaly/addons/no-dizziness-from-drugs-and-medicine)
+- [Improved Special Sound Effects](https://www.moddb.com/mods/stalker-anomaly/addons/isfx-improved-special-sound-effects-v300) ⛔
 - [Classes and talents 0.55](https://www.moddb.com/mods/stalker-anomaly/addons/classes-and-talents-01) (Skill tree system... Rather cool & weird) ⛔
 - [Update Modded Exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) (Had to delete `Anomaly\gamedata\shaders\r3` then Drag n' Drop new folder to stop *Shader Compilation Failed* error) ✅
 - [The Anomalous Stash](https://www.moddb.com/mods/stalker-anomaly/addons/the-anomalous-stash-beta-09) (This stash gives you access to the same universal stash no matter where in the zone you are | Not tested / downloaded *yet*?) ❌
@@ -194,6 +195,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Backpacks of the Zone](https://www.moddb.com/mods/stalker-anomaly/addons/backpacks-of-the-zone) ✅
 - [Invictus Protect](https://www.moddb.com/mods/stalker-anomaly/addons/invictus-protect-rc1819) ❌
 - [x3 Performance tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/x3-performance-tweaks) / [Performance and Reasonable alife.ltx settings](https://www.moddb.com/mods/stalker-anomaly/addons/performance-and-reasonable-alifeltx-settings) (I only used the Performance Alife.ltx & tweaked file myself) ✅
+- [JSRS Lite Patch For Performance](https://www.moddb.com/mods/stalker-anomaly/addons/jsrs-lite-patch-for-performance) ✅
 
 **True Game changer**
 - [RE:DONE Collection v2.3.4 VOL.1](https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection) ❌
@@ -219,6 +221,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 **Textures - Visual**
 - [Nicer Flashlights and Headlamps v2.0](https://www.moddb.com/mods/stalker-anomaly/addons/nicer-flashlights-and-headlamps-addon) (I used Clean variant 2 / F.E.A.R variant) ⛔
 - `Gentlemans Dismemberment` (from G.A.M.M.A Discord) & `300- Blood pool with trails and steps - xcvb` (Already in G.A.M.M.A's modlist but is disabled by default) ✅
+- [Realistic Blood HQ REDONE 1.1](https://www.moddb.com/mods/stalker-anomaly/addons/realistic-blood-hq-redone-10-dltx) ✅
 - [Inventory Weights Revised (UPDATE 1)](https://www.moddb.com/mods/stalker-anomaly/addons/151152-inventory-weights-revised) ✅
 - [UI Rework G.A.M.M.A . Style by Sota](https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota) - Use my edited one of this ✅
 - Re-install: `Modular Compass Minimap - lifestorock` and move the minimap to the top-right. ✅
@@ -227,11 +230,11 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Dynahud Hud Manager](https://www.moddb.com/mods/stalker-anomaly/addons/dynahud-hud-manager) ❌
 - `Reworked status icons (alt) - v1.5 - AlphaLion` (From G.A.M.M.A Discord) ❌
 - [Headgear Animations v0.9.2](https://www.moddb.com/mods/stalker-anomaly/addons/headgear-animations) ✅
-- [Drunk's Miserable Masks v7 fomod](https://www.moddb.com/mods/stalker-anomaly/addons/drunks-miserable-masks-v7) (Mask hud) ✅
+- [Drunk's Miserable Masks v7 fomod](https://www.moddb.com/mods/stalker-anomaly/addons/drunks-miserable-masks-v7) (Mask hud) ⛔
 - [Outfit Animations v1.0.2](https://www.moddb.com/mods/stalker-anomaly/addons/outfit-animations-v099) ✅
 - [M.H.P. Hands pack](https://www.moddb.com/addons/thap-re-rework) (From G.A.M.M.A discord) ✅
 
-**Heavier Textures - idk**
+**Heavier Textures & Sounds**
 - [A.D.E.G.A - Optional Upscaled Sky Textures](https://www.mediafire.com/file/a5ijdglduul6ap4/Optional_Upscaled_Sky_Textures.7z) (place the sky textures below this if you want them) ⛔
 - `Rotten Life SEMIFINAL (From G.A.M.M.A Discord / [here](https://drive.google.com/file/d/1ofcPT7r7k4ugC96WCQMySZWRF2joln40/view) - 21/08/2024) ⛔
 - [ATO Anomaly Texture Overhaul Beta 2](https://www.moddb.com/mods/stalker-anomaly/addons/ato-anomaly-texture-overhaul-beta-2) ⛔
@@ -259,7 +262,8 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 **FDDA - Testing**
 - [Faster Backpack Animation Speed](https://www.moddb.com/mods/stalker-anomaly/addons/faster-backpack-animation-speed)
 - [FDDA Enhanced Animations Enhanced](https://www.moddb.com/mods/stalker-anomaly/addons/fdda-enhanced-animations-enhanced)
-- [FDDA Backpack Freedom of Movement Tweak](https://www.moddb.com/mods/stalker-anomaly/addons/fdda-backpack-fluidity-tweak)
+- [FDDA Backpack Freedom of Movement Tweak](https://www.moddb.com/mods/stalker-anomaly/addons/fdda-backpack-fluidity-tweak) (Set `local crouch_toggle` to false)
+- `FDDA animations MCM unlocker - Screwyou` (From G.A.M.M.A Discord)
 
 <details>
   <summary align="center">📷 Mods I have enabled + load order (I left out G.A.M.M.A Fixes; refer to above for that order) | May become outdated</summary>
