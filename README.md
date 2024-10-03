@@ -250,6 +250,8 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [RE:PACK CROW 1.0](https://www.moddb.com/mods/stalker-anomaly/addons/repack-crow-10) ✅
 - [Vehicles Redux V1.3 2024 | NEW TEXTURES (No upscale)](https://www.moddb.com/mods/stalker-anomaly/addons/vehicles-redux-v11-2024-new-textures-no-upscale) ✅
 - [RE:TUNE Collection](https://www.moddb.com/members/isaacc1/addons?sort=dateup-desc) ⛔
+- [ISFX - Improved Special Sound Effects](https://www.moddb.com/mods/stalker-anomaly/addons/isfx-improved-special-sound-effects-v300) ⛔
+- [Audio Expansion for G.A.M.M.A](https://drive.google.com/file/d/15xCcP4h9iiinPV8HWKkjOGhLjFHqYQIA) (From G.A.M.M.A Discord) ⛔
 - [Arrival - Anomalies](https://www.moddb.com/mods/stalker-anomaly/addons/arrival-anomalies) ⛔
 - [Shaders Look Better v1.1.0](https://www.moddb.com/mods/stalker-anomaly/addons/shaders-look-better) ✅
 - `Consciousness Grass Overhaul` (From G.A.M.M.A Discord | huh8410 - This is CRAZY, it's early and not finished but still **EXTREMELY** impressive) ✅
