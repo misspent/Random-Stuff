@@ -272,7 +272,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
   <br>
 
 
-![My Mods - Stalker GAMMA v6](https://github.com/user-attachments/assets/8fece479-a64b-412d-985a-fe3c7228ee88)
+![My Mods - Stalker GAMMA v7](https://github.com/user-attachments/assets/5b55889d-90b8-4f5c-ab06-62311fbc27e0)
 
 
 </details>
