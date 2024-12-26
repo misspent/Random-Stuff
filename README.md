@@ -1,4 +1,78 @@
 <details>
+  <summary align="center">📱 Mobile / Phone (W.I.P)</summary>
+  <br>
+
+
+
+### 📝 **Websites used / Information (useful)**:
+
+**Modded APKs**:  
+[AppDoze](<https://appdoze.com>)  
+[Mobilism](<https://forum.mobilism.org>) -  Not non-games?  
+[RB Community](<https://www.rockmods.net>)
+[LITEAPKS.COM](<https://liteapks.com>) - My Fav?  
+
+**Untouched APKs**:  
+[APKMirror](<https://www.apkmirror.com>)  
+[UpToDown - Android](<https://en.uptodown.com>)  
+
+**Index / Other**:  
+[FREEMEDIAHECKYEAH](<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android>) - Reddit | android / IOS  
+[Universal Android Debloater Next-Generation](<https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation>) - GitHub  
+
+### 💾 Apps / Downloads
+
+#### 📌 **Important**:
+[Reddit (Premium Unlocked)](<https://liteapks.com/reddit.html>)  
+[X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
+[Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
+[YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Van=ced](<https://liteapks.com/youtube-vanced.html>)  
+
+#### 🛡️ **Security / Tracking?**:
+[AdGuard (Premium Unlocked)](<https://liteapks.com/adguard-2.html>)  
+[KillApps (Premium Unlocked)](<https://liteapks.com/killapps.html>)  
+[Anti (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
+
+#### 🎨 **Theme / Visuals**:
+[Horux Black - Icon Pack APK (Full Version)](<https://liteapks.com/horux-black-icon-pack.html>) - Black theme  
+[Nova Dark - Icon Pack APK (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>) - Support + requests  
+[iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>)  
+[Pika! Charging Show (VIP Unlocked)](<https://liteapks.com/pika-charging-show-2.html>)  
+[One Shade (Pro Unlocked)](<https://liteapks.com/one-shade-2.html>) - Custom Panel (square)  
+[Dynamic View (Premium Unlocked)](<https://liteapks.com/dynamic-view.html>)  
+
+#### 🔧 **Mobile Apps / Tweaks**:
+[ZEDGE Premium (Subscription, Lite)](<https://liteapks.com/zedge-wallpapers-ringtones.html>)  
+[Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>)  
+
+#### ➕ **Other**:
+[All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) - Utility: BACKUPS  
+[Pujie Black APK (Full Version)](<https://liteapks.com/pujie-black.html>) - For Smart Watches  
+[Offline Map Navigation (Premium Unlocked)](<https://liteapks.com/offline-map-navigation.html>)  
+[Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
+[AI Chat 4o (Chat GPT) (Premium Unlocked)](<https://liteapks.com/chat-gdt-2.html>)  
+[FUTO Keyboard](<https://keyboard.futo.org/>) - Keyboard  
+[Stylish Text Fonts & Keyboard (Premium Unlocked)](<https://liteapks.com/stylish-text-fonts-keyboard.html>) - Keyboard  
+[Grammarly Keyboard (Premium Unlocked)](<https://liteapks.com/grammarly-keyboard-3.html>) - Not trustworthy as it uploads everything you type but might be a fun test?  
+
+#### 🎮 **Games**:
+[Subway Surfers City (Menu, Unlimited Coins, Keys, Revives)](<https://liteapks.com/subway-surfers-city.html>)
+
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary align="center">🎮 Stalker G.A.M.M.A list of mods, information + other basics</summary>
   <br>
 
