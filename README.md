@@ -82,13 +82,14 @@ Bitwarden
 [Reddit (Premium Unlocked)](<https://liteapks.com/reddit.html>)  
 [X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
 [Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
+[Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?f=1336&t=5809299&hilit=Facebook+Lite>) - Or use Revanced?  
 [YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
 [Lucky Patcher](<https://forum.mobilism.org/viewtopic.php?f=438&t=5800842>), [2](<https://liteapks.com/lucky-patcher.html>) & [revanced-manager](<https://github.com/ReVanced/revanced-manager>)  
 
 #### 🛡️ **Security / Tracking?**:
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [CCleaner – Phone Cleaner (Pro + Mod Extras)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5803381>)  
-[AdGuard (Premium Unlocked)](<https://liteapks.com/adguard-2.html>)  
+[AdGuard Ad Blocker v4.7.179 (Final, Premium, No-Root & Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5799753&hilit=AdGuard+Ad+Blocker>) / [Lite version](<https://forum.mobilism.org/viewtopic.php?f=428&t=5801145&hilit=AdGuard+Ad+Blocker>)  
 
 #### 🎨 **Theme / Visuals**:
 [dynamicSpot](<https://liteapks.com/dynamic-island-dynamicspot.html>) / [Super Status Bar](<https://liteapks.com/super-status-bar.html>)  
@@ -98,6 +99,7 @@ Bitwarden
 [Nova Dark - Icon Pack APK (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>)  
 [iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>)  
 [Horux Black - Icon Pack APK (Full Version)](<https://liteapks.com/horux-black-icon-pack.html>)  
+[Nova Launcher (Final, Prime, UltraLite & Extra Customizable)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5480092>)  
 
 #### ⚙️ **Mobile Apps / Tweaks**:
 [Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>)  
@@ -107,8 +109,8 @@ Bitwarden
 [Widgetopia (Premium Unlocked)](<https://liteapks.com/widgetopia-ios-14.html>)  
 [Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
-[All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>)  
 [App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>), [2](<https://liteapks.com/app-usage.html>)  
+[All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) / [Swift Backup (Premium Unlocked)](<https://liteapks.com/swift-backup.html>)  
 
 #### ➕ **Other**:
 [TimeBlocks (Premium Unlocked)](<https://liteapks.com/timeblocks.html>)  
