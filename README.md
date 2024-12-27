@@ -103,7 +103,7 @@ Bitwarden
 
 #### ⚙️ **Mobile Apps / Tweaks**:
 [Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>)  
-[ZEDGE Premium (Subscription, Lite)](<https://liteapks.com/zedge-wallpapers-ringtones.html>)  
+[Zedge Wallpapers & Ringtones (Final + Subscribed)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5803273>)  
 
 #### 🔧 **Utility**:
 [Widgetopia (Premium Unlocked)](<https://liteapks.com/widgetopia-ios-14.html>)  
