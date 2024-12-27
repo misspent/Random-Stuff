@@ -11,7 +11,7 @@
 ### Install
 Bitwarden  
 [Aliucord](<https://github.com/Aliucord/Aliucord>)  
-Netguard (Firewall + whitelist/blacklist apps) - Similar to [NetLimiter](<https://www.netlimiter.com/>)  
+[NetGuard - no-root firewall](<https://forum.mobilism.org/viewtopic.php?f=428&t=5811017>) (Firewall + whitelist/blacklist apps) - Similar to [NetLimiter](<https://www.netlimiter.com/>)  
 
 
 ### **Personal Preference**:
@@ -21,7 +21,7 @@ Netguard (Firewall + whitelist/blacklist apps) - Similar to [NetLimiter](<https:
 **Play Store**: Click icon in top-right corner > `Play Protect` and turn it all off  
 **Settings**: > Search: `Device assistance app` > set `Device assistance app` to "None"  
 **Settings**: Search: `Permission manager` > Remove/Limit access of everything to your liking!  
-**Settings**: > `Connections` > `More Connections Settings` > `Private DNS`. Enter "dns.adguard.com"  
+**Settings**: > `Connections` > `More Connections Settings` > `Private DNS`. Enter "dns.adguard-dns.com"  or "family.adguard-dns.com"(for extra protection)  
 **Settings**: `Connections` > `Wi-Fi` > Hit 3 dots in top-right corner > `Advanced` > Disable: `Detect suspicious networks` & `Hotspot 2.0`  
 **Settings**: `About Device` > System > Tap `Build Number` 7-10 times > Go back and find `Developer Options` > `Quick settings developer tiles` > `Sensors off`  
 
@@ -78,43 +78,50 @@ Netguard (Firewall + whitelist/blacklist apps) - Similar to [NetLimiter](<https:
 ### 💾 Apps / Downloads
 
 #### 📌 **Important**:
+[Revo Uninstaller Mobile](<https://forum.mobilism.org/viewtopic.php?f=438&t=5802580>)  
 [Reddit (Premium Unlocked)](<https://liteapks.com/reddit.html>)  
 [X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
 [Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
-[Revo Uninstaller Mobile](<https://forum.mobilism.org/viewtopic.php?f=438&t=5802580>)  
 [YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
 [Lucky Patcher](<https://forum.mobilism.org/viewtopic.php?f=438&t=5800842>), [2](<https://liteapks.com/lucky-patcher.html>) & [revanced-manager](<https://github.com/ReVanced/revanced-manager>)  
 
 #### 🛡️ **Security / Tracking?**:
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [CCleaner – Phone Cleaner (Pro + Mod Extras)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5803381>)  
+[AdGuard (Premium Unlocked)](<https://liteapks.com/adguard-2.html>)  
 
 #### 🎨 **Theme / Visuals**:
+[dynamicSpot](<https://liteapks.com/dynamic-island-dynamicspot.html>) / [Super Status Bar](<https://liteapks.com/super-status-bar.html>)  
 [One Shade (Pro Unlocked)](<https://liteapks.com/one-shade-2.html>) - square  
 [Dynamic View (Premium Unlocked)](<https://liteapks.com/dynamic-view.html>)  
-[Nova Dark - Icon Pack APK (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>)  
-[Horux Black - Icon Pack APK (Full Version)](<https://liteapks.com/horux-black-icon-pack.html>)  
-[iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>)  
 [Pika! Charging Show (VIP Unlocked)](<https://liteapks.com/pika-charging-show-2.html>)  
-[dynamicSpot](<https://liteapks.com/dynamic-island-dynamicspot.html>) / [Super Status Bar](<https://liteapks.com/super-status-bar.html>)  
+[Nova Dark - Icon Pack APK (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>)  
+[iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>)  
+[Horux Black - Icon Pack APK (Full Version)](<https://liteapks.com/horux-black-icon-pack.html>)  
 
 #### ⚙️ **Mobile Apps / Tweaks**:
 [Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>)  
 [ZEDGE Premium (Subscription, Lite)](<https://liteapks.com/zedge-wallpapers-ringtones.html>)  
 
 #### 🔧 **Utility**:
+[Widgetopia (Premium Unlocked)](<https://liteapks.com/widgetopia-ios-14.html>)  
 [Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
-[All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) - Utility: BACKUPS  
-[App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>)  
+[All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>)  
+[App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>), [2](<https://liteapks.com/app-usage.html>)  
 
 #### ➕ **Other**:
+[TimeBlocks (Premium Unlocked)](<https://liteapks.com/timeblocks.html>)  
+[StandBy Mode Pro (Premium Unlocked)](<https://liteapks.com/standby-mode-pro.html>)  
 [Pujie Black APK (Full Version)](<https://liteapks.com/pujie-black.html>) - Smart Watches  
 [Offline Map Navigation (Premium Unlocked)](<https://liteapks.com/offline-map-navigation.html>)  
 [AI Chat 4o (Chat GPT) (Premium Unlocked)](<https://liteapks.com/chat-gdt-2.html>)  
+[NexBot AI (Premium Unlocked)](<https://liteapks.com/nexbot-ai.html>) - Best for everything? (Quill + ProWritingAid)  
 [FUTO Keyboard](<https://keyboard.futo.org/>) - Keyboard  
 [Stylish Text Fonts & Keyboard (Premium Unlocked)](<https://liteapks.com/stylish-text-fonts-keyboard.html>) - Keyboard  
+[Alarmy - Alarm Clock & Sleep (Premium Unlocked)](<https://liteapks.com/alarmy-alarm-clock-solution.html>)  
 [Grammarly Keyboard (Premium Unlocked)](<https://liteapks.com/grammarly-keyboard-3.html>) - Not trustworthy as it uploads everything you type but might be a fun test?  
+
 
 #### 🎮 **Games**:
 [Minecraft (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=447&t=5800656>)  
