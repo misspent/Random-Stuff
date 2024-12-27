@@ -11,7 +11,7 @@
 ### Install
 Bitwarden  
 [Aliucord](<https://github.com/Aliucord/Aliucord>)  
-[NetGuard - no-root firewall](<https://forum.mobilism.org/viewtopic.php?f=428&t=5811017>) (Firewall + whitelist/blacklist apps) - Similar to [NetLimiter](<https://www.netlimiter.com/>)  
+[NetGuard - no-root firewall](<https://forum.mobilism.org/viewtopic.php?f=428&t=5811017>) (Firewall + whitelist/blacklist apps) - Similar to [NetLimiter](<https://www.netlimiter.com/>) / [InviZible Pro: Tor & Firewall](<https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5787495>)  
 
 
 ### **Personal Preference**:
@@ -21,7 +21,7 @@ Bitwarden
 **Play Store**: Click icon in top-right corner > `Play Protect` and turn it all off  
 **Settings**: > Search: `Device assistance app` > set `Device assistance app` to "None"  
 **Settings**: Search: `Permission manager` > Remove/Limit access of everything to your liking!  
-**Settings**: > `Connections` > `More Connections Settings` > `Private DNS`. Enter "dns.adguard-dns.com"  or "family.adguard-dns.com"(for extra protection)  
+**Settings**: > `Connections` > `More Connections Settings` > `Private DNS`. Enter "dns.adguard.com", "family.adguard-dns.com"(for extra protection) or "bafcbe.dns.nextdns.io"  
 **Settings**: `Connections` > `Wi-Fi` > Hit 3 dots in top-right corner > `Advanced` > Disable: `Detect suspicious networks` & `Hotspot 2.0`  
 **Settings**: `About Device` > System > Tap `Build Number` 7-10 times > Go back and find `Developer Options` > `Quick settings developer tiles` > `Sensors off`  
 
@@ -63,7 +63,7 @@ Bitwarden
 
 **Modded APKs**:  
 [AppDoze](<https://appdoze.com>)  
-[Mobilism](<https://forum.mobilism.org>) -  Not non-games?  
+[Mobilism](<https://forum.mobilism.org>)  
 [RB Community](<https://www.rockmods.net>)  
 [LITEAPKS.COM](<https://liteapks.com>) - My Fav?  
 
@@ -74,6 +74,7 @@ Bitwarden
 **Index / Other**:  
 [FREEMEDIAHECKYEAH](<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android>) - Reddit | android / IOS  
 [Universal Android Debloater Next-Generation](<https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation>) - GitHub  
+[How to use NetGuard + personalDNSFilter+ Any VPN, without root, without external self-hosted servers](https://itsignacioportal.github.io/netguard-pdnsf-any-vpn-combo/)  
 
 ### 💾 Apps / Downloads
 
@@ -89,7 +90,7 @@ Bitwarden
 #### 🛡️ **Security / Tracking?**:
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [CCleaner – Phone Cleaner (Pro + Mod Extras)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5803381>)  
-[AdGuard Ad Blocker v4.7.179 (Final, Premium, No-Root & Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5799753&hilit=AdGuard+Ad+Blocker>) / [Lite version](<https://forum.mobilism.org/viewtopic.php?f=428&t=5801145&hilit=AdGuard+Ad+Blocker>)  
+[AdGuard Ad Blocker v4.7.179 (Final, Premium, No-Root & Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5799753&hilit=AdGuard+Ad+Blocker>) / [Lite version](<https://forum.mobilism.org/viewtopic.php?f=428&t=5801145&hilit=AdGuard+Ad+Blocker>) / [Blokada](<https://blokada.org/>)  
 
 #### 🎨 **Theme / Visuals**:
 [dynamicSpot](<https://liteapks.com/dynamic-island-dynamicspot.html>) / [Super Status Bar](<https://liteapks.com/super-status-bar.html>)  
@@ -110,24 +111,50 @@ Bitwarden
 [Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
 [App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>), [2](<https://liteapks.com/app-usage.html>)  
-[All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) / [Swift Backup (Premium Unlocked)](<https://liteapks.com/swift-backup.html>)  
+[All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) / [Swift Backup (Premium Unlocked)](<https://liteapks.com/swift-backup.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=438&t=5807659>), [3](<https://forum.mobilism.org/viewtopic.php?f=438&t=5777066>)  
 
 #### ➕ **Other**:
 [TimeBlocks (Premium Unlocked)](<https://liteapks.com/timeblocks.html>)  
 [StandBy Mode Pro (Premium Unlocked)](<https://liteapks.com/standby-mode-pro.html>)  
 [Pujie Black APK (Full Version)](<https://liteapks.com/pujie-black.html>) - Smart Watches  
-[Offline Map Navigation (Premium Unlocked)](<https://liteapks.com/offline-map-navigation.html>)  
 [AI Chat 4o (Chat GPT) (Premium Unlocked)](<https://liteapks.com/chat-gdt-2.html>)  
+[Offline Map Navigation (Premium Unlocked)](<https://liteapks.com/offline-map-navigation.html>)  
+[Alarmy - Alarm Clock & Sleep (Premium Unlocked)](<https://liteapks.com/alarmy-alarm-clock-solution.html>)  
 [NexBot AI (Premium Unlocked)](<https://liteapks.com/nexbot-ai.html>) - Best for everything? (Quill + ProWritingAid)  
 [FUTO Keyboard](<https://keyboard.futo.org/>) - Keyboard  
 [Stylish Text Fonts & Keyboard (Premium Unlocked)](<https://liteapks.com/stylish-text-fonts-keyboard.html>) - Keyboard  
-[Alarmy - Alarm Clock & Sleep (Premium Unlocked)](<https://liteapks.com/alarmy-alarm-clock-solution.html>)  
 [Grammarly Keyboard (Premium Unlocked)](<https://liteapks.com/grammarly-keyboard-3.html>) - Not trustworthy as it uploads everything you type but might be a fun test?  
+[Nebulo - DNS Changer DoH/DoT](<https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen>) - Recommended  
 
+#### **Custom ROMs / OS**:
+[Magisk](<https://github.com/topjohnwu/Magisk>)  
+[EdXposed](<https://github.com/ElderDrivers/EdXposed>) & [ZygiskNext](<https://github.com/Dr-TSNG/ZygiskNext>) - [1](<https://www.reddit.com/r/androidroot/comments/17og97c/need_help_with_xposed_framework/k7yiwi5/>)  
 
 #### 🎮 **Games**:
 [Minecraft (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=447&t=5800656>)  
 [Subway Surfers City (Menu, Unlimited Coins, Keys, Revives)](<https://liteapks.com/subway-surfers-city.html>)  
+
+#### 🌱 **Root REQUIRED**:
+[AFWall+](<https://github.com/ukanth/afwall>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5364989>)  
+[AdAway](<https://github.com/AdAway/AdAway>) - Widely used + recommended (Use with host file for BEST ad blocking experience across the WHOLE phone) | [1](<https://www.reddit.com/r/fossdroid/comments/1agzdyv/adaway_what_is_it_blocking/komllne/>)  
+[I root for](https://www.reddit.com/r/Android/comments/kogzrt/is_rooting_still_worth_the_effort_in_2021/ghrc3zk/), [2](https://www.reddit.com/r/androidroot/comments/17uycnw/what_are_the_benefits_of_rooting_android_in_2023/k96ytqo/), [3](<https://www.reddit.com/r/Android/comments/96r4qz/is_rooting_your_device_still_worth_it/e42umay/>):  
+- Adaway
+- Adds removal without using vpn
+- Call recording (I use skvalex with the Magisk module)
+- Titanium backup & restore - (getting less important as more app details are synced in the cloud) - also for debloat by freezing system junk
+- Battery Charge Limit
+- Greenify
+- Island for 2 whatsapp accounts on one phone
+- Amplify to reduce wakelocks
+- Root features of Notification Center for Pebble
+- Uninstall/disable bloatware
+- Full app backup and restore with Swift Backup
+- root browser (I use Solid Explorer)
+- Viper4android for audio tweaks
+- Kernel Audiutor to tweak performance + good battery
+- Custom boot animation's
+I never use custom roms anymore. I like Motorola phones and their stock ROMs are pretty decent. Also I have had a lot of trouble with mobile networks on custom ROMS - VOLTE stops working and other bugs.  
+
 
 
 
