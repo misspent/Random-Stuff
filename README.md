@@ -4,7 +4,62 @@
 
 
 
-### 📝 **Websites used / Information (useful)**:
+## 📥 My Tweaks (What I do after re-install)
+
+
+
+### Install
+Bitwarden  
+[Aliucord](<https://github.com/Aliucord/Aliucord>)  
+Netguard (Firewall + whitelist/blacklist apps) - Similar to [NetLimiter](<https://www.netlimiter.com/>)  
+
+
+### **Personal Preference**:
+**Settings**: > Search: `Auto sync` > Disable it  
+**Settings**: `Privacy` > Enable: `Alert when clipboard accessed`  
+**Settings**: `Developer options` > Enable: `Suspend execution for cached apps`  
+**Play Store**: Click icon in top-right corner > `Play Protect` and turn it all off  
+**Settings**: > Search: `Device assistance app` > set `Device assistance app` to "None"  
+**Settings**: Search: `Permission manager` > Remove/Limit access of everything to your liking!  
+**Settings**: > `Connections` > `More Connections Settings` > `Private DNS`. Enter "dns.adguard.com"  
+**Settings**: `Connections` > `Wi-Fi` > Hit 3 dots in top-right corner > `Advanced` > Disable: `Detect suspicious networks` & `Hotspot 2.0`  
+**Settings**: `About Device` > System > Tap `Build Number` 7-10 times > Go back and find `Developer Options` > `Quick settings developer tiles` > `Sensors off`  
+
+
+#### **Disable**
+- Bixby Routines
+- Find mMY Device
+- Turns off Edge panels
+- Disables the app drawer 
+- Limit apps and Home screen
+- NFC and contactless payments
+- Reduces refresh rate to 60Hz
+- Limits all background activity
+- Only allows selected apps (up to eight) on the Home screen
+- Sets a system-wide dark theme (with a solid black wallpaper)
+- Adaptive Battery (unless you use a lot... Needs to learn habits)
+
+
+#### **Other / Write-ups**:
+- You put some apps into Deep sleep
+- Disable fast charging in settings & Turn on power saving mode (batter option?) This'll only charge it to 85%?  
+- Set up a Bixby Routine so that when it's charging, Protect Battery is turned on (yes, this is now an option in Bixby Routines).
+- At night when it's idling, set up a Bixby Routine to turn on Airplane mode. For example, mine is set to turn it on between 00:00 - 06:00 during work days  
+- [Guide: How to increase battery life and battery health, using Lithium battery science!](<https://www.reddit.com/r/samsung/comments/pyn8n4/guide_how_to_increase_battery_life_and_battery/>)  
+- [MEGA PRO TIPS - Make the most of your S10! Settings, Customization, Convenience & Battery Tips!](<https://www.reddit.com/r/galaxys10/comments/bg2bb2/mega_pro_tips_make_the_most_of_your_s10_settings/>)  
+
+
+#### **Videos**:
+- [Android privacy optimization guide](https://youtu.be/7sZVdoQ0NN0) - Developer mode  
+- [23 Android 13 Settings You NEED To Turn Off Now](https://youtu.be/dEE7OjXeNqQ)  
+- [Every Android Privacy Setting You Need To Change Now](https://youtu.be/hH7hmlEIijQ)  
+- [25 hacks to fix android battery drain — #7 is a killer (#7 is Adaptive Brightness)](https://youtu.be/y5ewEJtT134) - DeArrow extension renames title  
+
+
+
+## 📝 **Websites used / Information (useful)**:
+
+
 
 **Modded APKs**:  
 [AppDoze](<https://appdoze.com>)  
@@ -26,37 +81,44 @@
 [Reddit (Premium Unlocked)](<https://liteapks.com/reddit.html>)  
 [X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
 [Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
-[YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Van=ced](<https://liteapks.com/youtube-vanced.html>)  
+[Revo Uninstaller Mobile](<https://forum.mobilism.org/viewtopic.php?f=438&t=5802580>)  
+[YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
+[Lucky Patcher](<https://forum.mobilism.org/viewtopic.php?f=438&t=5800842>), [2](<https://liteapks.com/lucky-patcher.html>) & [revanced-manager](<https://github.com/ReVanced/revanced-manager>)  
 
 #### 🛡️ **Security / Tracking?**:
-[AdGuard (Premium Unlocked)](<https://liteapks.com/adguard-2.html>)  
-[KillApps (Premium Unlocked)](<https://liteapks.com/killapps.html>)  
-[Anti (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
+[Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
+[CCleaner – Phone Cleaner (Pro + Mod Extras)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5803381>)  
 
 #### 🎨 **Theme / Visuals**:
-[Horux Black - Icon Pack APK (Full Version)](<https://liteapks.com/horux-black-icon-pack.html>) - Black theme  
-[Nova Dark - Icon Pack APK (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>) - Support + requests  
+[One Shade (Pro Unlocked)](<https://liteapks.com/one-shade-2.html>) - square  
+[Dynamic View (Premium Unlocked)](<https://liteapks.com/dynamic-view.html>)  
+[Nova Dark - Icon Pack APK (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>)  
+[Horux Black - Icon Pack APK (Full Version)](<https://liteapks.com/horux-black-icon-pack.html>)  
 [iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>)  
 [Pika! Charging Show (VIP Unlocked)](<https://liteapks.com/pika-charging-show-2.html>)  
-[One Shade (Pro Unlocked)](<https://liteapks.com/one-shade-2.html>) - Custom Panel (square)  
-[Dynamic View (Premium Unlocked)](<https://liteapks.com/dynamic-view.html>)  
+[dynamicSpot](<https://liteapks.com/dynamic-island-dynamicspot.html>) / [Super Status Bar](<https://liteapks.com/super-status-bar.html>)  
 
-#### 🔧 **Mobile Apps / Tweaks**:
-[ZEDGE Premium (Subscription, Lite)](<https://liteapks.com/zedge-wallpapers-ringtones.html>)  
+#### ⚙️ **Mobile Apps / Tweaks**:
 [Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>)  
+[ZEDGE Premium (Subscription, Lite)](<https://liteapks.com/zedge-wallpapers-ringtones.html>)  
+
+#### 🔧 **Utility**:
+[Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
+[Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
+[All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) - Utility: BACKUPS  
+[App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>)  
 
 #### ➕ **Other**:
-[All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) - Utility: BACKUPS  
-[Pujie Black APK (Full Version)](<https://liteapks.com/pujie-black.html>) - For Smart Watches  
+[Pujie Black APK (Full Version)](<https://liteapks.com/pujie-black.html>) - Smart Watches  
 [Offline Map Navigation (Premium Unlocked)](<https://liteapks.com/offline-map-navigation.html>)  
-[Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
 [AI Chat 4o (Chat GPT) (Premium Unlocked)](<https://liteapks.com/chat-gdt-2.html>)  
 [FUTO Keyboard](<https://keyboard.futo.org/>) - Keyboard  
 [Stylish Text Fonts & Keyboard (Premium Unlocked)](<https://liteapks.com/stylish-text-fonts-keyboard.html>) - Keyboard  
 [Grammarly Keyboard (Premium Unlocked)](<https://liteapks.com/grammarly-keyboard-3.html>) - Not trustworthy as it uploads everything you type but might be a fun test?  
 
 #### 🎮 **Games**:
-[Subway Surfers City (Menu, Unlimited Coins, Keys, Revives)](<https://liteapks.com/subway-surfers-city.html>)
+[Minecraft (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=447&t=5800656>)  
+[Subway Surfers City (Menu, Unlimited Coins, Keys, Revives)](<https://liteapks.com/subway-surfers-city.html>)  
 
 
 
