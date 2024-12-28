@@ -83,7 +83,7 @@ Bitwarden
 [Reddit (Premium Unlocked)](<https://liteapks.com/reddit.html>)  
 [X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
 [Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
-[Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?f=1336&t=5809299&hilit=Facebook+Lite>) - Or use Revanced?  
+[Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?f=1336&t=5809299>) - Or use Revanced?  
 [YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
 [Lucky Patcher](<https://forum.mobilism.org/viewtopic.php?f=438&t=5800842>), [2](<https://liteapks.com/lucky-patcher.html>) & [revanced-manager](<https://github.com/ReVanced/revanced-manager>)  
 
@@ -103,7 +103,8 @@ Bitwarden
 [Nova Launcher (Final, Prime, UltraLite & Extra Customizable)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5480092>)  
 
 #### ⚙️ **Mobile Apps / Tweaks**:
-[Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>)  
+[Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>) , [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=5775379>) / [Teka Notes - Notepad (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5808704>)  
+[TickTick:To-do list & Tasks (Pro + Mod Extra) ](<https://forum.mobilism.org/viewtopic.php?f=432&t=5803384>)  
 [Zedge Wallpapers & Ringtones (Final + Subscribed)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5803273>)  
 
 #### 🔧 **Utility**:
