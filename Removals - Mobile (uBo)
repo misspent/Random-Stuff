@@ -27,3 +27,10 @@ apkpure.com##.withdraw-entrance-fancy-wrap
 
 ! LiteAPKs.com
 liteapks.com##section:has(form.form-comment)
+
+! DevUploads (thecubexguide.com)
+thecubexguide.com###about
+thecubexguide.com###aboutdis
+thecubexguide.com##.premium
+thecubexguide.com##.col-lg-6.col-md-12.aboutFile.mb-4
+thecubexguide.com##.report
