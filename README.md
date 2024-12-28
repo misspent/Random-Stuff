@@ -66,6 +66,7 @@ Bitwarden
 [Mobilism](<https://forum.mobilism.org>)  
 [RB Community](<https://www.rockmods.net>)  
 [LITEAPKS.COM](<https://liteapks.com>) - My Fav?  
+[Platinmods](<https://platinmods.com/>) - Modded Games  
 
 **Untouched APKs**:  
 [APKMirror](<https://www.apkmirror.com>)  
@@ -100,7 +101,8 @@ Bitwarden
 [Nova Dark - Icon Pack APK (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>)  
 [iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>)  
 [Horux Black - Icon Pack APK (Full Version)](<https://liteapks.com/horux-black-icon-pack.html>)  
-[Nova Launcher (Final, Prime, UltraLite & Extra Customizable)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5480092>)  
+[Icon Pack Studio Unrestricted (Premium)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5742272>)  
+[Nova Launcher (Final, Prime, UltraLite & Extra Customizable)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5480092>) / [Smart Launcher 6 (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5804979>)  
 
 #### ⚙️ **Mobile Apps / Tweaks**:
 [Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>) , [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=5775379>) / [Teka Notes - Notepad (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5808704>)  
