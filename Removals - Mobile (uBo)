@@ -1,0 +1,29 @@
+[Misspent Mobile Filter 1.0]
+! Title: 🔍 Misspent Removals - Mobile
+! Description: A list that removes the not needed elements from websites.
+! Homepage: https://github.com/misspent/Random-Stuff
+
+
+! Brave Search Engine
+search.brave.com###faq
+search.brave.com###search-elsewhere
+search.brave.com###related-queries
+search.brave.com##footer
+search.brave.com##.thumbnail-wrapper
+
+! DuckDuckGo
+duckduckgo.com##.react-feedback-prompt-mvc-wrapper
+duckduckgo.com##.related-searches
+duckduckgo.com##[data-layout="related_searches"]
+duckduckgo.com##.footer
+duckduckgo.com##[data-testid="feedback-prompt"]
+
+
+! APKpure.com
+apkpure.com##.dt-security-statement-card.security-statement-card
+apkpure.com##.download-vip-subscribe-wrap
+apkpure.com##.footer_new
+apkpure.com##.withdraw-entrance-fancy-wrap
+
+! LiteAPKs.com
+liteapks.com##section:has(form.form-comment)
