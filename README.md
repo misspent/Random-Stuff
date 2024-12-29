@@ -110,13 +110,20 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 **Icons**:  
 [Icon Pack Studio v2.2 (Unrestricted + Premium)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5742272>) - Use `Theme Park` to apply the icons  
 [Moxy Icon Pack (Full Version)](<https://liteapks.com/moxy-icon-pack.html>)  
+[Super Icon Pack (Full Version)](<https://liteapks.com/super-icon-pack.html>)  
 [Ciclo - Icon Pack (Full Version)](<https://liteapks.com/ciclo-icon-pack.html>)  
 [Glassify Icon Pack (Full Version)](<https://liteapks.com/glassify-icon-pack.html>)  
+[Darko - Icon Pack (Full Version)](<https://liteapks.com/darko-icon-pack.html>)  
 [Bladient Icon Pack (Full Version)](<https://liteapks.com/bladient-icon-pack.html>)  
 [Vera Icon Pack APK (Full Version)](<https://liteapks.com/vera-icon-pack.html>)   
+[Supreme Icon Pack (Full Version)](<https://liteapks.com/supreme-icon-pack.html>)  
 [Nova Dark Icon Pack (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>)  
+[SuperBlack Icon Pack (Full Version)](<https://liteapks.com/superblack-icon-pack.html>)  
+[Baked Dark Icon Pack (Full Version)](<https://liteapks.com/baked-dark-icon-pack.html>)  
 [Vera Outline Icon Pack (Full Version)](<https://liteapks.com/vera-outline-icon-pack.html>)  
+[PixxR Buttons Icon Pack (Full Version)](<https://liteapks.com/pixxr-buttons-icon-pack.html>)  
 [Layers - Glass Icon Pack (Full Version)](<https://liteapks.com/layers-glass-icon-pack.html>)  
+[Hera Dark: Circle Icon Pack (Full Version)](<https://liteapks.com/hera-dark-circle-icon-pack.html>)  
 [iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5692098>)  
 
 
@@ -130,6 +137,7 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
 [App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>), [2](<https://liteapks.com/app-usage.html>)  
 [All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) / [Swift Backup (Premium Unlocked)](<https://liteapks.com/swift-backup.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=438&t=5807659>), [3](<https://forum.mobilism.org/viewtopic.php?f=438&t=5777066>)  
+[Button Mapper: Remap your keys (Pro + Altered)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5764369>) - Single press, Double press and hold press of phone buttons mapping.  
 
 #### ➕ **Other**:
 [TimeBlocks (Premium Unlocked)](<https://liteapks.com/timeblocks.html>)  
@@ -141,6 +149,7 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 [NexBot AI (Premium Unlocked)](<https://liteapks.com/nexbot-ai.html>) - Best for everything? (Quill + ProWritingAid)  
 [FUTO Keyboard](<https://keyboard.futo.org/>) - Keyboard  
 [Stylish Text Fonts & Keyboard (Premium Unlocked)](<https://liteapks.com/stylish-text-fonts-keyboard.html>) - Keyboard  
+[Microsoft SwiftKey AI Keyboard (Final + Mod)](<https://forum.mobilism.org/viewtopic.php?f=426&t=5445309>) - EXTREMELY recommended...  
 [Grammarly Keyboard (Premium Unlocked)](<https://liteapks.com/grammarly-keyboard-3.html>) - Not trustworthy as it uploads everything you type but might be a fun test?  
 [Nebulo - DNS Changer DoH/DoT](<https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen>) - Recommended  
 
