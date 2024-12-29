@@ -25,6 +25,11 @@ Bitwarden
 **Settings**: `Connections` > `Wi-Fi` > Hit 3 dots in top-right corner > `Advanced` > Disable: `Detect suspicious networks` & `Hotspot 2.0`  
 **Settings**: `About Device` > System > Tap `Build Number` 7-10 times > Go back and find `Developer Options` > `Quick settings developer tiles` > `Sensors off`  
 
+### **Customization**:
+**Install**: `GoodLock` App  
+Download `Home Up` within the app (hide label names, have more app rows, task changer, etc) | 
+Download `LockStart` & `Theme Park` within the app (both work together)  
+Download `QuickStar` within the app (move clock location @ top + custom theme)  
 
 #### **Disable**
 - Bixby Routines
@@ -84,6 +89,7 @@ Bitwarden
 [Reddit (Premium Unlocked)](<https://liteapks.com/reddit.html>)  
 [X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
 [Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
+[Spotify: Music and Podcasts (Mod Lite)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5801165>)  
 [Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?f=1336&t=5809299>) - Or use Revanced?  
 [YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
 [Lucky Patcher](<https://forum.mobilism.org/viewtopic.php?f=438&t=5800842>), [2](<https://liteapks.com/lucky-patcher.html>) & [revanced-manager](<https://github.com/ReVanced/revanced-manager>)  
@@ -99,9 +105,9 @@ Bitwarden
 [Dynamic View (Premium Unlocked)](<https://liteapks.com/dynamic-view.html>)  
 [Pika! Charging Show (VIP Unlocked)](<https://liteapks.com/pika-charging-show-2.html>)  
 [Nova Dark - Icon Pack APK (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>)  
-[iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>)  
+[iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5692098>)  
 [Horux Black - Icon Pack APK (Full Version)](<https://liteapks.com/horux-black-icon-pack.html>)  
-[Icon Pack Studio Unrestricted (Premium)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5742272>)  
+[Icon Pack Studio v2.2 (Unrestricted + Premium)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5742272>)
 [Nova Launcher (Final, Prime, UltraLite & Extra Customizable)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5480092>) / [Smart Launcher 6 (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5804979>)  
 
 #### ⚙️ **Mobile Apps / Tweaks**:
