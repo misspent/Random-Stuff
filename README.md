@@ -29,7 +29,7 @@ Bitwarden
 **Install**: `GoodLock` App  
 Download `Home Up` within the app (hide label names, have more app rows, task changer, etc) | 
 Download `LockStart` & `Theme Park` within the app (both work together)  
-Download `QuickStar` within the app (move clock location @ top + custom theme)  
+Download `QuickStar` within the app (move clock location @ top + custom theme & Auto-expand notifications: [1](<https://xdaforums.com/t/auto-expand-notifications.4562939/>))  
 
 #### **Disable**
 - Bixby Routines
@@ -97,26 +97,33 @@ Download `QuickStar` within the app (move clock location @ top + custom theme)
 #### 🛡️ **Security / Tracking?**:
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [CCleaner – Phone Cleaner (Pro + Mod Extras)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5803381>)  
-[AdGuard Ad Blocker v4.7.179 (Final, Premium, No-Root & Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5799753&hilit=AdGuard+Ad+Blocker>) / [Lite version](<https://forum.mobilism.org/viewtopic.php?f=428&t=5801145&hilit=AdGuard+Ad+Blocker>) / [Blokada](<https://blokada.org/>)  
+[AdGuard Ad Blocker v4.7.179 (Final, Premium, No-Root & Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5799753&hilit=AdGuard+Ad+Blocker>), [Lite version](<https://forum.mobilism.org/viewtopic.php?f=428&t=5801145&hilit=AdGuard+Ad+Blocker>) / [Blokada](<https://blokada.org/>)  
 
 #### 🎨 **Theme / Visuals**:
-[dynamicSpot](<https://liteapks.com/dynamic-island-dynamicspot.html>) / [Super Status Bar](<https://liteapks.com/super-status-bar.html>)  
-[One Shade (Pro Unlocked)](<https://liteapks.com/one-shade-2.html>) - square  
-[Dynamic View (Premium Unlocked)](<https://liteapks.com/dynamic-view.html>)  
 [Pika! Charging Show (VIP Unlocked)](<https://liteapks.com/pika-charging-show-2.html>)  
-[Nova Dark - Icon Pack APK (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>)  
+[Dynamic View (Premium Unlocked)](<https://liteapks.com/dynamic-view.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=439&t=5675680>)  
+[Super Status Bar (Premium + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5653886>)  
+[One Shade (Pro Unlocked)](<https://liteapks.com/one-shade-2.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=439&t=5809941>) / [Mi Control Center (Pro)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5808346>)   
+~~[Nova Launcher (Final, Prime, UltraLite & Extra Customizable)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5480092>) / [Smart Launcher 6 (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5804979>)~~  
+**Icons**:  
+[Icon Pack Studio v2.2 (Unrestricted + Premium)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5742272>) - Use `Theme Park` to apply the icons  
+[Moxy Icon Pack (Full Version)](<https://liteapks.com/moxy-icon-pack.html>)  
+[Ciclo - Icon Pack (Full Version)](<https://liteapks.com/ciclo-icon-pack.html>)  
+[Glassify Icon Pack (Full Version)](<https://liteapks.com/glassify-icon-pack.html>)  
+[Bladient Icon Pack (Full Version)](<https://liteapks.com/bladient-icon-pack.html>)  
+[Vera Icon Pack APK (Full Version)](<https://liteapks.com/vera-icon-pack.html>)   
+[Nova Dark Icon Pack (Full Version)](<https://liteapks.com/nova-dark-icon-pack.html>)  
+[Vera Outline Icon Pack (Full Version)](<https://liteapks.com/vera-outline-icon-pack.html>)  
+[Layers - Glass Icon Pack (Full Version)](<https://liteapks.com/layers-glass-icon-pack.html>)  
 [iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5692098>)  
-[Horux Black - Icon Pack APK (Full Version)](<https://liteapks.com/horux-black-icon-pack.html>)  
-[Icon Pack Studio v2.2 (Unrestricted + Premium)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5742272>)
-[Nova Launcher (Final, Prime, UltraLite & Extra Customizable)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5480092>) / [Smart Launcher 6 (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5804979>)  
+
 
 #### ⚙️ **Mobile Apps / Tweaks**:
-[Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>) , [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=5775379>) / [Teka Notes - Notepad (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5808704>)  
 [TickTick:To-do list & Tasks (Pro + Mod Extra) ](<https://forum.mobilism.org/viewtopic.php?f=432&t=5803384>)  
 [Zedge Wallpapers & Ringtones (Final + Subscribed)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5803273>)  
+[Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>) , [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=5775379>) / [Teka Notes - Notepad (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5808704>) | [UpNote - notes, diary, journal (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5811052>) - UpNote has desktop app (sync?)  
 
 #### 🔧 **Utility**:
-[Widgetopia (Premium Unlocked)](<https://liteapks.com/widgetopia-ios-14.html>)  
 [Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
 [App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>), [2](<https://liteapks.com/app-usage.html>)  
@@ -145,6 +152,7 @@ Download `QuickStar` within the app (move clock location @ top + custom theme)
 
 #### 🌱 **Root REQUIRED**:
 [AFWall+](<https://github.com/ukanth/afwall>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5364989>)  
+[Folder Widget - Large Folders (Pro + Root)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5663682>)  
 [AdAway](<https://github.com/AdAway/AdAway>) - Widely used + recommended (Use with host file for BEST ad blocking experience across the WHOLE phone) | [1](<https://www.reddit.com/r/fossdroid/comments/1agzdyv/adaway_what_is_it_blocking/komllne/>)  
 [I root for](https://www.reddit.com/r/Android/comments/kogzrt/is_rooting_still_worth_the_effort_in_2021/ghrc3zk/), [2](https://www.reddit.com/r/androidroot/comments/17uycnw/what_are_the_benefits_of_rooting_android_in_2023/k96ytqo/), [3](<https://www.reddit.com/r/Android/comments/96r4qz/is_rooting_your_device_still_worth_it/e42umay/>):  
 - Adaway
