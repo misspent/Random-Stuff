@@ -100,9 +100,11 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 [AdGuard Ad Blocker v4.7.179 (Final, Premium, No-Root & Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5799753&hilit=AdGuard+Ad+Blocker>), [Lite version](<https://forum.mobilism.org/viewtopic.php?f=428&t=5801145&hilit=AdGuard+Ad+Blocker>) / [Blokada](<https://blokada.org/>)  
 
 #### 🎨 **Theme / Visuals**:
+[AmoledPix (Premium Unlocked)](<https://liteapks.com/amoledpix-black-4k-wallpapers.html>)  
 [Pika! Charging Show (VIP Unlocked)](<https://liteapks.com/pika-charging-show-2.html>)  
 [Dynamic View (Premium Unlocked)](<https://liteapks.com/dynamic-view.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=439&t=5675680>)  
 [Super Status Bar (Premium + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5653886>)  
+[Ultra Volume Control Styles (MOD + Pro Unlocked)](<https://liteapks.com/ultra-volume-control-styles.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=439&t=5810470>), [Prem + Mod Extra](<https://forum.mobilism.org/viewtopic.php?f=439&t=4867270>)  
 [One Shade (Pro Unlocked)](<https://liteapks.com/one-shade-2.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=439&t=5809941>) / [Mi Control Center (Pro)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5808346>)   
 ~~[Nova Launcher (Final, Prime, UltraLite & Extra Customizable)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5480092>) / [Smart Launcher 6 (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5804979>)~~  
 **Icons**:  
