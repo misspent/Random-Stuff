@@ -32,8 +32,7 @@ Download `LockStart` & `Theme Park` within the app (both work together)
 Download `QuickStar` within the app (move clock location @ top + custom theme & Auto-expand notifications: [1](<https://xdaforums.com/t/auto-expand-notifications.4562939/>))  
 
 #### **Disable**
-- Bixby Routines
-- Find mMY Device
+- Find My Device
 - Turns off Edge panels
 - Disables the app drawer 
 - Limit apps and Home screen
@@ -90,7 +89,7 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 [X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
 [Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
 [Spotify: Music and Podcasts (Mod Lite)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5801165>)  
-[Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?f=1336&t=5809299>) - Or use Revanced?  
+[Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?t=5809299>)   
 [YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
 [Lucky Patcher](<https://forum.mobilism.org/viewtopic.php?f=438&t=5800842>), [2](<https://liteapks.com/lucky-patcher.html>) & [revanced-manager](<https://github.com/ReVanced/revanced-manager>)  
 
@@ -126,7 +125,6 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 [Hera Dark: Circle Icon Pack (Full Version)](<https://liteapks.com/hera-dark-circle-icon-pack.html>)  
 [iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5692098>)  
 
-
 #### ⚙️ **Mobile Apps / Tweaks**:
 [TickTick:To-do list & Tasks (Pro + Mod Extra) ](<https://forum.mobilism.org/viewtopic.php?f=432&t=5803384>)  
 [Zedge Wallpapers & Ringtones (Final + Subscribed)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5803273>)  
@@ -136,6 +134,7 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 [Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
 [App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>), [2](<https://liteapks.com/app-usage.html>)  
+[PdaNet+ (Premium Unlocked)](<https://liteapks.com/pdanet.html>) - Use Cellular data as and internet source for devices/PC  
 [All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) / [Swift Backup (Premium Unlocked)](<https://liteapks.com/swift-backup.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=438&t=5807659>), [3](<https://forum.mobilism.org/viewtopic.php?f=438&t=5777066>)  
 [Button Mapper: Remap your keys (Pro + Altered)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5764369>) - Single press, Double press and hold press of phone buttons mapping.  
 
@@ -147,9 +146,9 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 [Offline Map Navigation (Premium Unlocked)](<https://liteapks.com/offline-map-navigation.html>)  
 [Alarmy - Alarm Clock & Sleep (Premium Unlocked)](<https://liteapks.com/alarmy-alarm-clock-solution.html>)  
 [NexBot AI (Premium Unlocked)](<https://liteapks.com/nexbot-ai.html>) - Best for everything? (Quill + ProWritingAid)  
-[FUTO Keyboard](<https://keyboard.futo.org/>) - Keyboard  
+[FUTO Keyboard](<https://keyboard.futo.org/>) / [HeliBoard](<https://github.com/Helium314/HeliBoard>) - Keyboard  
 [Stylish Text Fonts & Keyboard (Premium Unlocked)](<https://liteapks.com/stylish-text-fonts-keyboard.html>) - Keyboard  
-[Microsoft SwiftKey AI Keyboard (Final + Mod)](<https://forum.mobilism.org/viewtopic.php?f=426&t=5445309>) - EXTREMELY recommended...  
+[Microsoft SwiftKey AI Keyboard (Final + Mod)](<https://forum.mobilism.org/viewtopic.php?f=426&t=5445309>) - EXTREMELY recommended... (Inaccurate now?)  
 [Grammarly Keyboard (Premium Unlocked)](<https://liteapks.com/grammarly-keyboard-3.html>) - Not trustworthy as it uploads everything you type but might be a fun test?  
 [Nebulo - DNS Changer DoH/DoT](<https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen>) - Recommended  
 
