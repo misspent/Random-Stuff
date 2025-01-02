@@ -27,7 +27,7 @@ Bitwarden
 
 ### **Customization**:
 **Install**: `GoodLock` App  
-Download `Home Up` within the app (hide label names, have more app rows, task changer, etc) | 
+Download `Home Up` within the app (hide label names, have more app rows, task changer, etc)  
 Download `LockStart` & `Theme Park` within the app (both work together)  
 Download `QuickStar` within the app (move clock location @ top + custom theme & Auto-expand notifications: [1](<https://xdaforums.com/t/auto-expand-notifications.4562939/>))  
 
@@ -186,7 +186,6 @@ I never use custom roms anymore. I like Motorola phones and their stock ROMs are
 
 
 </details>
-
 
 
 
