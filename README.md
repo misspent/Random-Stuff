@@ -27,9 +27,9 @@ Bitwarden
 
 ### **Customization**:
 **Install**: `GoodLock` App  
-Download `Home Up` within the app (hide label names, have more app rows, task changer, etc)  
-Download `LockStart` & `Theme Park` within the app (both work together)  
-Download `QuickStar` within the app (move clock location @ top + custom theme & Auto-expand notifications: [1](<https://xdaforums.com/t/auto-expand-notifications.4562939/>))  
+Download: `Home Up` within the app (hide label names, have more app rows, task changer, etc)  
+Download: `LockStart` & `Theme Park` within the app (both work together)  
+Download: `QuickStar` within the app (move clock location @ top + custom theme & Auto-expand notifications: [1](<https://xdaforums.com/t/auto-expand-notifications.4562939/>))  
 
 #### **Disable**
 - Find My Device
@@ -68,6 +68,7 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 **Modded APKs**:  
 [AppDoze](<https://appdoze.com>)  
 [Mobilism](<https://forum.mobilism.org>)  
+[MODYOLO](<https://modyolo.com/>)  
 [RB Community](<https://www.rockmods.net>)  
 [LITEAPKS.COM](<https://liteapks.com>) - My Fav?  
 [Platinmods](<https://platinmods.com/>) - Modded Games  
@@ -78,25 +79,42 @@ Download `QuickStar` within the app (move clock location @ top + custom theme & 
 
 **Index / Other**:  
 [FREEMEDIAHECKYEAH](<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android>) - Reddit | android / IOS  
+[Mobile Megathread](<https://www.reddit.com/r/Piracy/wiki/megathread/mobile>)  
+[Other Useful Modded Apps : AfterVanced](<https://www.reddit.com/r/AfterVanced/comments/vupmuz/other_useful_modded_apps/>)  
 [Universal Android Debloater Next-Generation](<https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation>) - GitHub  
 [How to use NetGuard + personalDNSFilter+ Any VPN, without root, without external self-hosted servers](https://itsignacioportal.github.io/netguard-pdnsf-any-vpn-combo/)  
 
 ### 💾 Apps / Downloads
 
 #### 📌 **Important**:
+[App Manager](<https://muntashirakon.github.io/AppManager/en/>)  
 [Revo Uninstaller Mobile](<https://forum.mobilism.org/viewtopic.php?f=438&t=5802580>)  
 [Reddit (Premium Unlocked)](<https://liteapks.com/reddit.html>)  
+[Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?t=5809299>)  
 [X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
 [Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
-[Spotify: Music and Podcasts (Mod Lite)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5801165>)  
-[Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?t=5809299>)   
+[Spotify: Music and Podcasts (Mod Lite)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5801165>)   
+[Grayjay App](<https://grayjay.app>) - AIO media app (multiple sources)  
+[SnapTube - YouTube Downloader HD Video (Final + Vip)](<https://forum.mobilism.org/viewtopic.php?f=429&t=5815003>)  
 [YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
 [Lucky Patcher](<https://forum.mobilism.org/viewtopic.php?f=438&t=5800842>), [2](<https://liteapks.com/lucky-patcher.html>) & [revanced-manager](<https://github.com/ReVanced/revanced-manager>)  
+[xManager](<https://github.com/Team-xManager/xManager>) - HIGHLY recommended for Spotify  
 
 #### 🛡️ **Security / Tracking?**:
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [CCleaner – Phone Cleaner (Pro + Mod Extras)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5803381>)  
 [AdGuard Ad Blocker v4.7.179 (Final, Premium, No-Root & Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5799753&hilit=AdGuard+Ad+Blocker>), [Lite version](<https://forum.mobilism.org/viewtopic.php?f=428&t=5801145&hilit=AdGuard+Ad+Blocker>) / [Blokada](<https://blokada.org/>)  
+
+#### 🔄 **Alternatives** | Some may REQUIRE root:
+- **Play Store**: [AuroraStore](<https://gitlab.com/AuroraOSS/AuroraStore>) / [fdroidclient](<https://github.com/f-droid/fdroidclient>) (f-droid >?)
+- **Twitter**: [AeroWitter](<https://aerowitter.com/>)
+- **Discord**: [Aliucord](<https://github.com/Aliucord/Aliucord>) / [Bluecord](<https://github.com/bluemods/Bluecord/>)
+- **Twitch**: [TwitchMod](<https://github.com/FrozenAlex/TwitchMod>), [Twire](<https://github.com/twireapp/Twire>) / [Xtra](<https://github.com/crackededed/Xtra>)
+- **Manga / Anime**?: [Mihon](<https://mihon.app/>) / [Aniyomi](<https://aniyomi.org/>)
+- **Instagram**: [AeroInsta](<https://aeroinsta.com/>) / [Instander - News](<https://www.reddit.com/r/Instander/comments/1g6jh40/news_about_instander_news/>)
+- **YouTube**: [YouTube: Revanced](<https://github.com/ReVanced/revanced-manager>), [Grayjay](<https://grayjay.app/>), [NewPipe](<https://github.com/TeamNewPipe/NewPipe>), [Tubular](<https://github.com/polymorphicshade/Tubular>) & [LibreTube](<https://github.com/libre-tube/LibreTube>)
+- [List of Open Source App Alternatives](<https://www.reddit.com/r/opensource/comments/15cp2yf/all_my_open_source_app_alternatives/>)
+Or get from Modded APK websites  
 
 #### 🎨 **Theme / Visuals**:
 [AmoledPix (Premium Unlocked)](<https://liteapks.com/amoledpix-black-4k-wallpapers.html>)  
