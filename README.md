@@ -89,11 +89,11 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 #### 📌 **Important**:
 [App Manager](<https://muntashirakon.github.io/AppManager/en/>)  
 [Revo Uninstaller Mobile](<https://forum.mobilism.org/viewtopic.php?f=438&t=5802580>)  
+[Spotify X (Mod + Podcast)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5767420>)  
 [Reddit (Premium Unlocked)](<https://liteapks.com/reddit.html>)  
 [Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?t=5809299>)  
 [X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
-[Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
-[Spotify: Music and Podcasts (Mod Lite)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5801165>)   
+[Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)    
 [Grayjay App](<https://grayjay.app>) - AIO media app (multiple sources)  
 [SnapTube - YouTube Downloader HD Video (Final + Vip)](<https://forum.mobilism.org/viewtopic.php?f=429&t=5815003>)  
 [YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
@@ -125,7 +125,7 @@ Or get from Modded APK websites
 [One Shade (Pro Unlocked)](<https://liteapks.com/one-shade-2.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=439&t=5809941>) / [Mi Control Center (Pro)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5808346>)   
 ~~[Nova Launcher (Final, Prime, UltraLite & Extra Customizable)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5480092>) / [Smart Launcher 6 (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5804979>)~~  
 **Icons**:  
-[Icon Pack Studio v2.2 (Unrestricted + Premium)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5742272>) - Use `Theme Park` to apply the icons  
+[Icon Pack Studio v2.2 (Unrestricted + Premium)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5742272>) - Use `Theme Park` to apply the icons... Not this?  
 [Moxy Icon Pack (Full Version)](<https://liteapks.com/moxy-icon-pack.html>)  
 [Super Icon Pack (Full Version)](<https://liteapks.com/super-icon-pack.html>)  
 [Ciclo - Icon Pack (Full Version)](<https://liteapks.com/ciclo-icon-pack.html>)  
@@ -157,6 +157,7 @@ Or get from Modded APK websites
 [Button Mapper: Remap your keys (Pro + Altered)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5764369>) - Single press, Double press and hold press of phone buttons mapping.  
 
 #### ➕ **Other**:
+[Shazam (Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5801140>)  
 [TimeBlocks (Premium Unlocked)](<https://liteapks.com/timeblocks.html>)  
 [StandBy Mode Pro (Premium Unlocked)](<https://liteapks.com/standby-mode-pro.html>)  
 [Pujie Black APK (Full Version)](<https://liteapks.com/pujie-black.html>) - Smart Watches  
@@ -204,8 +205,6 @@ I never use custom roms anymore. I like Motorola phones and their stock ROMs are
 
 
 </details>
-
-
 
 
 
