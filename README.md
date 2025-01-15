@@ -7,11 +7,9 @@
 ## 📥 My Tweaks (What I do after re-install)
 
 
-
-### Install
-Bitwarden  
-[Aliucord](<https://github.com/Aliucord/Aliucord>)  
-[NetGuard - no-root firewall](<https://forum.mobilism.org/viewtopic.php?f=428&t=5811017>) (Firewall + whitelist/blacklist apps) - Similar to [NetLimiter](<https://www.netlimiter.com/>) / [InviZible Pro: Tor & Firewall](<https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5787495>)  
+### Install | Hmmmmm
+[Bitwarden](<https://bitwarden.com/download/>)  
+[NetGuard - no-root firewall](<https://forum.mobilism.org/viewtopic.php?f=428&t=5811017>) / [ReThink app](<https://github.com/celzero/rethink-app?tab=readme-ov-file>) - Similar to [NetLimiter](<https://www.netlimiter.com/>) / [InviZible Pro: Tor & Firewall](<https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5787495>)  
 
 
 ### **Personal Preference**:
@@ -93,9 +91,10 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [Reddit (Premium Unlocked)](<https://liteapks.com/reddit.html>)  
 [Facebook Lite (Privacy Mod)](<https://forum.mobilism.org/viewtopic.php?t=5809299>)  
 [X (Twitter) (Premium Features)](<https://liteapks.com/twitter.html>)  
-[Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)    
+[Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
 [Grayjay App](<https://grayjay.app>) - AIO media app (multiple sources)  
 [SnapTube - YouTube Downloader HD Video (Final + Vip)](<https://forum.mobilism.org/viewtopic.php?f=429&t=5815003>)  
+[Ente Auth - Open source 2FA authenticator, with E2EE backups](<https://ente.io/auth/>)  
 [YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
 [Lucky Patcher](<https://forum.mobilism.org/viewtopic.php?f=438&t=5800842>), [2](<https://liteapks.com/lucky-patcher.html>) & [revanced-manager](<https://github.com/ReVanced/revanced-manager>)  
 [xManager](<https://github.com/Team-xManager/xManager>) - HIGHLY recommended for Spotify  
@@ -106,7 +105,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [AdGuard Ad Blocker v4.7.179 (Final, Premium, No-Root & Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5799753&hilit=AdGuard+Ad+Blocker>), [Lite version](<https://forum.mobilism.org/viewtopic.php?f=428&t=5801145&hilit=AdGuard+Ad+Blocker>) / [Blokada](<https://blokada.org/>)  
 
 #### 🔄 **Alternatives** | Some may REQUIRE root:
-- **Play Store**: [AuroraStore](<https://gitlab.com/AuroraOSS/AuroraStore>) / [fdroidclient](<https://github.com/f-droid/fdroidclient>) (f-droid >?)
+- **Play Store**: [AuroraStore](<https://gitlab.com/AuroraOSS/AuroraStore>) / [fdroidclient](<https://github.com/f-droid/fdroidclient>) / [Droid-ify](<https://github.com/Droid-ify/client>)
 - **Twitter**: [AeroWitter](<https://aerowitter.com/>)
 - **Discord**: [Aliucord](<https://github.com/Aliucord/Aliucord>) / [Bluecord](<https://github.com/bluemods/Bluecord/>)
 - **Twitch**: [TwitchMod](<https://github.com/FrozenAlex/TwitchMod>), [Twire](<https://github.com/twireapp/Twire>) / [Xtra](<https://github.com/crackededed/Xtra>)
@@ -144,7 +143,7 @@ Or get from Modded APK websites
 [iDarkOS 18 - Icon Pack APK (Full Version)](<https://liteapks.com/idarkos-18-icon-pack.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5692098>)  
 
 #### ⚙️ **Mobile Apps / Tweaks**:
-[TickTick:To-do list & Tasks (Pro + Mod Extra) ](<https://forum.mobilism.org/viewtopic.php?f=432&t=5803384>)  
+[TickTick:To-do list & Tasks (Pro + Mod Extra) ](<https://forum.mobilism.org/viewtopic.php?f=432&t=5803384>) / [ToDark](<https://github.com/darkmoonight/ToDark>)  
 [Zedge Wallpapers & Ringtones (Final + Subscribed)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5803273>)  
 [Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>) , [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=5775379>) / [Teka Notes - Notepad (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5808704>) | [UpNote - notes, diary, journal (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5811052>) - UpNote has desktop app (sync?)  
 
@@ -154,18 +153,19 @@ Or get from Modded APK websites
 [App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>), [2](<https://liteapks.com/app-usage.html>)  
 [PdaNet+ (Premium Unlocked)](<https://liteapks.com/pdanet.html>) - Use Cellular data as and internet source for devices/PC  
 [All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) / [Swift Backup (Premium Unlocked)](<https://liteapks.com/swift-backup.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=438&t=5807659>), [3](<https://forum.mobilism.org/viewtopic.php?f=438&t=5777066>)  
-[Button Mapper: Remap your keys (Pro + Altered)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5764369>) - Single press, Double press and hold press of phone buttons mapping.  
+[Button Mapper: Remap your keys (Pro + Altered)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5764369>) - Single press, Double press and hold press of phone buttons mapping. / [Key Mapper | F-Droid](<https://f-droid.org/packages/io.github.sds100.keymapper/>)  
 
 #### ➕ **Other**:
 [Shazam (Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5801140>)  
+[Translate You | F-Droid](<https://f-droid.org/packages/com.bnyro.translate/>)  
 [TimeBlocks (Premium Unlocked)](<https://liteapks.com/timeblocks.html>)  
 [StandBy Mode Pro (Premium Unlocked)](<https://liteapks.com/standby-mode-pro.html>)  
 [Pujie Black APK (Full Version)](<https://liteapks.com/pujie-black.html>) - Smart Watches  
 [AI Chat 4o (Chat GPT) (Premium Unlocked)](<https://liteapks.com/chat-gdt-2.html>)  
-[Offline Map Navigation (Premium Unlocked)](<https://liteapks.com/offline-map-navigation.html>)  
-[Alarmy - Alarm Clock & Sleep (Premium Unlocked)](<https://liteapks.com/alarmy-alarm-clock-solution.html>)  
+[Offline Map Navigation (Premium Unlocked)](<https://liteapks.com/offline-map-navigation.html>) / [Organic Maps](<https://organicmaps.app/>)  
+[Alarmy Clock & Sleep (Premium Unlocked)](<https://liteapks.com/alarmy-alarm-clock-solution.html>)  
 [NexBot AI (Premium Unlocked)](<https://liteapks.com/nexbot-ai.html>) - Best for everything? (Quill + ProWritingAid)  
-[FUTO Keyboard](<https://keyboard.futo.org/>) / [HeliBoard](<https://github.com/Helium314/HeliBoard>) - Keyboard  
+[FUTO Keyboard](<https://keyboard.futo.org/>) / [HeliBoard](<https://github.com/Helium314/HeliBoard>) - Keyboard / [florisboard](<https://github.com/florisboard/florisboard>)  
 [Stylish Text Fonts & Keyboard (Premium Unlocked)](<https://liteapks.com/stylish-text-fonts-keyboard.html>) - Keyboard  
 [Microsoft SwiftKey AI Keyboard (Final + Mod)](<https://forum.mobilism.org/viewtopic.php?f=426&t=5445309>) - EXTREMELY recommended... (Inaccurate now?)  
 [Grammarly Keyboard (Premium Unlocked)](<https://liteapks.com/grammarly-keyboard-3.html>) - Not trustworthy as it uploads everything you type but might be a fun test?  
@@ -181,6 +181,7 @@ Or get from Modded APK websites
 
 #### 🌱 **Root REQUIRED**:
 [AFWall+](<https://github.com/ukanth/afwall>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5364989>)  
+[Neo-Backup](<https://github.com/NeoApplications/Neo-Backup>)  
 [Folder Widget - Large Folders (Pro + Root)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5663682>)  
 [AdAway](<https://github.com/AdAway/AdAway>) - Widely used + recommended (Use with host file for BEST ad blocking experience across the WHOLE phone) | [1](<https://www.reddit.com/r/fossdroid/comments/1agzdyv/adaway_what_is_it_blocking/komllne/>)  
 [I root for](https://www.reddit.com/r/Android/comments/kogzrt/is_rooting_still_worth_the_effort_in_2021/ghrc3zk/), [2](https://www.reddit.com/r/androidroot/comments/17uycnw/what_are_the_benefits_of_rooting_android_in_2023/k96ytqo/), [3](<https://www.reddit.com/r/Android/comments/96r4qz/is_rooting_your_device_still_worth_it/e42umay/>):  
