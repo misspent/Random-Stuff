@@ -80,6 +80,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [Mobile Megathread](<https://www.reddit.com/r/Piracy/wiki/megathread/mobile>)  
 [Other Useful Modded Apps : AfterVanced](<https://www.reddit.com/r/AfterVanced/comments/vupmuz/other_useful_modded_apps/>)  
 [Universal Android Debloater Next-Generation](<https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation>) - GitHub  
+[All my Android Alternatives to Google Apps : opensource](<https://www.reddit.com/r/opensource/comments/z2kcp0/all_my_android_alternatives_to_google_apps/>)  
 [How to use NetGuard + personalDNSFilter+ Any VPN, without root, without external self-hosted servers](https://itsignacioportal.github.io/netguard-pdnsf-any-vpn-combo/)  
 
 ### 💾 Apps / Downloads
@@ -109,7 +110,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - **Twitter**: [AeroWitter](<https://aerowitter.com/>)
 - **Discord**: [Aliucord](<https://github.com/Aliucord/Aliucord>) / [Bluecord](<https://github.com/bluemods/Bluecord/>)
 - **Twitch**: [TwitchMod](<https://github.com/FrozenAlex/TwitchMod>), [Twire](<https://github.com/twireapp/Twire>) / [Xtra](<https://github.com/crackededed/Xtra>)
-- **Manga / Anime**?: [Mihon](<https://mihon.app/>) / [Aniyomi](<https://aniyomi.org/>)
+- **Anime & Manga**?: [Anilab](<https://anilab.to/>) - Best Anime? & [Kotatsu](<https://kotatsu.app/>) - Best Manga?
 - **Instagram**: [AeroInsta](<https://aeroinsta.com/>) / [Instander - News](<https://www.reddit.com/r/Instander/comments/1g6jh40/news_about_instander_news/>)
 - **YouTube**: [YouTube: Revanced](<https://github.com/ReVanced/revanced-manager>), [Grayjay](<https://grayjay.app/>), [NewPipe](<https://github.com/TeamNewPipe/NewPipe>), [Tubular](<https://github.com/polymorphicshade/Tubular>) & [LibreTube](<https://github.com/libre-tube/LibreTube>)
 - [List of Open Source App Alternatives](<https://www.reddit.com/r/opensource/comments/15cp2yf/all_my_open_source_app_alternatives/>)
@@ -145,7 +146,7 @@ Or get from Modded APK websites
 #### ⚙️ **Mobile Apps / Tweaks**:
 [TickTick:To-do list & Tasks (Pro + Mod Extra) ](<https://forum.mobilism.org/viewtopic.php?f=432&t=5803384>) / [ToDark](<https://github.com/darkmoonight/ToDark>)  
 [Zedge Wallpapers & Ringtones (Final + Subscribed)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5803273>)  
-[Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>) , [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=5775379>) / [Teka Notes - Notepad (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5808704>) | [UpNote - notes, diary, journal (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5811052>) - UpNote has desktop app (sync?)  
+[Easy Notes (VIP Unlocked)](<https://liteapks.com/easy-notes-2.html>) , [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=5775379>) / [Teka Notes - Notepad (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5808704>) / [QuillPad](<https://github.com/quillpad/quillpad>) | [UpNote - notes, diary, journal (Premium)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5811052>) - UpNote has desktop app (sync?)  
 
 #### 🔧 **Utility**:
 [Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
@@ -183,6 +184,7 @@ Or get from Modded APK websites
 [AFWall+](<https://github.com/ukanth/afwall>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5364989>)  
 [Neo-Backup](<https://github.com/NeoApplications/Neo-Backup>)  
 [Folder Widget - Large Folders (Pro + Root)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5663682>)  
+[ReadEra – ebook reader +2070 (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5807060>)  
 [AdAway](<https://github.com/AdAway/AdAway>) - Widely used + recommended (Use with host file for BEST ad blocking experience across the WHOLE phone) | [1](<https://www.reddit.com/r/fossdroid/comments/1agzdyv/adaway_what_is_it_blocking/komllne/>)  
 [I root for](https://www.reddit.com/r/Android/comments/kogzrt/is_rooting_still_worth_the_effort_in_2021/ghrc3zk/), [2](https://www.reddit.com/r/androidroot/comments/17uycnw/what_are_the_benefits_of_rooting_android_in_2023/k96ytqo/), [3](<https://www.reddit.com/r/Android/comments/96r4qz/is_rooting_your_device_still_worth_it/e42umay/>):  
 - Adaway
