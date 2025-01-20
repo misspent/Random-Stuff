@@ -113,6 +113,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - **Anime & Manga**?: [Anilab](<https://anilab.to/>) - Best Anime? & [Kotatsu](<https://kotatsu.app/>) - Best Manga?
 - **Instagram**: [AeroInsta](<https://aeroinsta.com/>) / [Instander - News](<https://www.reddit.com/r/Instander/comments/1g6jh40/news_about_instander_news/>)
 - **YouTube**: [YouTube: Revanced](<https://github.com/ReVanced/revanced-manager>), [Grayjay](<https://grayjay.app/>), [NewPipe](<https://github.com/TeamNewPipe/NewPipe>), [Tubular](<https://github.com/polymorphicshade/Tubular>) & [LibreTube](<https://github.com/libre-tube/LibreTube>)
+- **Audio Books**: [Smart AudioBook Player (Premium Unlocked)](<https://liteapks.com/smart-audiobook-player.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5821312>) / [Voice Audiobook Player](<https://f-droid.org/packages/de.ph1b.audiobook/>)
 - [List of Open Source App Alternatives](<https://www.reddit.com/r/opensource/comments/15cp2yf/all_my_open_source_app_alternatives/>)
 Or get from Modded APK websites  
 
