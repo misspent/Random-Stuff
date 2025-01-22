@@ -82,6 +82,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [Universal Android Debloater Next-Generation](<https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation>) - GitHub  
 [All my Android Alternatives to Google Apps : opensource](<https://www.reddit.com/r/opensource/comments/z2kcp0/all_my_android_alternatives_to_google_apps/>)  
 [How to use NetGuard + personalDNSFilter+ Any VPN, without root, without external self-hosted servers](https://itsignacioportal.github.io/netguard-pdnsf-any-vpn-combo/)  
+[Disable google apps + chrome, etc (without root?)](<https://www.reddit.com/r/degoogle/comments/15h57hj/can_not_uninstall_google_apps_and_debloat/junh6ny/>) - [Universal Android Debloater GUI](<https://github.com/0x192/universal-android-debloater>)  
 
 ### 💾 Apps / Downloads
 
