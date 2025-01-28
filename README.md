@@ -6,11 +6,43 @@
 
 ## 📥 My Tweaks (What I do after re-install)
 
+[LineageOS - Samsung Galaxy S10+](<https://wiki.lineageos.org/devices/beyond2lte/>)  
 
-### Install | Hmmmmm
-[Bitwarden](<https://bitwarden.com/download/>)  
-[NetGuard - no-root firewall](<https://forum.mobilism.org/viewtopic.php?f=428&t=5811017>) / [ReThink app](<https://github.com/celzero/rethink-app?tab=readme-ov-file>) - Similar to [NetLimiter](<https://www.netlimiter.com/>) / [InviZible Pro: Tor & Firewall](<https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5787495>)  
+### **Everything I have installed + Setup**:
+[YouTube ReVanced](<https://github.com/ReVanced/revanced-manager>)  
+[Instagram (AeroInsta)](<https://aeroinsta.com/>)  
+[Reddit ReVanced (frontpage .apk)](<https://github.com/ReVanced/revanced-manager>)  
+[Twitter (AeroWitter)](<https://aerowitter.com/>)  
+[Discord (Aliucord)](<https://github.com/Aliucord/Aliucord>)  
+[Ente Auth](<https://ente.io/auth/>)  
+[Bitwarden](<https://bitwarden.com/download/>) / [KeePassDX](<https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/>) (offline)  
+[Droid-ify](<https://f-droid.org/en/packages/com.looker.droidify/>)  
+[Voice Audiobook Player](<https://f-droid.org/en/packages/de.ph1b.audiobook/>)  
+[Feeder](<https://f-droid.org/en/packages/com.nononsenseapps.feeder/>) / [Capy Reader](<https://f-droid.org/packages/com.capyreader.app/>)  
+[Private Internet Access - VPN](<https://www.privateinternetaccess.com/download>)  
+[Key Mapper](<https://f-droid.org/en/packages/io.github.sds100.keymapper/>)  
+[Good Lock](<https://galaxystore.samsung.com/detail/com.samsung.android.goodlock?langCd=en>)  
+[WikiReader](<https://f-droid.org/en/packages/org.nsh07.wikireader/>)  
+[Cromite Browser](<https://github.com/uazo/cromite>)  
+[Twitch (Xtra)](<https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/>)  
+[TickTick (Premium Unlocked)](<https://liteapks.com/ticktick.html>)  
+[NotallyX](<https://f-droid.org/en/packages/com.philkes.notallyx/>)  
+[SD Maid 2/SE - System Cleaner](<https://f-droid.org/en/packages/eu.darken.sdmse/>)  
+[FlorisBoard](<https://f-droid.org/en/packages/dev.patrickgold.florisboard/>)  
+[Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
+[Shazam (Premium Unlocked)](<https://liteapks.com/shazam.html>)  
+[Phocid](<https://f-droid.org/packages/org.sunsetware.phocid/>) (Offline music player)  
+[Spotify (xManager)](<https://github.com/Team-xManager/xManager>) - Or use ReVanced Manager  
 
+
+### Install in future?
+[QUIK SMS](<https://f-droid.org/en/packages/dev.octoshrimpy.quik/>)  
+[Thunderbird: Free Your Inbox](<https://f-droid.org/en/packages/net.thunderbird.android/>) (for handling Gmail and Proton Mail)  
+[Material Files](<https://f-droid.org/en/packages/me.zhanghai.android.files/>)  
+[Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Freeze Android apps )  
+[Organic Maps: Hike, Bike, Drive Offline](<https://f-droid.org/en/packages/app.organicmaps/>)  
+[TrackerControl](<https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/>) (GOD tier control & Monitoring)  
+[Data Monitor](<https://f-droid.org/en/packages/com.drnoob.datamonitor/>)  
 
 ### **Personal Preference**:
 **Settings**: > Search: `Auto sync` > Disable it  
@@ -58,9 +90,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - [25 hacks to fix android battery drain — #7 is a killer (#7 is Adaptive Brightness)](https://youtu.be/y5ewEJtT134) - DeArrow extension renames title  
 
 
-
 ## 📝 **Websites used / Information (useful)**:
-
 
 
 **Modded APKs**:  
@@ -79,12 +109,16 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [FREEMEDIAHECKYEAH](<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android>) - Reddit | android / IOS  
 [Mobile Megathread](<https://www.reddit.com/r/Piracy/wiki/megathread/mobile>)  
 [Other Useful Modded Apps : AfterVanced](<https://www.reddit.com/r/AfterVanced/comments/vupmuz/other_useful_modded_apps/>)  
+[My list of Open Source Replacements. : degoogle](<https://www.reddit.com/r/degoogle/comments/1ia4lhy/my_list_of_open_source_replacements/>)  
+[FOSS Apps / closed-source alternatives : degoogle](<https://www.reddit.com/r/degoogle/comments/1iaqiko/foss_apps_closedsource_alternatives/>)  
 [Universal Android Debloater Next-Generation](<https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation>) - GitHub  
 [All my Android Alternatives to Google Apps : opensource](<https://www.reddit.com/r/opensource/comments/z2kcp0/all_my_android_alternatives_to_google_apps/>)  
 [How to use NetGuard + personalDNSFilter+ Any VPN, without root, without external self-hosted servers](https://itsignacioportal.github.io/netguard-pdnsf-any-vpn-combo/)  
 [Disable google apps + chrome, etc (without root?)](<https://www.reddit.com/r/degoogle/comments/15h57hj/can_not_uninstall_google_apps_and_debloat/junh6ny/>) - [Universal Android Debloater GUI](<https://github.com/0x192/universal-android-debloater>)  
 
+
 ### 💾 Apps / Downloads
+
 
 #### 📌 **Important**:
 [App Manager](<https://muntashirakon.github.io/AppManager/en/>)  
@@ -96,25 +130,27 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [Instagram (Optimized, No ADS)](<https://liteapks.com/instagram.html>)  
 [Grayjay App](<https://grayjay.app>) - AIO media app (multiple sources)  
 [SnapTube - YouTube Downloader HD Video (Final + Vip)](<https://forum.mobilism.org/viewtopic.php?f=429&t=5815003>)  
-[Ente Auth - Open source 2FA authenticator, with E2EE backups](<https://ente.io/auth/>)  
 [YouTube ReVanced)](<https://liteapks.com/youtube-revanced-2.html>) / [YouTube Vanced](<https://liteapks.com/youtube-vanced.html>)  
 [Lucky Patcher](<https://forum.mobilism.org/viewtopic.php?f=438&t=5800842>), [2](<https://liteapks.com/lucky-patcher.html>) & [revanced-manager](<https://github.com/ReVanced/revanced-manager>)  
-[xManager](<https://github.com/Team-xManager/xManager>) - HIGHLY recommended for Spotify  
 
 #### 🛡️ **Security / Tracking?**:
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [CCleaner – Phone Cleaner (Pro + Mod Extras)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5803381>)  
 [AdGuard Ad Blocker v4.7.179 (Final, Premium, No-Root & Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5799753&hilit=AdGuard+Ad+Blocker>), [Lite version](<https://forum.mobilism.org/viewtopic.php?f=428&t=5801145&hilit=AdGuard+Ad+Blocker>) / [Blokada](<https://blokada.org/>)  
+[NetGuard - no-root firewall](<https://forum.mobilism.org/viewtopic.php?f=428&t=5811017>) / [ReThink app](<https://github.com/celzero/rethink-app?tab=readme-ov-file>) - Similar to [NetLimiter](<https://www.netlimiter.com/>) / [InviZible Pro: Tor & Firewall](<https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5787495>)  
 
 #### 🔄 **Alternatives** | Some may REQUIRE root:
-- **Play Store**: [AuroraStore](<https://gitlab.com/AuroraOSS/AuroraStore>) / [fdroidclient](<https://github.com/f-droid/fdroidclient>) / [Droid-ify](<https://github.com/Droid-ify/client>)
+- **Play Store**: [Aurora Store](<https://gitlab.com/AuroraOSS/AuroraStore>) (No sign-in google!) / [fdroidclient](<https://github.com/f-droid/fdroidclient>) / [Droid-ify](<https://github.com/Droid-ify/client>)
 - **Twitter**: [AeroWitter](<https://aerowitter.com/>)
 - **Discord**: [Aliucord](<https://github.com/Aliucord/Aliucord>) / [Bluecord](<https://github.com/bluemods/Bluecord/>)
 - **Twitch**: [TwitchMod](<https://github.com/FrozenAlex/TwitchMod>), [Twire](<https://github.com/twireapp/Twire>) / [Xtra](<https://github.com/crackededed/Xtra>)
-- **Anime & Manga**?: [Anilab](<https://anilab.to/>) - Best Anime? & [Kotatsu](<https://kotatsu.app/>) - Best Manga?
+- **Anime & Manga**?: [Anilab](<https://anilab.to/>) - Best Anime? & [Kotatsu](<https://kotatsu.app/>) - Best Manga? | [Dantotsu](<https://dantotsu.org/>) / [LNreader](<https://github.com/LNReader/lnreader>)
 - **Instagram**: [AeroInsta](<https://aeroinsta.com/>) / [Instander - News](<https://www.reddit.com/r/Instander/comments/1g6jh40/news_about_instander_news/>)
 - **YouTube**: [YouTube: Revanced](<https://github.com/ReVanced/revanced-manager>), [Grayjay](<https://grayjay.app/>), [NewPipe](<https://github.com/TeamNewPipe/NewPipe>), [Tubular](<https://github.com/polymorphicshade/Tubular>) & [LibreTube](<https://github.com/libre-tube/LibreTube>)
 - **Audio Books**: [Smart AudioBook Player (Premium Unlocked)](<https://liteapks.com/smart-audiobook-player.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5821312>) / [Voice Audiobook Player](<https://f-droid.org/packages/de.ph1b.audiobook/>)
+- **Messenger**: [SimpleX Chat](<https://simplex.chat/>), [Signal](<https://signal.org/>) or [Element](<https://element.io/>)
+- **2FA**: [Ente Auth](<https://ente.io/auth/>) / [Aegis Authenticator](<https://f-droid.org/packages/com.beemdevelopment.aegis/>) / [ImageToolbox](<https://github.com/T8RIN/ImageToolbox>)
+- **Photos and Videos**: [aves](<https://github.com/deckerst/aves>), [Gallery for PhotoPrism](<https://f-droid.org/packages/ua.com.radiokot.photoprism/>)
 - [List of Open Source App Alternatives](<https://www.reddit.com/r/opensource/comments/15cp2yf/all_my_open_source_app_alternatives/>)
 Or get from Modded APK websites  
 
@@ -153,18 +189,19 @@ Or get from Modded APK websites
 #### 🔧 **Utility**:
 [Multiple Accounts (VIP Unlocked)](<https://liteapks.com/multiple-accounts.html>)  
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
+[Tasker build 5395 (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5710897>)  
 [App Usage - Manage/Track Usage (Pro + Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5591567>), [2](<https://liteapks.com/app-usage.html>)  
 [PdaNet+ (Premium Unlocked)](<https://liteapks.com/pdanet.html>) - Use Cellular data as and internet source for devices/PC  
 [All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) / [Swift Backup (Premium Unlocked)](<https://liteapks.com/swift-backup.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=438&t=5807659>), [3](<https://forum.mobilism.org/viewtopic.php?f=438&t=5777066>)  
-[Button Mapper: Remap your keys (Pro + Altered)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5764369>) - Single press, Double press and hold press of phone buttons mapping. / [Key Mapper | F-Droid](<https://f-droid.org/packages/io.github.sds100.keymapper/>)  
+[Button Mapper: Remap your keys (Pro + Altered)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5764369>) - Single press, Double press and hold press of phone buttons mapping. / [Key Mapper](<https://f-droid.org/packages/io.github.sds100.keymapper/>)  
 
 #### ➕ **Other**:
-[Shazam (Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5801140>)  
-[Translate You | F-Droid](<https://f-droid.org/packages/com.bnyro.translate/>)  
+[Shazam (Mod Extra)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5830475>)  
+[Translate You](<https://f-droid.org/packages/com.bnyro.translate/>)  
 [TimeBlocks (Premium Unlocked)](<https://liteapks.com/timeblocks.html>)  
 [StandBy Mode Pro (Premium Unlocked)](<https://liteapks.com/standby-mode-pro.html>)  
 [Pujie Black APK (Full Version)](<https://liteapks.com/pujie-black.html>) - Smart Watches  
-[AI Chat 4o (Chat GPT) (Premium Unlocked)](<https://liteapks.com/chat-gdt-2.html>)  
+[AI Chat (Pro)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5837901>) / [ChatOn (Pro)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5837048>)  
 [Offline Map Navigation (Premium Unlocked)](<https://liteapks.com/offline-map-navigation.html>) / [Organic Maps](<https://organicmaps.app/>)  
 [Alarmy Clock & Sleep (Premium Unlocked)](<https://liteapks.com/alarmy-alarm-clock-solution.html>)  
 [NexBot AI (Premium Unlocked)](<https://liteapks.com/nexbot-ai.html>) - Best for everything? (Quill + ProWritingAid)  
@@ -205,7 +242,6 @@ Or get from Modded APK websites
 - Kernel Audiutor to tweak performance + good battery
 - Custom boot animation's
 I never use custom roms anymore. I like Motorola phones and their stock ROMs are pretty decent. Also I have had a lot of trouble with mobile networks on custom ROMS - VOLTE stops working and other bugs.  
-
 
 
 
