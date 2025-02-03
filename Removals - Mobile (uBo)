@@ -18,6 +18,8 @@ search.brave.com##.snippet:not(.standalone):has([href*="youtube.com"])
 duckduckgo.com##.react-feedback-prompt-mvc-wrapper
 duckduckgo.com##.related-searches
 duckduckgo.com##[data-layout="related_searches"]
+duckduckgo.com##[data-layout="videos"]
+duckduckgo.com##[data-layout="organic"]:has([href*="youtube.com"])
 duckduckgo.com##.footer
 duckduckgo.com##[data-testid="feedback-prompt"]
 
