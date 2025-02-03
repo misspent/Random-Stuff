@@ -10,6 +10,9 @@ search.brave.com###search-elsewhere
 search.brave.com###related-queries
 search.brave.com##footer
 search.brave.com##.thumbnail-wrapper
+search.brave.com##.snippet.standalone[data-type="cluster"]
+search.brave.com##.snippet:not(.standalone) > div:has(.inline-qa-answer)
+search.brave.com##.snippet:not(.standalone):has([href*="youtube.com"])
 
 ! DuckDuckGo
 duckduckgo.com##.react-feedback-prompt-mvc-wrapper
