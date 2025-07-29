@@ -145,7 +145,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - **Discord**: [Aliucord](<https://github.com/Aliucord/Aliucord>) / [Bluecord](<https://github.com/bluemods/Bluecord/>)
 - **Twitch**: [TwitchMod](<https://github.com/FrozenAlex/TwitchMod>), [Twire](<https://github.com/twireapp/Twire>) / [Xtra](<https://github.com/crackededed/Xtra>)
 - **Anime & Manga**?: [Anilab](<https://anilab.to/>) - Best Anime? & [Kotatsu](<https://kotatsu.app/>) - Best Manga? | [Dantotsu](<https://dantotsu.org/>) / [LNreader](<https://github.com/LNReader/lnreader>)
-- **Instagram**: [AeroInsta](<https://aeroinsta.com/>) / [Instander - News](<https://www.reddit.com/r/Instander/comments/1g6jh40/news_about_instander_news/>)
+- **Instagram**: [AeroInsta](<https://aeroinsta.com/>), [MyInsta](<https://myinsta.dev/#features>) / [Instander - News](<https://www.reddit.com/r/Instander/comments/1g6jh40/news_about_instander_news/>)
 - **YouTube**: [YouTube: Revanced](<https://github.com/ReVanced/revanced-manager>), [Grayjay](<https://grayjay.app/>), [NewPipe](<https://github.com/TeamNewPipe/NewPipe>), [Tubular](<https://github.com/polymorphicshade/Tubular>) & [LibreTube](<https://github.com/libre-tube/LibreTube>)
 - **Audio Books**: [Smart AudioBook Player (Premium Unlocked)](<https://liteapks.com/smart-audiobook-player.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5821312>) / [Voice Audiobook Player](<https://f-droid.org/packages/de.ph1b.audiobook/>)
 - **Messenger**: [SimpleX Chat](<https://simplex.chat/>), [Signal](<https://signal.org/>) or [Element](<https://element.io/>)
