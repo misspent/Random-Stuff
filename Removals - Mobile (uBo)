@@ -22,7 +22,7 @@ duckduckgo.com##[data-layout="videos"]
 duckduckgo.com##[data-layout="organic"]:has([href*="youtube.com"])
 duckduckgo.com##.footer
 duckduckgo.com##[data-testid="feedback-prompt"]
-
+duckduckgo.com##.react-results--main > li:has(.react-module[data-react-module-id="discussions"])
 
 ! APKpure.com
 apkpure.com##.dt-security-statement-card.security-statement-card
