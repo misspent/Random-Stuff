@@ -92,6 +92,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 
 
 #### **Videos**:
+- [How to Stay Private on a Budget!](https://youtu.be/hQkKdXZiVj4)
 - [23 Android 13 Settings You NEED To Turn Off Now](https://youtu.be/dEE7OjXeNqQ)  
 - [Android privacy optimization guide](https://youtu.be/7sZVdoQ0NN0) - Developer mode  
 - [Every Android Privacy Setting You Need To Change Now](https://youtu.be/hH7hmlEIijQ)  
