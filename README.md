@@ -95,7 +95,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - [How to Stay Private on a Budget!](https://youtu.be/hQkKdXZiVj4)
 - [23 Android 13 Settings You NEED To Turn Off Now](https://youtu.be/dEE7OjXeNqQ)  
 - [Android privacy optimization guide](https://youtu.be/7sZVdoQ0NN0) - Developer mode  
-- [Every Android Privacy Setting You Need To Change Now](https://youtu.be/hH7hmlEIijQ)  
+- [Every Android Privacy Setting You Need To Change Now](https://youtu.be/hH7hmlEIijQ)
 - [25 hacks to fix android battery drain — #7 is a killer (#7 is Adaptive Brightness)](https://youtu.be/y5ewEJtT134) - DeArrow extension renames title  
 
 
@@ -119,6 +119,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 **Index / Other**:  
 ⭐ [FREEMEDIAHECKYEAH](<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android>) - Reddit | android / IOS  
 [r/Piracy Mobile Megathread](<https://www.reddit.com/r/Piracy/wiki/megathread/mobile>)  
+[A List of Open Source Applications](<https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/>)  
 [Other Useful Modded Apps (AfterVanced)](<https://www.reddit.com/r/AfterVanced/comments/vupmuz/other_useful_modded_apps/>)  
 [My list of Open Source Replacements (degoogle)](<https://www.reddit.com/r/degoogle/comments/1ia4lhy/my_list_of_open_source_replacements/>)  
 [FOSS Apps / closed-source alternatives (degoogle)](<https://www.reddit.com/r/degoogle/comments/1iaqiko/foss_apps_closedsource_alternatives/>)  
