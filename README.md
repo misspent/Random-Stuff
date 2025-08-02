@@ -17,6 +17,7 @@
 [WikiReader](<https://f-droid.org/en/packages/org.nsh07.wikireader/>)  
 [Key Mapper](<https://f-droid.org/en/packages/io.github.sds100.keymapper/>)  
 [Twitch (Xtra)](<https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/>)  
+[CloudStream](<https://github.com/recloudstream/cloudstream>)  
 [TrackerControl](<https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/>)  
 [Breezy Weather](<https://github.com/breezy-weather/breezy-weather>)  
 [FUTO Keyboard](<https://keyboard.futo.org>)  
