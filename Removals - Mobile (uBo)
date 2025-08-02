@@ -27,7 +27,8 @@ duckduckgo.com##[data-layout="organic"]:has([href*="youtube.com"])
 duckduckgo.com##.footer
 duckduckgo.com##[data-testid="feedback-prompt"]
 duckduckgo.com##.react-results--main > li:has(.react-module[data-react-module-id="discussions"])
-duckduckgo.com##[data-nrn="result"] > div:has([data-result="snippet"], [style*="--star-rating"], li > a[href*="https://"])
+duckduckgo.com##[data-nrn="result"] > div:has([style*="--star-rating"], li > a[href*="https://"])
+duckduckgo.com##[data-nrn="result"] > div > img
 
 ! APKpure.com
 apkpure.com##.dt-security-statement-card.security-statement-card
