@@ -50,6 +50,29 @@
 - If you can stop apps from connecting to the internet, then install [Gboard](<https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US>) and make sure it has no connections. You can essentially use ***ALL*** the features it offers without it having any tracking.  
 
 
+## 💿 LineageOS / GrapheneOS (messing) 🚧
+
+**Shizuku apps**  
+⭐ [ShizuTools](<https://github.com/legendsayantan/ShizuTools>) - Contains many tools to control android system via shizuku  
+[Tarnhelm](<https://github.com/lz233/Tarnhelm>) -  The magic to clean sharing links up  
+[VolumeManager](<https://github.com/yume-chan/VolumeManager>) - Control each app's volume independently  
+[SensorsOff](<https://github.com/LinerSRT/SensorsOff>) - Return of the manufacturer-deleted SensorsOff tile  
+[Taskbar](<https://f-droid.org/packages/com.farmerbb.taskbar/>) - Places start menu & recent apps tray on top of your screen  
+[AmbientMusicMod](<https://github.com/KieronQuinn/AmbientMusicMod>) - Port of Now Playing from Pixels to other Android devices  
+[DarQ](<https://github.com/KieronQuinn/DarQ>) - Provides a per-app selectable force dark option for Android 10 and above   
+[Canta](<https://github.com/samolego/Canta>) - Uninstall any Android app without root (with power of Shizuku). Debloat your device  
+**Form Play Store**:  
+[MacroDroid](<https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid>)  
+[UbikiTouch](<https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch>) - Seems like a MASSIVE QoL app  
+
+**Other**  
+[Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge/>) - Use your smart watch and other bluetooth devices and keep your data private  
+
+
+
+⚠️ If rooted: Use `AdAway` cause it edits Host Files
+
+
 ## ⚙️ Settings
 
 
@@ -119,6 +142,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 
 **Index / Other**:  
 ⭐ [FREEMEDIAHECKYEAH](<https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android>) - Reddit | android / IOS  
+[Awesome Shizuku](<https://github.com/timschneeb/awesome-shizuku>)   
 [r/Piracy Mobile Megathread](<https://www.reddit.com/r/Piracy/wiki/megathread/mobile>)  
 [A List of Open Source Applications](<https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/>)  
 [Other Useful Modded Apps (AfterVanced)](<https://www.reddit.com/r/AfterVanced/comments/vupmuz/other_useful_modded_apps/>)  
