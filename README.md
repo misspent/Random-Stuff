@@ -40,10 +40,7 @@
 
 ### Install in future?
 [Mobile Abyss](<https://mobile.alphacoders.com>) - Wallpapers  
-[Beeper](<https://www.beeper.com/>) - One inbox for all your chats  
-[Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Automatically: Force stop, disable, hide, etc)  
-[Update Me (Mobile)](<https://github.com/anfreire/updateMe-Mobile>) - Modded app installer & manager? TRY THIS, BITCH!  
-[SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)  
+[Beeper](<https://www.beeper.com/>) - One inbox for all your chats   
 
 ### 📔 Future notes
 - [AdAway](<https://adaway.org/>) - The root level security is not possible/recommended on GrapheneOS? Look into further. Having this as root level then a VPN as VPN route would be glorious. 
@@ -55,12 +52,14 @@
 **Shizuku apps**  
 ⭐ [ShizuTools](<https://github.com/legendsayantan/ShizuTools>) - Contains many tools to control android system via shizuku  
 [Tarnhelm](<https://github.com/lz233/Tarnhelm>) -  The magic to clean sharing links up  
+[Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Automatically: Force stop, disable, hide, etc)  
 [VolumeManager](<https://github.com/yume-chan/VolumeManager>) - Control each app's volume independently  
 [SensorsOff](<https://github.com/LinerSRT/SensorsOff>) - Return of the manufacturer-deleted SensorsOff tile  
 [Taskbar](<https://f-droid.org/packages/com.farmerbb.taskbar/>) - Places start menu & recent apps tray on top of your screen  
 [AmbientMusicMod](<https://github.com/KieronQuinn/AmbientMusicMod>) - Port of Now Playing from Pixels to other Android devices  
 [DarQ](<https://github.com/KieronQuinn/DarQ>) - Provides a per-app selectable force dark option for Android 10 and above   
 [Canta](<https://github.com/samolego/Canta>) - Uninstall any Android app without root (with power of Shizuku). Debloat your device  
+[SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)   
 **Form Play Store**:  
 [MacroDroid](<https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid>)  
 [UbikiTouch](<https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch>) - Seems like a MASSIVE QoL app  
@@ -216,6 +215,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [Zest](<https://github.com/darkmoonight/Zest>) - Task management application  
 
 #### 🔧 **Utility**:
+[Update Me (Mobile)](<https://github.com/anfreire/updateMe-Mobile>)  
 [Tasker build (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5710897>)  
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
 [Nebulo - DNS Changer DoH/DoT](<https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen>) - Recommended  
@@ -263,6 +263,24 @@ I never use custom roms anymore. I like Motorola phones and their stock ROMs are
 
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
