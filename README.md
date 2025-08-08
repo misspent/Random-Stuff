@@ -59,9 +59,11 @@
 [AmbientMusicMod](<https://github.com/KieronQuinn/AmbientMusicMod>) - Port of Now Playing from Pixels to other Android devices  
 [DarQ](<https://github.com/KieronQuinn/DarQ>) - Provides a per-app selectable force dark option for Android 10 and above   
 [Canta](<https://github.com/samolego/Canta>) - Uninstall any Android app without root (with power of Shizuku). Debloat your device  
-[SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)   
+[SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)  
+[InstallWithOptions](<https://github.com/zacharee/InstallWithOptions>) - An app with a simple purpose: more advanced app installs without needing to use ADB.  
 **Form Play Store**:  
 [MacroDroid](<https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid>)  
+[Swift Backup](<https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup>), [2)](<https://liteapks.com/swift-backup.html>)  
 [UbikiTouch](<https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch>) - Seems like a MASSIVE QoL app  
 
 **Other**  
@@ -69,7 +71,7 @@
 
 
 
-⚠️ If rooted: Use `AdAway` cause it edits Host Files
+⚠️ If rooted: Use `AdAway` as it edits Host Files (Fast and less resource hungry)
 
 
 ## ⚙️ Settings
@@ -175,7 +177,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - **Chat App Auto-Responders**: [Atomatic](<https://watomatic.app>) / [AutoResponder](<https://www.autoresponder.ai>)
 - **YouTube**: [YouTube: Revanced](<https://github.com/ReVanced/revanced-manager>), [Grayjay](<https://grayjay.app/>), [NewPipe](<https://github.com/TeamNewPipe/NewPipe>), [Tubular](<https://github.com/polymorphicshade/Tubular>) & [LibreTube](<https://github.com/libre-tube/LibreTube>)
 - **Play Store**: [Aurora Store](<https://gitlab.com/AuroraOSS/AuroraStore>) (No sign-in google!) / [F-droid](<https://github.com/f-droid/fdroidclient>) / [Droid-ify](<https://github.com/Droid-ify/client>) / [Neo-Store](<https://github.com/NeoApplications/Neo-Store>)
-- **Anime & Manga**?: [Anilab](<https://anilab.to/>) | Best Anime?: [Kotatsu](<https://kotatsu.app/>) - Best Manga?: [Dantotsu](<https://dantotsu.org/>) / [LNreader](<https://github.com/LNReader/lnreader>)
+- **Anime & Manga**?: [Anilab](<https://anilab.to/>) | Best Anime?: [Kotatsu](<https://kotatsu.app/>) - Best Manga?: [Dantotsu](<https://dantotsu.org/>), [LNreader](<https://github.com/LNReader/lnreader>) / [Mihon](<https://github.com/mihonapp/mihon>)
 - **Audio Books**: [Smart AudioBook Player (Premium Unlocked)](<https://liteapks.com/smart-audiobook-player.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1332&t=5821312>) / [Voice Audiobook Player](<https://f-droid.org/packages/de.ph1b.audiobook/>)
 - [List of Open Source App Alternatives](<https://www.reddit.com/r/opensource/comments/15cp2yf/all_my_open_source_app_alternatives/>)
 
