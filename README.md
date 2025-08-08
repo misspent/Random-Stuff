@@ -24,7 +24,6 @@
 [Browser (Fennec)](<https://f-droid.org/en/packages/org.mozilla.fennec_fdroid>)  
 [Discord (Aliucord)](<https://github.com/Aliucord/Aliucord>)  
 [Neo-Store](<https://github.com/NeoApplications/Neo-Store>) / [client](<https://github.com/Droid-ify/client>)   
-[Instagram (MyInsta)](<https://myinsta.dev/>)  
 [Twitter (AeroWitter)](<https://aerowitter.com/>)  
 [YouTube (ReVanced)](<https://github.com/ReVanced/revanced-manager>)  
 [Bitwarden](<https://bitwarden.com>) / [Proton Pass](<https://proton.me/pass>)  
@@ -170,7 +169,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - **Discord**: [Aliucord](<https://github.com/Aliucord/Aliucord>) / [Revenge](<https://github.com/revenge-mod/revenge-bundle>)
 - **Telegram**: [Nagram](<https://github.com/nextalone/nagram>) / [AyuGram4A](<https://github.com/AyuGram/AyuGram4A>)
 - **Browser**: [Fennec](<https://f-droid.org/en/packages/org.mozilla.fennec_fdroid>) / [Cromite](<https://github.com/uazo/cromite>) / [Iceraven](<https://github.com/fork-maintainers/iceraven-browser>)  
-- **Instagram**: [MyInsta](<https://myinsta.dev>) / [Instafel](<https://instafel.app>) / [InstaEclipse](<https://github.com/ReSo7200/InstaEclipse>)
+- **Instagram**: [MyInsta](<https://myinsta.dev>) / [InstaFlow](<https://instaflow.org>) / [InstaEclipse](<https://github.com/ReSo7200/InstaEclipse>)
 - **Messenger**: [SimpleX Chat](<https://simplex.chat/>), [Signal](<https://signal.org/>) or [Element](<https://element.io/>)
 - **Photos and Videos**: [aves](<https://github.com/deckerst/aves>), [Gallery for PhotoPrism](<https://f-droid.org/packages/ua.com.radiokot.photoprism/>)
 - **2FA**: [Ente Auth](<https://ente.io/auth/>) / [Aegis Authenticator](<https://f-droid.org/packages/com.beemdevelopment.aegis/>) / [ImageToolbox](<https://github.com/T8RIN/ImageToolbox>)
@@ -225,6 +224,10 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [All Backup & Restore (Pro Unlocked)](<https://liteapks.com/all-backup-restore.html>) / [Swift Backup (Premium Unlocked)](<https://liteapks.com/swift-backup.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=438&t=5807659>), [3](<https://forum.mobilism.org/viewtopic.php?f=438&t=5777066>)  
 [PdaNet+ (Premium Unlocked)](<https://liteapks.com/pdanet.html>) - Use Cellular data as and internet source for devices/PC  
 [Button Mapper: Remap your keys (Pro + Altered)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5764369>) - Single press, Double press and hold press of phone buttons mapping. / [Key Mapper](<https://f-droid.org/packages/io.github.sds100.keymapper/>)  
+
+#### 🗃️ File management / Sharing
+[Destiny](<https://leastauthority.com/community-matters/destiny>)  
+[LocalSend: Share files to nearby devices](<https://localsend.org>)  
 
 #### ➕ **Other**:
 [Translate You](<https://f-droid.org/packages/com.bnyro.translate/>)  
