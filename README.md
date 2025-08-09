@@ -49,7 +49,6 @@
 ## 💿 LineageOS / GrapheneOS (messing) 🚧
 
 **Shizuku apps**  
-⭐ [ShizuTools](<https://github.com/legendsayantan/ShizuTools>) - Contains many tools to control android system via shizuku  
 [Tarnhelm](<https://github.com/lz233/Tarnhelm>) -  The magic to clean sharing links up  
 [Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Automatically: Force stop, disable, hide, etc)  
 [VolumeManager](<https://github.com/yume-chan/VolumeManager>) - Control each app's volume independently  
@@ -60,15 +59,32 @@
 [Canta](<https://github.com/samolego/Canta>) - Uninstall any Android app without root (with power of Shizuku). Debloat your device  
 [SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)  
 [InstallWithOptions](<https://github.com/zacharee/InstallWithOptions>) - An app with a simple purpose: more advanced app installs without needing to use ADB.  
+[FlagSecurePatcher](<https://github.com/j-hc/FlagSecurePatcher>) - Stop apps from preventing taking screenshots and block screenshot listeners that was introduced in A14.
 **Form Play Store**:  
 [MacroDroid](<https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid>)  
 [Swift Backup](<https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup>), [2)](<https://liteapks.com/swift-backup.html>)  
+[Contacts Sync](<https://play.google.com/store/apps/details?id=com.lb.contacts_sync>) - Allows to sync your contacts photos from WhatsApp into the address book. 
 [UbikiTouch](<https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch>) - Seems like a MASSIVE QoL app  
+
+**Rooted apps I've installed (atm)**:  
+⭐ [ShizuTools](<https://github.com/legendsayantan/ShizuTools>) - Contains many tools to control android system via shizuku  
+⭐ [AdAway](<https://github.com/AdAway/AdAway>) - [Filter Lists](<https://filterlists.com/>), [Multi PRO++](<https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#orange_book-multi-pro---maximum-protection->)  
+[ColorBlendr](<https://f-droid.org/en/packages/com.drdisagree.colorblendr/>)  
+[EnforceDoze](<https://github.com/farfromrefug/EnforceDoze>)  
+[Permission Manager X](<https://f-droid.org/en/packages/com.mirfatif.permissionmanagerx/>)  
+[AFWall+ (Donate + Paid)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5758056>) - Restrict which applications are permitted to access your data networks  
 
 **Other**  
 [Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge/>) - Use your smart watch and other bluetooth devices and keep your data private  
+[Calcu (Premium Unlocked/Optimized)](<https://www.rockmods.net/apps/calcu-mod-apk>)  
+
+**Not tested yet / Testing**:
+[Walloop v14.5 (Premium Unlocked, Ads Removed)](<https://www.rockmods.net/apps/walloop-mod-apk>)  
 
 
+**ℹ️ Information**:  
+[How I flashed (sideloaded) Magisk app for root onto my phone with ADB](<https://youtu.be/AMc3KDIhZLY?t=47>)  
+[Any suggested apps after the device is rooted? : r/androidapps](<https://www.reddit.com/r/androidapps/comments/1fueq58/any_suggested_apps_after_the_device_is_rooted/>)  
 
 ⚠️ If rooted: Use `AdAway` as it edits Host Files (Fast and less resource hungry)
 
@@ -205,6 +221,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [Glassify Icon Pack (Full Version)](<https://liteapks.com/glassify-icon-pack.html>)  
 [Darko - Icon Pack (Full Version)](<https://liteapks.com/darko-icon-pack.html>)  
 [Supreme Icon Pack (Full Version)](<https://liteapks.com/supreme-icon-pack.html>)  
+[OneUI 8 - Icon PackK (Full Version)](<https://liteapks.com/oneui-8-icon-pack.html>)  
 [SuperBlack Icon Pack (Full Version)](<https://liteapks.com/superblack-icon-pack.html>)  
 [Baked Dark Icon Pack (Full Version)](<https://liteapks.com/baked-dark-icon-pack.html>)  
 [Vera Outline Icon Pack (Full Version)](<https://liteapks.com/vera-outline-icon-pack.html>)  
