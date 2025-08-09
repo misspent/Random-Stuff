@@ -77,6 +77,7 @@
 **Other**  
 [Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge/>) - Use your smart watch and other bluetooth devices and keep your data private  
 [Calcu (Premium Unlocked/Optimized)](<https://www.rockmods.net/apps/calcu-mod-apk>)  
+[LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
 
 **Not tested yet / Testing**:
 [Walloop v14.5 (Premium Unlocked, Ads Removed)](<https://www.rockmods.net/apps/walloop-mod-apk>)  
