@@ -47,10 +47,11 @@
 
 ## 💿 LineageOS / GrapheneOS (messing) 🚧
 
-**Shizuku apps**  
+**Shizuku/Magisk apps**  
 [Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Automatically: Force stop, disable, hide, etc)  
 [VolumeManager](<https://github.com/yume-chan/VolumeManager>) - Control each app's volume independently  
 [Taskbar](<https://f-droid.org/packages/com.farmerbb.taskbar/>) - Places start menu & recent apps tray on top of your screen  
+[zygisk-detach](<https://github.com/j-hc/zygisk-detach>) - Detach installed apps from Play Store, hooking binder  
 [AmbientMusicMod](<https://github.com/KieronQuinn/AmbientMusicMod>) - Port of Now Playing from Pixels to other Android devices  
 [DarQ](<https://github.com/KieronQuinn/DarQ>) - Provides a per-app selectable force dark option for Android 10 and above   
 [InstallWithOptions](<https://github.com/zacharee/InstallWithOptions>) - An app with a simple purpose: more advanced app installs without needing to use ADB.  
@@ -63,24 +64,27 @@
 [Contacts Sync](<https://play.google.com/store/apps/details?id=com.lb.contacts_sync>) - Allows to sync your contacts photos from WhatsApp into the address book.  
 
 **Rooted apps I've installed (atm)**:  
+⭐ [Iconify](<https://github.com/Mahmud0808/Iconify>) / [PixelXpert](<https://github.com/siavash79/PixelXpert>)  
 ⭐ [ShizuTools](<https://github.com/legendsayantan/ShizuTools>) - Contains many tools to control android system via shizuku  
 ⭐ [AdAway](<https://github.com/AdAway/AdAway>) - [Multi PRO (Extended)](<https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#ledger-multi-pro---extended-protection-recommended->), [Filter Lists](<https://filterlists.com>)  
 [ColorBlendr](<https://f-droid.org/en/packages/com.drdisagree.colorblendr>)  
 [Key Mapper & Floating Buttons (Unlocked)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5966567>)  
 [SD Maid 2 (Premium Unlocked, Optimized)](<https://www.rockmods.net/apps/sd-maid-2-se-system-cleaner-pro>)  
 [Permission Manager X](<https://f-droid.org/en/packages/com.mirfatif.permissionmanagerx>) - A small app to manage permissions and AppOps  
-[LSPosed](<https://github.com/LSPosed/LSPosed/releases>) - Install through Magisk & select option **zygisk** (enable: **Zygisk** in Magisk settings too)  
-[AFWall+ (Donate + Paid)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5758056>) - Restrict which applications are permitted to access your data networks  
+[LSPosed](<https://github.com/JingMatrix/LSPosed>) - Install through Magisk & select option **zygisk** (enable: **Zygisk** in Magisk settings too)  
 [SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)  
+[AFWall+ (Donate + Paid)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5758056>) - Restrict which applications are permitted to access your data networks  
 [EnforceDoze](<https://github.com/farfromrefug/EnforceDoze>) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life  
 
 **Other**  
-[Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch and other bluetooth devices and keep your data private  
 [Calcu (Premium Unlocked/Optimized)](<https://www.rockmods.net/apps/calcu-mod-apk>)  
 [LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
+[Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch and other bluetooth devices and keep your data private  
 
-**Not tested yet / Testing**:
+**Not tested yet / Testing**:  
+⭐ [crDroid](<https://crdroid.net/downloads>)  
 [Walloop v14.5 (Premium Unlocked, Ads Removed)](<https://www.rockmods.net/apps/walloop-mod-apk>)  
+[ViPER4Android](<https://github.com/AndroidAudioMods/ViPER4Android>) - Allows you to boost the bass, tone down the treble, or increase your phone's maximum volume  
 
 
 **ℹ️ Information**:  
