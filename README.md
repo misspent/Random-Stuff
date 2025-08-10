@@ -31,7 +31,6 @@
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [Thunderbird](<https://f-droid.org/en/packages/net.thunderbird.android/>) / [Simple Email](<https://framagit.org/dystopia-project/simple-email>)    
 [Phocid](<https://f-droid.org/packages/org.sunsetware.phocid/>) (Offline music player)  
-[SD Maid 2/SE (System Cleaner)](<https://f-droid.org/en/packages/eu.darken.sdmse/>)  
 [Ente Auth](<https://ente.io/auth/>) / [Aegis Authenticator](<https://getaegis.app/>)  
 [Reddit (ReVanced - frontpage .apk)](<https://github.com/ReVanced/revanced-manager>)  
 [Spotify (xManager)](<https://github.com/Team-xManager/xManager>) - Or use ReVanced Manager   
@@ -49,33 +48,34 @@
 ## 💿 LineageOS / GrapheneOS (messing) 🚧
 
 **Shizuku apps**  
-[Tarnhelm](<https://github.com/lz233/Tarnhelm>) -  The magic to clean sharing links up  
 [Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Automatically: Force stop, disable, hide, etc)  
 [VolumeManager](<https://github.com/yume-chan/VolumeManager>) - Control each app's volume independently  
-[SensorsOff](<https://github.com/LinerSRT/SensorsOff>) - Return of the manufacturer-deleted SensorsOff tile  
 [Taskbar](<https://f-droid.org/packages/com.farmerbb.taskbar/>) - Places start menu & recent apps tray on top of your screen  
 [AmbientMusicMod](<https://github.com/KieronQuinn/AmbientMusicMod>) - Port of Now Playing from Pixels to other Android devices  
 [DarQ](<https://github.com/KieronQuinn/DarQ>) - Provides a per-app selectable force dark option for Android 10 and above   
-[Canta](<https://github.com/samolego/Canta>) - Uninstall any Android app without root (with power of Shizuku). Debloat your device  
-[SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)  
 [InstallWithOptions](<https://github.com/zacharee/InstallWithOptions>) - An app with a simple purpose: more advanced app installs without needing to use ADB.  
-[FlagSecurePatcher](<https://github.com/j-hc/FlagSecurePatcher>) - Stop apps from preventing taking screenshots and block screenshot listeners that was introduced in A14.
+[FlagSecurePatcher](<https://github.com/j-hc/FlagSecurePatcher>) - Stop apps from preventing taking screenshots and block screenshot listeners that was introduced in A14.  
 **Form Play Store**:  
 [MacroDroid](<https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid>)  
-[Swift Backup](<https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup>), [2)](<https://liteapks.com/swift-backup.html>)  
-[Contacts Sync](<https://play.google.com/store/apps/details?id=com.lb.contacts_sync>) - Allows to sync your contacts photos from WhatsApp into the address book. 
+[Swift Backup](<https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup>), [2](<https://liteapks.com/swift-backup.html>)  
+[Greenify](<https://play.google.com/store/apps/details?id=com.oasisfeng.greenify>) / [Ice Box](<https://play.google.com/store/apps/details?id=com.catchingnow.icebox>)  
 [UbikiTouch](<https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch>) - Seems like a MASSIVE QoL app  
+[Contacts Sync](<https://play.google.com/store/apps/details?id=com.lb.contacts_sync>) - Allows to sync your contacts photos from WhatsApp into the address book.  
 
 **Rooted apps I've installed (atm)**:  
 ⭐ [ShizuTools](<https://github.com/legendsayantan/ShizuTools>) - Contains many tools to control android system via shizuku  
-⭐ [AdAway](<https://github.com/AdAway/AdAway>) - [Filter Lists](<https://filterlists.com/>), [Multi PRO++](<https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#orange_book-multi-pro---maximum-protection->)  
-[ColorBlendr](<https://f-droid.org/en/packages/com.drdisagree.colorblendr/>)  
-[EnforceDoze](<https://github.com/farfromrefug/EnforceDoze>)  
-[Permission Manager X](<https://f-droid.org/en/packages/com.mirfatif.permissionmanagerx/>)  
+⭐ [AdAway](<https://github.com/AdAway/AdAway>) - [Multi PRO (Extended)](<https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#ledger-multi-pro---extended-protection-recommended->), [Filter Lists](<https://filterlists.com>)  
+[ColorBlendr](<https://f-droid.org/en/packages/com.drdisagree.colorblendr>)  
+[Key Mapper & Floating Buttons (Unlocked)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5966567>)  
+[SD Maid 2 (Premium Unlocked, Optimized)](<https://www.rockmods.net/apps/sd-maid-2-se-system-cleaner-pro>)  
+[Permission Manager X](<https://f-droid.org/en/packages/com.mirfatif.permissionmanagerx>) - A small app to manage permissions and AppOps  
+[LSPosed](<https://github.com/LSPosed/LSPosed/releases>) - Install through Magisk & select option **zygisk** (enable: **Zygisk** in Magisk settings too)  
 [AFWall+ (Donate + Paid)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5758056>) - Restrict which applications are permitted to access your data networks  
+[SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)  
+[EnforceDoze](<https://github.com/farfromrefug/EnforceDoze>) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life  
 
 **Other**  
-[Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge/>) - Use your smart watch and other bluetooth devices and keep your data private  
+[Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch and other bluetooth devices and keep your data private  
 [Calcu (Premium Unlocked/Optimized)](<https://www.rockmods.net/apps/calcu-mod-apk>)  
 [LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
 
