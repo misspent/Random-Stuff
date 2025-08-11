@@ -87,10 +87,12 @@
 **Not tested yet / Testing**:  
 ⭐? [crDroid](<https://crdroid.net/downloads>)  
 [Walloop v14.5 (Premium Unlocked, Ads Removed)](<https://www.rockmods.net/apps/walloop-mod-apk>)  
+[Global Icon Pack](<https://github.com/RichardLuo0/global-icon-pack-android>) - An Xposed module for applying icon packs globally  
 [ViPER4Android](<https://github.com/AndroidAudioMods/ViPER4Android>) - Allows you to boost the bass, tone down the treble, or increase your phone's maximum volume  
 
 
 **ℹ️ Information**:  
+[Modded Apps & Tweaks](<https://github.com/awesome-android-root/awesome-android-root?tab=readme-ov-file#modded-apps--tweaks>) **Rooted** version of common apps  
 [How I flashed (sideloaded) Magisk app for root onto my phone with ADB](<https://youtu.be/AMc3KDIhZLY?t=47>)  
 [Any suggested apps after the device is rooted? : r/androidapps](<https://www.reddit.com/r/androidapps/comments/1fueq58/any_suggested_apps_after_the_device_is_rooted/>)  
 
