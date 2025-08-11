@@ -190,7 +190,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - **Discord**: [Aliucord](<https://github.com/Aliucord/Aliucord>) / [Revenge](<https://github.com/revenge-mod/revenge-bundle>)
 - **Telegram**: [Nagram](<https://github.com/nextalone/nagram>) / [AyuGram4A](<https://github.com/AyuGram/AyuGram4A>)
 - **Browser**: [Fennec](<https://f-droid.org/en/packages/org.mozilla.fennec_fdroid>) / [Cromite](<https://github.com/uazo/cromite>) / [Iceraven](<https://github.com/fork-maintainers/iceraven-browser>)  
-- **Instagram**: [MyInsta](<https://myinsta.dev>) / [InstaFlow](<https://instaflow.org>) / [InstaEclipse](<https://github.com/ReSo7200/InstaEclipse>)
+- **Instagram**: [MyInsta](<https://myinsta.dev>) / [InstaFlow](<https://instaflow.org>) / [InstaEclipse](<https://github.com/ReSo7200/InstaEclipse>) / [Instafel](<https://instafel.app>)
 - **Messenger**: [SimpleX Chat](<https://simplex.chat/>), [Signal](<https://signal.org/>) or [Element](<https://element.io/>)
 - **Photos and Videos**: [aves](<https://github.com/deckerst/aves>), [Gallery for PhotoPrism](<https://f-droid.org/packages/ua.com.radiokot.photoprism/>)
 - **2FA**: [Ente Auth](<https://ente.io/auth/>) / [Aegis Authenticator](<https://f-droid.org/packages/com.beemdevelopment.aegis/>) / [ImageToolbox](<https://github.com/T8RIN/ImageToolbox>)
@@ -238,6 +238,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [Zest](<https://github.com/darkmoonight/Zest>) - Task management application  
 
 #### 🔧 **Utility**:
+[Syncthing-Fork](<https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/>)  
 [Update Me (Mobile)](<https://github.com/anfreire/updateMe-Mobile>)  
 [Tasker build (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5710897>)  
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
