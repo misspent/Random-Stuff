@@ -3,6 +3,8 @@
   <br>
 
 
+⭐ [Awesome Android root](<https://github.com/awesome-android-root/awesome-android-root>)    
+
 
 ## 📥 My Tweaks (What I do after re-install)
 
@@ -11,7 +13,6 @@
 [Audile](<https://f-droid.org/en/packages/com.mrsep.musicrecognizer/>)  
 [Feeder](<https://f-droid.org/en/packages/com.nononsenseapps.feeder/>)  
 [TickTick](<https://ticktick.com/>)  
-[NotallyX](<https://f-droid.org/en/packages/com.philkes.notallyx/>)  
 [URLCheck](<https://github.com/TrianguloY/URLCheck>)  
 [Good Lock](<https://galaxystore.samsung.com/detail/com.samsung.android.goodlock>)  
 [WikiReader](<https://f-droid.org/en/packages/org.nsh07.wikireader/>)  
@@ -57,7 +58,6 @@
 [InstallWithOptions](<https://github.com/zacharee/InstallWithOptions>) - An app with a simple purpose: more advanced app installs without needing to use ADB.  
 [FlagSecurePatcher](<https://github.com/j-hc/FlagSecurePatcher>) - Stop apps from preventing taking screenshots and block screenshot listeners that was introduced in A14.  
 **Form Play Store**:  
-[MacroDroid](<https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid>)  
 [Swift Backup](<https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup>), [2](<https://liteapks.com/swift-backup.html>)  
 [Greenify](<https://play.google.com/store/apps/details?id=com.oasisfeng.greenify>) / [Ice Box](<https://play.google.com/store/apps/details?id=com.catchingnow.icebox>)  
 [UbikiTouch](<https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch>) - Seems like a MASSIVE QoL app  
@@ -77,12 +77,13 @@
 [EnforceDoze](<https://github.com/farfromrefug/EnforceDoze>) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life  
 
 **Other**  
+⭐ [MacroDroid](<https://forum.mobilism.org/viewtopic.php?f=438&t=6000331>), [2](<https://modyolo.com/macrodroid-device-automation.html>)  
 [Calcu (Premium Unlocked/Optimized)](<https://www.rockmods.net/apps/calcu-mod-apk>)  
 [LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
 [Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch and other bluetooth devices and keep your data private  
 
 **Not tested yet / Testing**:  
-⭐ [crDroid](<https://crdroid.net/downloads>)  
+⭐? [crDroid](<https://crdroid.net/downloads>)  
 [Walloop v14.5 (Premium Unlocked, Ads Removed)](<https://www.rockmods.net/apps/walloop-mod-apk>)  
 [ViPER4Android](<https://github.com/AndroidAudioMods/ViPER4Android>) - Allows you to boost the bass, tone down the treble, or increase your phone's maximum volume  
 
@@ -186,6 +187,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - **Twitter**: [AeroWitter](<https://aerowitter.com/>)
 - **Twitch**: [Twire](<https://github.com/twireapp/Twire>) / [Xtra](<https://github.com/crackededed/Xtra>)
 - **Snapchat**: [SE Extended](<https://github.com/bocajthomas/SE-Extended>)
+- **Notes**: [NotallyX](<https://f-droid.org/en/packages/com.philkes.notallyx>) / [UpNote](<https://getupnote.com>), [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=6011580>)
 - **Reddit**: [Stealth](<https://gitlab.com/cosmosapps/stealth>) / [RedReader](<https://github.com/QuantumBadger/RedReader>)
 - **Discord**: [Aliucord](<https://github.com/Aliucord/Aliucord>) / [Revenge](<https://github.com/revenge-mod/revenge-bundle>)
 - **Telegram**: [Nagram](<https://github.com/nextalone/nagram>) / [AyuGram4A](<https://github.com/AyuGram/AyuGram4A>)
