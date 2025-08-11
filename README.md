@@ -75,10 +75,12 @@
 [SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)  
 [AFWall+ (Donate + Paid)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5758056>) - Restrict which applications are permitted to access your data networks  
 [EnforceDoze](<https://github.com/farfromrefug/EnforceDoze>) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life  
+[Universal GMS Doze](<https://github.com/gloeyisk/universal-gms-doze>) - Patches Google Play services app and certain processes/services to be able to use battery optimization   
 
 **Other**  
 ⭐ [MacroDroid](<https://forum.mobilism.org/viewtopic.php?f=438&t=6000331>), [2](<https://modyolo.com/macrodroid-device-automation.html>)  
 [Calcu (Premium Unlocked/Optimized)](<https://www.rockmods.net/apps/calcu-mod-apk>)  
+[Microsoft SwiftKey (Mod + Amoled + Clon)](<https://forum.mobilism.org/viewtopic.php?f=426&t=6011564>) - Disable network access  
 [LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
 [Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch and other bluetooth devices and keep your data private  
 
