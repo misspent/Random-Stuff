@@ -2,9 +2,7 @@
   <summary align="center">📱 Mobile Phone Scripture</summary>
   <br>
 
-
 ⭐ [Awesome Android root](<https://github.com/awesome-android-root/awesome-android-root>)    
-
 
 ## 📥 My Tweaks (What I do after re-install)
 
@@ -49,46 +47,40 @@
 ## 💿 LineageOS / GrapheneOS (messing) 🚧
 
 **Shizuku/Magisk apps**  
-[Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Automatically: Force stop, disable, hide, etc)  
-[VolumeManager](<https://github.com/yume-chan/VolumeManager>) - Control each app's volume independently  
+[VolumeManager](<https://github.com/yume-chan/VolumeManager>) - Control each app's volume independently (not needed when rooted)  
 [Taskbar](<https://f-droid.org/packages/com.farmerbb.taskbar/>) - Places start menu & recent apps tray on top of your screen  
-[zygisk-detach](<https://github.com/j-hc/zygisk-detach>) - Detach installed apps from Play Store, hooking binder  
 [AmbientMusicMod](<https://github.com/KieronQuinn/AmbientMusicMod>) - Port of Now Playing from Pixels to other Android devices  
-[DarQ](<https://github.com/KieronQuinn/DarQ>) - Provides a per-app selectable force dark option for Android 10 and above   
-[InstallWithOptions](<https://github.com/zacharee/InstallWithOptions>) - An app with a simple purpose: more advanced app installs without needing to use ADB.  
 [FlagSecurePatcher](<https://github.com/j-hc/FlagSecurePatcher>) - Stop apps from preventing taking screenshots and block screenshot listeners that was introduced in A14.  
 **Form Play Store**:  
 [Swift Backup](<https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup>), [2](<https://liteapks.com/swift-backup.html>)  
-[Greenify](<https://play.google.com/store/apps/details?id=com.oasisfeng.greenify>) / [Ice Box](<https://play.google.com/store/apps/details?id=com.catchingnow.icebox>)  
 [UbikiTouch](<https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch>) - Seems like a MASSIVE QoL app  
 [Contacts Sync](<https://play.google.com/store/apps/details?id=com.lb.contacts_sync>) - Allows to sync your contacts photos from WhatsApp into the address book.  
 
 **Rooted apps I've installed (atm)**:  
 ⭐ [Iconify](<https://github.com/Mahmud0808/Iconify>) / [PixelXpert](<https://github.com/siavash79/PixelXpert>)  
+⭐ [MacroDroid](<https://forum.mobilism.org/viewtopic.php?f=438&t=6000331>), [2](<https://modyolo.com/macrodroid-device-automation.html>) - [Share your macros (forum)](<https://www.macrodroidforum.com/index.php?forums/share-your-macros.8>)  
 ⭐ [ShizuTools](<https://github.com/legendsayantan/ShizuTools>) - Contains many tools to control android system via shizuku  
 ⭐ [AdAway](<https://github.com/AdAway/AdAway>) - [Multi PRO (Extended)](<https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#ledger-multi-pro---extended-protection-recommended->), [Filter Lists](<https://filterlists.com>)  
-[ColorBlendr](<https://f-droid.org/en/packages/com.drdisagree.colorblendr>)  
+[Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Automatically: Force stop, disable, hide, etc)  
+[PlayIntegrityFork](<https://github.com/osm0sis/PlayIntegrityFork>)  
 [Key Mapper & Floating Buttons (Unlocked)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5966567>)  
 [SD Maid 2 (Premium Unlocked, Optimized)](<https://www.rockmods.net/apps/sd-maid-2-se-system-cleaner-pro>)  
-[Permission Manager X](<https://f-droid.org/en/packages/com.mirfatif.permissionmanagerx>) - A small app to manage permissions and AppOps  
+[zygisk-detach](<https://github.com/j-hc/zygisk-detach>) - Detach installed apps from Play Store, hooking binder  
 [LSPosed](<https://github.com/JingMatrix/LSPosed>) - Install through Magisk & select option **zygisk** (enable: **Zygisk** in Magisk settings too)  
 [SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)  
-[AFWall+ (Donate + Paid)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5758056>) - Restrict which applications are permitted to access your data networks  
-[EnforceDoze](<https://github.com/farfromrefug/EnforceDoze>) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life  
-[Universal GMS Doze](<https://github.com/gloeyisk/universal-gms-doze>) - Patches Google Play services app and certain processes/services to be able to use battery optimization   
+[EnforceDoze](<https://github.com/farfromrefug/EnforceDoze>) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life   
 
 **Other**  
-⭐ [MacroDroid](<https://forum.mobilism.org/viewtopic.php?f=438&t=6000331>), [2](<https://modyolo.com/macrodroid-device-automation.html>)  
-[Calcu (Premium Unlocked/Optimized)](<https://www.rockmods.net/apps/calcu-mod-apk>)  
+[BCR](<https://github.com/chenxiaolong/BCR>)  
 [Microsoft SwiftKey (Mod + Amoled + Clon)](<https://forum.mobilism.org/viewtopic.php?f=426&t=6011564>) - Disable network access  
 [LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
-[Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch and other bluetooth devices and keep your data private  
+[Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch & other bluetooth devices and keep your data private  
+[Universal GMS Doze](<https://github.com/gloeyisk/universal-gms-doze>) - Patches Google Play services app & certain processes/services to be able to use battery optimization  
 
 **Not tested yet / Testing**:  
 ⭐? [crDroid](<https://crdroid.net/downloads>)  
 [Walloop v14.5 (Premium Unlocked, Ads Removed)](<https://www.rockmods.net/apps/walloop-mod-apk>)  
 [Global Icon Pack](<https://github.com/RichardLuo0/global-icon-pack-android>) - An Xposed module for applying icon packs globally  
-[ViPER4Android](<https://github.com/AndroidAudioMods/ViPER4Android>) - Allows you to boost the bass, tone down the treble, or increase your phone's maximum volume  
 
 
 **ℹ️ Information**:  
@@ -240,7 +232,7 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 
 #### ⚙️ **Mobile Apps / Tweaks / Other**:
 [Canta](<https://samolego.github.io/Canta>)  
-[Shazam](<https://modyolo.com/shazam.html>)  
+[Shazam](<https://modyolo.com/shazam.html>), [2](<https://forum.mobilism.org/viewtopic.php?f=1332&t=6014638>), [3](<https://www.rockmods.net/apps/shazam-mod-apk>)  
 [Zest](<https://github.com/darkmoonight/Zest>) - Task management application  
 
 #### 🔧 **Utility**:
