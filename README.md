@@ -11,13 +11,11 @@
 [Audile](<https://f-droid.org/en/packages/com.mrsep.musicrecognizer/>)  
 [Feeder](<https://f-droid.org/en/packages/com.nononsenseapps.feeder/>)  
 [TickTick](<https://ticktick.com/>)  
-[URLCheck](<https://github.com/TrianguloY/URLCheck>)  
 [Good Lock](<https://galaxystore.samsung.com/detail/com.samsung.android.goodlock>)  
 [WikiReader](<https://f-droid.org/en/packages/org.nsh07.wikireader/>)  
 [Key Mapper](<https://f-droid.org/en/packages/io.github.sds100.keymapper/>)  
 [Twitch (Xtra)](<https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/>)  
 [CloudStream](<https://github.com/recloudstream/cloudstream>)  
-[TrackerControl](<https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/>)  
 [Breezy Weather](<https://github.com/breezy-weather/breezy-weather>)  
 [FUTO Keyboard](<https://keyboard.futo.org>)  
 [Browser (Fennec)](<https://f-droid.org/en/packages/org.mozilla.fennec_fdroid>)  
@@ -28,11 +26,8 @@
 [Bitwarden](<https://bitwarden.com>) / [Proton Pass](<https://proton.me/pass>)  
 [Voice Audiobook Player](<https://f-droid.org/en/packages/de.ph1b.audiobook/>)  
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
-[Thunderbird](<https://f-droid.org/en/packages/net.thunderbird.android/>) / [Simple Email](<https://framagit.org/dystopia-project/simple-email>)    
-[Phocid](<https://f-droid.org/packages/org.sunsetware.phocid/>) (Offline music player)  
-[Ente Auth](<https://ente.io/auth/>) / [Aegis Authenticator](<https://getaegis.app/>)  
+[Phocid](<https://f-droid.org/packages/org.sunsetware.phocid/>) (Offline music player)   
 [Reddit (ReVanced - frontpage .apk)](<https://github.com/ReVanced/revanced-manager>)  
-[Spotify (xManager)](<https://github.com/Team-xManager/xManager>) - Or use ReVanced Manager   
 
 
 ### Install in future?
@@ -58,27 +53,27 @@
 
 **Rooted apps I've installed (atm)**:  
 ⭐ [Iconify](<https://github.com/Mahmud0808/Iconify>) / [PixelXpert](<https://github.com/siavash79/PixelXpert>)  
-⭐ [MacroDroid](<https://forum.mobilism.org/viewtopic.php?f=438&t=6000331>), [2](<https://modyolo.com/macrodroid-device-automation.html>) - [Share your macros (forum)](<https://www.macrodroidforum.com/index.php?forums/share-your-macros.8>)  
+⭐ [MacroDroid](<https://forum.mobilism.org/viewtopic.php?f=438&t=6000331>), [2](<https://modyolo.com/macrodroid-device-automation.html>) - Import peoples macros: [Share your macros (forum)](<https://www.macrodroidforum.com/index.php?forums/share-your-macros.8>)  
 ⭐ [ShizuTools](<https://github.com/legendsayantan/ShizuTools>) - Contains many tools to control android system via shizuku  
 ⭐ [AdAway](<https://github.com/AdAway/AdAway>) - [Multi PRO (Extended)](<https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#ledger-multi-pro---extended-protection-recommended->), [Filter Lists](<https://filterlists.com>)  
-[Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Automatically: Force stop, disable, hide, etc)  
 [PlayIntegrityFork](<https://github.com/osm0sis/PlayIntegrityFork>)  
-[Key Mapper & Floating Buttons (Unlocked)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5966567>)  
 [SD Maid 2 (Premium Unlocked, Optimized)](<https://www.rockmods.net/apps/sd-maid-2-se-system-cleaner-pro>)  
+[Hail](<https://f-droid.org/en/packages/com.aistra.hail/>) (Automatically: Force stop, disable, hide, etc)  
 [zygisk-detach](<https://github.com/j-hc/zygisk-detach>) - Detach installed apps from Play Store, hooking binder  
 [LSPosed](<https://github.com/JingMatrix/LSPosed>) - Install through Magisk & select option **zygisk** (enable: **Zygisk** in Magisk settings too)  
 [SaverTuner](<https://codeberg.org/s1m/savertuner>) - Extension to the built-in Android Battery Saver (Offers amazing features for Battery)  
 [EnforceDoze](<https://github.com/farfromrefug/EnforceDoze>) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life   
 
 **Other**  
-[BCR](<https://github.com/chenxiaolong/BCR>)  
-[Microsoft SwiftKey (Mod + Amoled + Clon)](<https://forum.mobilism.org/viewtopic.php?f=426&t=6011564>) - Disable network access  
+[Basic Call Recorder](<https://github.com/chenxiaolong/BCR>)  
+[ImageToolbox](<https://github.com/T8RIN/ImageToolbox>) - Image editor  
+[Key Mapper & Floating Buttons (Unlocked)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5966567>)  
 [LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
+[Microsoft SwiftKey (Mod + Amoled + Clon)](<https://forum.mobilism.org/viewtopic.php?f=426&t=6011564>) - Disable network access  
 [Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch & other bluetooth devices and keep your data private  
 [Universal GMS Doze](<https://github.com/gloeyisk/universal-gms-doze>) - Patches Google Play services app & certain processes/services to be able to use battery optimization  
 
 **Not tested yet / Testing**:  
-⭐? [crDroid](<https://crdroid.net/downloads>)  
 [Walloop v14.5 (Premium Unlocked, Ads Removed)](<https://www.rockmods.net/apps/walloop-mod-apk>)  
 [Global Icon Pack](<https://github.com/RichardLuo0/global-icon-pack-android>) - An Xposed module for applying icon packs globally  
 
@@ -89,56 +84,6 @@
 [Any suggested apps after the device is rooted? : r/androidapps](<https://www.reddit.com/r/androidapps/comments/1fueq58/any_suggested_apps_after_the_device_is_rooted/>)  
 
 ⚠️ If rooted: Use `AdAway` as it edits Host Files (Fast and less resource hungry)
-
-
-## ⚙️ Settings
-
-
-### **Personal Preference**:
-**Settings**: > Search: `Auto sync` > Disable it  
-**Settings**: `Privacy` > Enable: `Alert when clipboard accessed`  
-**Settings**: `Developer options` > Enable: `Suspend execution for cached apps`  
-**Play Store**: Click icon in top-right corner > `Play Protect` and turn it all off  
-**Settings**: > Search: `Device assistance app` > set `Device assistance app` to "None"  
-**Settings**: Search: `Permission manager` > Remove/Limit access of everything to your liking!  
-**Settings**: > `Connections` > `More Connections Settings` > `Private DNS`. Enter "dns.adguard.com", "family.adguard-dns.com"(for extra protection) or "bafcbe.dns.nextdns.io"  
-**Settings**: `Connections` > `Wi-Fi` > Hit 3 dots in top-right corner > `Advanced` > Disable: `Detect suspicious networks` & `Hotspot 2.0`  
-**Settings**: `About Device` > System > Tap `Build Number` 7-10 times > Go back and find `Developer Options` > `Quick settings developer tiles` > `Sensors off`  
-
-### **Customization**:
-**Install**: `GoodLock` App  
-Download: `Home Up` within the app (hide label names, have more app rows, task changer, etc)  
-Download: `LockStart` & `Theme Park` within the app (both work together)  
-Download: `QuickStar` within the app (move clock location @ top + custom theme & Auto-expand notifications: [1](<https://xdaforums.com/t/auto-expand-notifications.4562939/>))  
-
-#### **Disable**
-- Find My Device
-- Turns off Edge panels
-- Disables the app drawer 
-- Limit apps and Home screen
-- NFC and contactless payments
-- Reduces refresh rate to 60Hz
-- Limits all background activity
-- Only allows selected apps (up to eight) on the Home screen
-- Sets a system-wide dark theme (with a solid black wallpaper)
-- Adaptive Battery (unless you use a lot... Needs to learn habits)
-
-
-#### **Other / Write-ups**:
-- You put some apps into Deep sleep
-- Disable fast charging in settings & Turn on power saving mode (batter option?) This'll only charge it to 85%?  
-- Set up a Bixby Routine so that when it's charging, Protect Battery is turned on (yes, this is now an option in Bixby Routines).
-- At night when it's idling, set up a Bixby Routine to turn on Airplane mode. For example, mine is set to turn it on between 00:00 - 06:00 during work days  
-- [Guide: How to increase battery life and battery health, using Lithium battery science!](<https://www.reddit.com/r/samsung/comments/pyn8n4/guide_how_to_increase_battery_life_and_battery/>)  
-- [MEGA PRO TIPS - Make the most of your S10! Settings, Customization, Convenience & Battery Tips!](<https://www.reddit.com/r/galaxys10/comments/bg2bb2/mega_pro_tips_make_the_most_of_your_s10_settings/>)  
-
-
-#### **Videos**:
-- [How to Stay Private on a Budget!](https://youtu.be/hQkKdXZiVj4)
-- [23 Android 13 Settings You NEED To Turn Off Now](https://youtu.be/dEE7OjXeNqQ)  
-- [Android privacy optimization guide](https://youtu.be/7sZVdoQ0NN0) - Developer mode  
-- [Every Android Privacy Setting You Need To Change Now](https://youtu.be/hH7hmlEIijQ)
-- [25 hacks to fix android battery drain — #7 is a killer (#7 is Adaptive Brightness)](https://youtu.be/y5ewEJtT134) - DeArrow extension renames title  
 
 
 ## 📝 **Websites used / Information (useful)**:
@@ -183,16 +128,17 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - **Twitter**: [AeroWitter](<https://aerowitter.com/>)
 - **Twitch**: [Twire](<https://github.com/twireapp/Twire>) / [Xtra](<https://github.com/crackededed/Xtra>)
 - **Snapchat**: [SE Extended](<https://github.com/bocajthomas/SE-Extended>)
-- **Notes**: [NotallyX](<https://f-droid.org/en/packages/com.philkes.notallyx>) / [UpNote](<https://getupnote.com>), [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=6011580>)
 - **Reddit**: [Stealth](<https://gitlab.com/cosmosapps/stealth>) / [RedReader](<https://github.com/QuantumBadger/RedReader>)
 - **Discord**: [Aliucord](<https://github.com/Aliucord/Aliucord>) / [Revenge](<https://github.com/revenge-mod/revenge-bundle>)
+- **Notes**: [NotallyX](<https://f-droid.org/en/packages/com.philkes.notallyx>) / [UpNote](<https://getupnote.com>), [2](<https://forum.mobilism.org/viewtopic.php?f=432&t=6011580>)
 - **Telegram**: [Nagram](<https://github.com/nextalone/nagram>) / [AyuGram4A](<https://github.com/AyuGram/AyuGram4A>)
 - **Browser**: [Fennec](<https://f-droid.org/en/packages/org.mozilla.fennec_fdroid>) / [Cromite](<https://github.com/uazo/cromite>) / [Iceraven](<https://github.com/fork-maintainers/iceraven-browser>)  
-- **Instagram**: [MyInsta](<https://myinsta.dev>) / [InstaFlow](<https://instaflow.org>) / [InstaEclipse](<https://github.com/ReSo7200/InstaEclipse>) / [Instafel](<https://instafel.app>)
-- **Messenger**: [SimpleX Chat](<https://simplex.chat/>), [Signal](<https://signal.org/>) or [Element](<https://element.io/>)
+- **Messenger**: [SimpleX Chat](<https://simplex.chat/>) / [Signal](<https://signal.org/>) or [Element](<https://element.io/>)
 - **Photos and Videos**: [aves](<https://github.com/deckerst/aves>), [Gallery for PhotoPrism](<https://f-droid.org/packages/ua.com.radiokot.photoprism/>)
-- **2FA**: [Ente Auth](<https://ente.io/auth/>) / [Aegis Authenticator](<https://f-droid.org/packages/com.beemdevelopment.aegis/>) / [ImageToolbox](<https://github.com/T8RIN/ImageToolbox>)
+- **News**: [The Guardian](<https://www.rockmods.net/apps/the-guardian-mod-apk>) / [Ground News](<https://play.google.com/store/apps/details?id=com.checkitt&hl=en_GB>) / [News](<https://github.com/bubelov/news>) / [Feeder](<https://github.com/spacecowboy/Feeder>)
+- **Instagram**: [MyInsta](<https://myinsta.dev>) / [InstaFlow](<https://instaflow.org>) / [InstaEclipse](<https://github.com/ReSo7200/InstaEclipse>) / [Instafel](<https://instafel.app>)
 - **Chat App Auto-Responders**: [Atomatic](<https://watomatic.app>) / [AutoResponder](<https://www.autoresponder.ai>)
+- **2FA**: [Ente Auth](<https://ente.io/auth/>) / [Aegis Authenticator](<https://f-droid.org/packages/com.beemdevelopment.aegis/>) / [Proton Authenticator](<https://proton.me/authenticator>)
 - **YouTube**: [YouTube: Revanced](<https://github.com/ReVanced/revanced-manager>), [Grayjay](<https://grayjay.app/>), [NewPipe](<https://github.com/TeamNewPipe/NewPipe>), [Tubular](<https://github.com/polymorphicshade/Tubular>) & [LibreTube](<https://github.com/libre-tube/LibreTube>)
 - **Play Store**: [Aurora Store](<https://gitlab.com/AuroraOSS/AuroraStore>) (No sign-in google!) / [F-droid](<https://github.com/f-droid/fdroidclient>) / [Droid-ify](<https://github.com/Droid-ify/client>) / [Neo-Store](<https://github.com/NeoApplications/Neo-Store>)
 - **Anime & Manga**?: [Anilab](<https://anilab.to/>) | Best Anime?: [Kotatsu](<https://kotatsu.app/>) - Best Manga?: [Dantotsu](<https://dantotsu.org/>), [LNreader](<https://github.com/LNReader/lnreader>) / [Mihon](<https://github.com/mihonapp/mihon>)
@@ -270,11 +216,10 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 [AdAway](<https://github.com/AdAway/AdAway>) - Widely used + recommended (Use with host file for BEST ad blocking experience across the WHOLE phone) | [1](<https://www.reddit.com/r/fossdroid/comments/1agzdyv/adaway_what_is_it_blocking/komllne/>)  
 [I root for](https://www.reddit.com/r/Android/comments/kogzrt/is_rooting_still_worth_the_effort_in_2021/ghrc3zk/), [2](https://www.reddit.com/r/androidroot/comments/17uycnw/what_are_the_benefits_of_rooting_android_in_2023/k96ytqo/), [3](<https://www.reddit.com/r/Android/comments/96r4qz/is_rooting_your_device_still_worth_it/e42umay/>):  
 - Adaway
-- Greenify
 - Battery Charge Limit
 - Custom boot animation's
-- Amplify to reduce wakelocks
 - Uninstall/disable bloatware
+- Amplify to reduce wakelocks
 - Ads removal without using vpn
 - Viper4android for audio tweaks
 - root browser (I use Solid Explorer)
@@ -286,10 +231,89 @@ Download: `QuickStar` within the app (move clock location @ top + custom theme &
 - Titanium backup & restore - (getting less important as more app details are synced in the cloud) - also for debloat by freezing system junk
 I never use custom roms anymore. I like Motorola phones and their stock ROMs are pretty decent. Also I have had a lot of trouble with mobile networks on custom ROMS - VOLTE stops working and other bugs.  
 
+## ⚙️ Settings
 
+
+### **Personal Preference**:
+**Settings**: > Search: `Auto sync` > Disable it  
+**Settings**: `Privacy` > Enable: `Alert when clipboard accessed`  
+**Settings**: `Developer options` > Enable: `Suspend execution for cached apps`  
+**Play Store**: Click icon in top-right corner > `Play Protect` and turn it all off  
+**Settings**: > Search: `Device assistance app` > set `Device assistance app` to "None"  
+**Settings**: Search: `Permission manager` > Remove/Limit access of everything to your liking!  
+**Settings**: > `Connections` > `More Connections Settings` > `Private DNS`. Enter "dns.adguard.com", "family.adguard-dns.com"(for extra protection) or "bafcbe.dns.nextdns.io"  
+**Settings**: `Connections` > `Wi-Fi` > Hit 3 dots in top-right corner > `Advanced` > Disable: `Detect suspicious networks` & `Hotspot 2.0`  
+**Settings**: `About Device` > System > Tap `Build Number` 7-10 times > Go back and find `Developer Options` > `Quick settings developer tiles` > `Sensors off`  
+
+### **Customization**:
+**Install**: `GoodLock` App  
+Download: `Home Up` within the app (hide label names, have more app rows, task changer, etc)  
+Download: `LockStart` & `Theme Park` within the app (both work together)  
+Download: `QuickStar` within the app (move clock location @ top + custom theme & Auto-expand notifications: [1](<https://xdaforums.com/t/auto-expand-notifications.4562939/>))  
+
+#### **Disable**
+- Find My Device
+- Turns off Edge panels
+- Disables the app drawer 
+- Limit apps and Home screen
+- NFC and contactless payments
+- Reduces refresh rate to 60Hz
+- Limits all background activity
+- Only allows selected apps (up to eight) on the Home screen
+- Sets a system-wide dark theme (with a solid black wallpaper)
+- Adaptive Battery (unless you use a lot... Needs to learn habits)
+
+
+#### **Other / Write-ups**:
+- You put some apps into Deep sleep
+- Disable fast charging in settings & Turn on power saving mode (batter option?) This'll only charge it to 85%?  
+- Set up a Bixby Routine so that when it's charging, Protect Battery is turned on (yes, this is now an option in Bixby Routines).
+- At night when it's idling, set up a Bixby Routine to turn on Airplane mode. For example, mine is set to turn it on between 00:00 - 06:00 during work days  
+- [Guide: How to increase battery life and battery health, using Lithium battery science!](<https://www.reddit.com/r/samsung/comments/pyn8n4/guide_how_to_increase_battery_life_and_battery/>)  
+- [MEGA PRO TIPS - Make the most of your S10! Settings, Customization, Convenience & Battery Tips!](<https://www.reddit.com/r/galaxys10/comments/bg2bb2/mega_pro_tips_make_the_most_of_your_s10_settings/>)  
+
+
+#### **Videos**:
+- [How to Stay Private on a Budget!](https://youtu.be/hQkKdXZiVj4)
+- [23 Android 13 Settings You NEED To Turn Off Now](https://youtu.be/dEE7OjXeNqQ)  
+- [Android privacy optimization guide](https://youtu.be/7sZVdoQ0NN0) - Developer mode  
+- [Every Android Privacy Setting You Need To Change Now](https://youtu.be/hH7hmlEIijQ)
+- [25 hacks to fix android battery drain — #7 is a killer (#7 is Adaptive Brightness)](https://youtu.be/y5ewEJtT134) - DeArrow extension renames title  
+
+<details>
+  <summary align="center">Before moving to LineageOS (Android Samsung OS before moving)</summary>
+  <br>
+
+[Audile](<https://f-droid.org/en/packages/com.mrsep.musicrecognizer/>)  
+[Feeder](<https://f-droid.org/en/packages/com.nononsenseapps.feeder/>)  
+[TickTick](<https://ticktick.com/>)  
+[URLCheck](<https://github.com/TrianguloY/URLCheck>)  
+[Good Lock](<https://galaxystore.samsung.com/detail/com.samsung.android.goodlock>)  
+[WikiReader](<https://f-droid.org/en/packages/org.nsh07.wikireader/>)  
+[Key Mapper](<https://f-droid.org/en/packages/io.github.sds100.keymapper/>)  
+[Twitch (Xtra)](<https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/>)  
+[CloudStream](<https://github.com/recloudstream/cloudstream>)  
+[TrackerControl](<https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/>)  
+[Breezy Weather](<https://github.com/breezy-weather/breezy-weather>)  
+[FUTO Keyboard](<https://keyboard.futo.org>)  
+[Browser (Fennec)](<https://f-droid.org/en/packages/org.mozilla.fennec_fdroid>)  
+[Discord (Aliucord)](<https://github.com/Aliucord/Aliucord>)  
+[Neo-Store](<https://github.com/NeoApplications/Neo-Store>) / [client](<https://github.com/Droid-ify/client>)   
+[Twitter (AeroWitter)](<https://aerowitter.com/>)  
+[YouTube (ReVanced)](<https://github.com/ReVanced/revanced-manager>)  
+[Bitwarden](<https://bitwarden.com>) / [Proton Pass](<https://proton.me/pass>)  
+[Voice Audiobook Player](<https://f-droid.org/en/packages/de.ph1b.audiobook/>)  
+[Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
+[Thunderbird](<https://f-droid.org/en/packages/net.thunderbird.android/>) / [Simple Email](<https://framagit.org/dystopia-project/simple-email>)    
+[Phocid](<https://f-droid.org/packages/org.sunsetware.phocid/>) (Offline music player)  
+[Ente Auth](<https://ente.io/auth/>) / [Aegis Authenticator](<https://getaegis.app/>)  
+[Reddit (ReVanced - frontpage .apk)](<https://github.com/ReVanced/revanced-manager>)  
+[Spotify (xManager)](<https://github.com/Team-xManager/xManager>) - Or use ReVanced Manager   
 
 </details>
 
+
+</details>
 
 
 
