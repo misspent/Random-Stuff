@@ -27,6 +27,7 @@
 [Voice Audiobook Player](<https://f-droid.org/en/packages/de.ph1b.audiobook/>)  
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [Phocid](<https://f-droid.org/packages/org.sunsetware.phocid/>) (Offline music player)   
+[SmartNews (Optimized/No ADS)](<https://modyolo.com/smartnews-local-breaking-news.html>)  
 [Reddit (ReVanced - frontpage .apk)](<https://github.com/ReVanced/revanced-manager>)  
 
 
@@ -70,7 +71,6 @@
 [ImageToolbox](<https://github.com/T8RIN/ImageToolbox>) - Image editor  
 [Key Mapper & Floating Buttons (Unlocked)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5966567>)  
 [LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
-[Microsoft SwiftKey (Mod + Amoled + Clon)](<https://forum.mobilism.org/viewtopic.php?f=426&t=6011564>) - Disable network access  
 [Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch & other bluetooth devices and keep your data private  
 [Universal GMS Doze](<https://github.com/gloeyisk/universal-gms-doze>) - Patches Google Play services app & certain processes/services to be able to use battery optimization  
 
