@@ -27,6 +27,7 @@
 [Voice Audiobook Player](<https://f-droid.org/en/packages/de.ph1b.audiobook/>)  
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [Phocid](<https://f-droid.org/packages/org.sunsetware.phocid/>) (Offline music player)   
+[Spotify (anddea RVP + Clone)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=6052015>)  
 [SmartNews (Optimized/No ADS)](<https://modyolo.com/smartnews-local-breaking-news.html>)  
 [Reddit (ReVanced - frontpage .apk)](<https://github.com/ReVanced/revanced-manager>) / [Reddit (Revanced+ Mod)](<https://forum.mobilism.org/viewtopic.php?f=1333&t=6055310>)  
 
