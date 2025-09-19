@@ -210,7 +210,7 @@
 [EdXposed](<https://github.com/ElderDrivers/EdXposed>) & [ZygiskNext](<https://github.com/Dr-TSNG/ZygiskNext>) - [1](<https://www.reddit.com/r/androidroot/comments/17og97c/need_help_with_xposed_framework/k7yiwi5/>)  
 
 #### 🌱 **Root REQUIRED**:
-[AFWall+](<https://github.com/ukanth/afwall>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5364989>)  
+[AFWall+ (Donate + Paid)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5758056>)  
 [Neo-Backup](<https://github.com/NeoApplications/Neo-Backup>)  
 [Folder Widget - Large Folders (Pro + Root)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5663682>)  
 [ReadEra – ebook reader +2070 (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5807060>)  
