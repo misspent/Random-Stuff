@@ -35,7 +35,6 @@
 [Beeper](<https://www.beeper.com/>) - One inbox for all your chats   
 
 ### 📔 Future notes
-- [AdAway](<https://adaway.org/>) - The root level security is not possible/recommended on GrapheneOS? Look into further. Having this as root level then a VPN as VPN route would be glorious. 
 - If you can stop apps from connecting to the internet, then install [Gboard](<https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US>) and make sure it has no connections. You can essentially use ***ALL*** the features it offers without it having any tracking.  
 
 
@@ -68,6 +67,7 @@
 [Basic Call Recorder](<https://github.com/chenxiaolong/BCR>)  
 [ImageToolbox](<https://github.com/T8RIN/ImageToolbox>) - Image editor  
 [Key Mapper & Floating Buttons (Unlocked)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5966567>)  
+[Update Me (Mobile)](<https://github.com/anfreire/updateMe-Mobile>) - Download and Install Modded Apps  
 [LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
 [Microsoft SwiftKey (Mod + Amoled + Clon)](<https://forum.mobilism.org/viewtopic.php?f=426&t=6011564>) - Disable network access  
 [Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch & other bluetooth devices and keep your data private  
@@ -183,7 +183,6 @@
 
 #### 🔧 **Utility**:
 [Syncthing-Fork](<https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/>)  
-[Update Me (Mobile)](<https://github.com/anfreire/updateMe-Mobile>)  
 [Tasker build (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5710897>)  
 [Melodi - Poweramp v3 Skin (Paid)](<https://forum.mobilism.org/viewtopic.php?f=1064&t=5809989>)  
 [Nebulo - DNS Changer DoH/DoT](<https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen>) - Recommended  
