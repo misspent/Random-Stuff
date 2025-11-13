@@ -27,7 +27,9 @@
 [Voice Audiobook Player](<https://f-droid.org/en/packages/de.ph1b.audiobook/>)  
 [Anti Spy (Pro Unlocked)](<https://liteapks.com/anti-spy-4-scanner-spyware.html>)  
 [Phocid](<https://f-droid.org/packages/org.sunsetware.phocid/>) (Offline music player)   
-[Reddit (ReVanced - frontpage .apk)](<https://github.com/ReVanced/revanced-manager>)  
+[Spotify (anddea RVP + Clone)](<https://forum.mobilism.org/viewtopic.php?f=1332&t=6052015>)  
+[SmartNews (Optimized/No ADS)](<https://modyolo.com/smartnews-local-breaking-news.html>)  
+[Reddit (ReVanced - frontpage .apk)](<https://github.com/ReVanced/revanced-manager>) / [Reddit (Revanced+ Mod)](<https://forum.mobilism.org/viewtopic.php?f=1333&t=6055310>)  
 
 
 ### Install in future?
@@ -52,6 +54,7 @@
 
 **Rooted apps I've installed (atm)**:  
 ⭐ [Iconify](<https://github.com/Mahmud0808/Iconify>) / [PixelXpert](<https://github.com/siavash79/PixelXpert>)  
+⭐ [App Manager](<https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/>)  
 ⭐ [MacroDroid](<https://forum.mobilism.org/viewtopic.php?f=438&t=6000331>), [2](<https://modyolo.com/macrodroid-device-automation.html>) - Import peoples macros: [Share your macros (forum)](<https://www.macrodroidforum.com/index.php?forums/share-your-macros.8>)  
 ⭐ [ShizuTools](<https://github.com/legendsayantan/ShizuTools>) - Contains many tools to control android system via shizuku  
 ⭐ [AdAway](<https://github.com/AdAway/AdAway>) - [Multi PRO (Extended)](<https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#ledger-multi-pro---extended-protection-recommended->), [Filter Lists](<https://filterlists.com>)  
@@ -69,7 +72,6 @@
 [Key Mapper & Floating Buttons (Unlocked)](<https://forum.mobilism.org/viewtopic.php?f=438&t=5966567>)  
 [Update Me (Mobile)](<https://github.com/anfreire/updateMe-Mobile>) - Download and Install Modded Apps  
 [LeanDroid - Most advanced battery saver (Root + Premium)](<https://forum.mobilism.org/viewtopic.php?f=438&t=3032331>)  
-[Microsoft SwiftKey (Mod + Amoled + Clon)](<https://forum.mobilism.org/viewtopic.php?f=426&t=6011564>) - Disable network access  
 [Gadget Bridge](<https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge>) - Use your smart watch & other bluetooth devices and keep your data private  
 [Universal GMS Doze](<https://github.com/gloeyisk/universal-gms-doze>) - Patches Google Play services app & certain processes/services to be able to use battery optimization  
 
@@ -152,7 +154,6 @@
 
 #### 🛡️ **Security / Tracking?**:
 [Blokada](<https://blokada.org/>)  
-[App Manager](<https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/>)  
 [NetGuard](<https://f-droid.org/en/packages/eu.faircode.netguard/>) / [2](<https://github.com/M66B/NetGuard>)  
 [SD Maid 2/SE](<https://f-droid.org/packages/eu.darken.sdmse/>) / [2](<https://github.com/d4rken-org/sdmaid-se>)  
 [Rethink DNS + Firewall + Monitoring (AIO)](<https://github.com/celzero/rethink-app>)  
@@ -208,7 +209,7 @@
 [EdXposed](<https://github.com/ElderDrivers/EdXposed>) & [ZygiskNext](<https://github.com/Dr-TSNG/ZygiskNext>) - [1](<https://www.reddit.com/r/androidroot/comments/17og97c/need_help_with_xposed_framework/k7yiwi5/>)  
 
 #### 🌱 **Root REQUIRED**:
-[AFWall+](<https://github.com/ukanth/afwall>), [2](<https://forum.mobilism.org/viewtopic.php?f=428&t=5364989>)  
+[AFWall+ (Donate + Paid)](<https://forum.mobilism.org/viewtopic.php?f=428&t=5758056>)  
 [Neo-Backup](<https://github.com/NeoApplications/Neo-Backup>)  
 [Folder Widget - Large Folders (Pro + Root)](<https://forum.mobilism.org/viewtopic.php?f=439&t=5663682>)  
 [ReadEra – ebook reader +2070 (Paid + Patched)](<https://forum.mobilism.org/viewtopic.php?f=432&t=5807060>)  
