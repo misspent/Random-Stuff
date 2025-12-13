@@ -408,29 +408,50 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 **Disable the following**:  
 
-- `G.A.M.M.A. NPC Loot Claim Remade & NPC loot claim`
+- `NPC loot claim`
+- `329- Fair Fast Travel`
+- `41- LowerSprintAnimaiton`
+- `156- No Exos in the South`
+- `G.A.M.M.A. No Copyrighted Music`
+- `203- YACS Better Campfire Saves`
+- `115- Campfire slowly regens life`
 - `G.A.M.M.A. Not so instant tooltip`
-- `95- Doom-like weapon inspection - Grokitach`
-- `G.A.M.M.A. Weathers` | If you use: `Atmospherics GAMMA`
-- `23- THAP Rework - IENCE` | If you use: `M.H.P. Hands pack`
+- `G.A.M.M.A. Press Key to Drop Item`
+- `G_FLAT's Indirect Parts Favoriter`
+- `122- Zone Tales in Loading Screens`
+- `457- RETUNE Ambiant Sounds - Aphrodite_child`
+- `195- Better blood decals - Ni7L5T` | If you use: `Painter of The Zone`
 - `282- GAMMA Loading Screens - CS Eden` | If you use: `Atmospheric Loading Screen`
-- `G.A.M.M.A. Press Key to Drop Item` | If you use: `Drop and Disassemble Hotkey`
-- `Disable both already installed Free zoom mods` | If you use: `Free zoom - revisited`
 - `234- Dynamic Anomalies Overhaul - Demonized` | If you use: `Arrival - Anomalies`
-- `290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot` | If you use: `Atmospherics`
-- `Ishmaeel's Kill Tracker` | Use Milspec PDA Kill Tracker instead (this fixes busy hands for: New Tasks Addon - iTheon)
+- `95- Doom-like weapon inspection - Grokitach` & `G.A.M.M.A. Inspect on double tap F disabler`
+- `290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot` | If you use: `Melancholy weathers by PIPNIK`
+- `G.A.M.M.A. Voiced Actor`, `15- Voiced Actor - DesmanMetzger`, `8- Better Merc voicelines` & `YankeeGolf & G.A.M.M.A. Better Mercs Voices`
 
 **Enable the following**:
 
 - `New Item Highlight`
 - `Body Dots on Minimap`
-- `Demonized Death Animations` | Testing this atm
-- `Optional Modern UI font` | Disable `Tactical Fonts`
+- `No Tinnitus Sound Effects`
+- `Demonized Death Animations`
+- `No Weapon Jam Chance at Full Condition`
+- `Dark Valley Lamp Remover (better FPS at Bandit Base)`
 - `340- Black Market (Buyable Gear) - SalamanderAnder & nox`
 - `218- Quick Companion Teleport (teleports rescue mission targets) - RazorShultz`
 
 **Moved / Tweaked for following**:
+- Re-installed Screen Space Shaders > Disabled `Bloom` & `Motion Blur`
+- Launch: `Anomaly Launcher` > Enable: `prefetch sounds` & remember to hit `save settings`
 - `Grass Tweaks (reinstall for different options) - Aydin` | Rotate how I make the game look with this + other visual mods
+- `349- Hideout Furniture Expansion - Maid & HarukaSai` Re-install it & disable `Optional - Meat Spoiling Addon` & `ilrathCXV's Meat Spoiling Timer in Tooltips`
+
+
+**Move mini-map to top-right with most hud mods by doing the following**:
+1, Find & open: `zone_map.xml`, `zone_map_16.xml` or `zone_map_21.xml`
+1. Change the existing ones to the following (`level_frame` & `static_counter`)
+```
+		<level_frame x="1.242" y="0.120" width="0.200" height="0.200" stretch="1" alignment="c" a="177"/>
+		<static_counter x="1.74" y="0.1" width="18" height="17" alignment="c">
+```
 
 ---
 
