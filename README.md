@@ -376,22 +376,48 @@ Tips & Tricks Playlist: https://www.youtube.com/watch?v=81IXxI2OI9w&list=PL_OIXN
 ### **ℹ️ MORE INFORMATION**:  
 - [Weapon Chart](<https://docs.google.com/spreadsheets/d/1sOtZAVmTUP8Mc387xSEHlFcPqg1CtT1YgQmxu6Xlz6M>)
 - [Nimble weapons trade](<https://docs.google.com/spreadsheets/d/1lKlMGe56ep1c-mzt19WoHr_BfulFr3Fn6AQGDr-v3tM>)
-- [Aslan Lottery Outcomes](<https://docs.google.com/spreadsheets/d/1Ocz6SF8KT0DVYTy7gkH6FYX9bd-IwbW8ONbb6IGmc0c>)  
+- [Aslan Lottery Outcomes](<https://docs.google.com/spreadsheets/d/1Ocz6SF8KT0DVYTy7gkH6FYX9bd-IwbW8ONbb6IGmc0c>)
 - [Gamma Reshade Database](<https://docs.google.com/spreadsheets/d/1psiAYFNaGSYs2j5Gbd6p67SyVi6PQvhr9vSUOiyFATw>)
 - [Drugs crafting spreadsheet](<https://docs.google.com/spreadsheets/d/1UXTQRwq6qKE-EgoVb-f0dDxRk45ujQs2XRPgFv_x9R4>)
 - [Storyline Progression Guides](<https://docs.google.com/spreadsheets/d/1ltWH1CUjjv7KG2lzS0HY4YtQqs7nsW82CilzAULjJdw>)
 - [RF packages spawning points](<https://docs.google.com/spreadsheets/d/1mDAAm9izEtoeDRsKjsYpL0hSbcjWz-AgdIg0DSogPeM>)
-- [Stash Tier chance by Location](<https://docs.google.com/spreadsheets/d/1YJUwO5sAnzh3UFWZJS82oz6_QTkmcnBBJDpFnG_XIro>)  
+- [Stash Tier chance by Location](<https://docs.google.com/spreadsheets/d/1YJUwO5sAnzh3UFWZJS82oz6_QTkmcnBBJDpFnG_XIro>)
 - [G.A.M.M.A. RF Package Locations](<https://docs.google.com/spreadsheets/d/1mDAAm9izEtoeDRsKjsYpL0hSbcjWz-AgdIg0DSogPeM>)
 - [UPDATED GAMMA Weapon Database](<https://drive.google.com/file/d/1mNqIq0TgHX0CaIpUZ4e5MgMIKoIHlhTs>)
+- [RE: Collection G.A.M.M.A. Installation](<https://docs.google.com/document/d/13fBpqSK7G9Peet-rbLgcjgmlMtIPGe0hS8SVQDuhWhY>)
 - [Zone Handbook (contains a lot of good guides)](<https://docs.google.com/spreadsheets/d/17ZLrcwv-5aFjusQ6yKdHrBkq0fiPRBCvdCnzrvpz-Y0>)
+- [Stalker GAMMA Weapon Source Drop / Ammo Spread Chart 0.9.3](<https://docs.google.com/spreadsheets/d/1sOtZAVmTUP8Mc387xSEHlFcPqg1CtT1YgQmxu6Xlz6M>)
 - [Weapons + Armours + Mutants + Artifacts + Food + Drinks + Medicines + etc.](<https://docs.google.com/spreadsheets/d/1OWE25Go9kSao5-IDOS4ZWkBtLfyEF_hPLJz7QQR2lqY>)
 - [Link to all spreadsheets in the discord server](https://discord.com/channels/912320241713958912/976570969768476753/1109969814388215889) / do `!SHIT` in bot-commands
+- [G_FLAT's GAMMA Mods](<https://docs.google.com/spreadsheets/d/1Ea2bCzMuyJlUBessB0xtFyqeIJzA8CtVP5e6NiR7cOk>)
+- [Lennic's Gamma Additional Addons](<https://docs.google.com/spreadsheets/d/1D_wy1T64PxExApqrtoQ6q4vQxD9-b8hpUl-8Edbc0-k>)
+- [RE: Collection G.A.M.M.A. Installation](<https://docs.google.com/document/u/0/d/13fBpqSK7G9Peet-rbLgcjgmlMtIPGe0hS8SVQDuhWhY>)
+- [Twitch Streamer: dogfood__ modlist](<https://pastebin.com/ZJyMspmE>)
 
 ### **Other**:
 
 - Keep backups of `Anomaly/appdata/user.ltx`, `G.A.M.M.A. MCM values` & `G.A.M.M.A\overwrite\bin\reshade.ini` which is where all in-game settings, reshade settings + keybinds are stored (I've made a .bat for this)
 - Check pins in all chats in G.A.M.M.A discord (especially newbies-chat)
+- My Custom Colours for MO2:
+  - red: #460000
+  - pink: #460f43
+  - blue: #003264
+  - green: #054600
+  - yellow: #5e5e00
+  - orange: #4b1900
+  - darker yellow: #464600
+  - darker purple: #2b0046
+  - discord blurple: #262e48
+
+#### Downscale texture / images (By dmgreen)
+
+1. Download: [Optimizer Textures (Ordenador)](<https://www.nexusmods.com/skyrim/mods/12801>)
+2. Setup backup folder in Extra section / disable it
+3. Set profiles @ the top-right to: `Maximum`
+4. Switch first option from `dxt1` > `dxt5` / `DXT1c` recommended by a few
+5. Pre last option set to `if > 4096` = 4k, `if > 2038` = 2k
+6. Choose the directory & start the process
+7. 7zip it after completion and install in mo2
 
 #### Reposition weapons (in debug mode?)
 - [HUD Offsets Editor](https://www.moddb.com/mods/stalker-anomaly/addons/hud-offsets-editor1)
@@ -400,6 +426,16 @@ Tips & Tricks Playlist: https://www.youtube.com/watch?v=81IXxI2OI9w&list=PL_OIXN
 This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 > I've not encountered anything strange, irritating, or buggy with all these mods so far; if I do, then I'll more than likely test and find the issue, but for now it's good to go (imo). Fingers crossed, aye?
+
+#### Edit the following file to have more Max Carry Weight (gameplay slider):
+
+1. Open the file `ui_options.script` in `G.A.M.M.A UI` mod
+2. Find: `{func_gameplay_diff,"weight"}`
+3. Tweak `max=50` to a value of your choosing
+
+#### 🐛 Bugs / Testing / Debugging
+- `G.A.M.M.A. Psy Fields in the North` | Causes a crash every now and then when something tries to call the mod (happened when I killed then went to loot a mutant dog in cordon)
+- Oscoar (from GAMMA discord) recommends ATO 3/4 as ATO 5 used the wrong format for parallax
 
 ---
 
