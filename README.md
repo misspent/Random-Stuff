@@ -433,6 +433,13 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 2. Find: `{func_gameplay_diff,"weight"}`
 3. Tweak `max=50` to a value of your choosing
 
+#### Console in-game:
+
+`r2_sun_lumscale`: 2.2/3 // Sunray?  
+`r2_sunshafts_min`: 0.02  // Sun shaft min  
+`r2_sun_lumscale_hemi` 1.2 // Exteriour lighting | Default: 0.9  
+`r2_sun_lumscale_amb`: 1.5 // This is interiour lighting (MASSIVE QoL) | Default: 1.0  
+
 #### 🐛 Bugs / Testing / Debugging
 - `G.A.M.M.A. Psy Fields in the North` | Causes a crash every now and then when something tries to call the mod (happened when I killed then went to loot a mutant dog in cordon)
 - Oscoar (from GAMMA discord) recommends ATO 3/4 as ATO 5 used the wrong format for parallax
@@ -455,6 +462,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `G.A.M.M.A. Press Key to Drop Item`
 - `G_FLAT's Indirect Parts Favoriter`
 - `122- Zone Tales in Loading Screens`
+- `452- Interaction Dot Marks - Catspaw`
 - `457- RETUNE Ambiant Sounds - Aphrodite_child`
 - `195- Better blood decals - Ni7L5T` | If you use: `Painter of The Zone`
 - `282- GAMMA Loading Screens - CS Eden` | If you use: `Atmospheric Loading Screen`
@@ -475,10 +483,12 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `218- Quick Companion Teleport (teleports rescue mission targets) - RazorShultz`
 
 **Moved / Tweaked for following**:
-- Re-installed Screen Space Shaders > Disabled `Bloom` & `Motion Blur`
+- Re-installed: 290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot
+- Re-installed: Screen Space Shaders > Disabled: `Bloom` & `Motion Blur`
 - Launch: `Anomaly Launcher` > Enable: `prefetch sounds` & remember to hit `save settings`
 - `Grass Tweaks (reinstall for different options) - Aydin` | Rotate how I make the game look with this + other visual mods
 - `349- Hideout Furniture Expansion - Maid & HarukaSai` Re-install it & disable `Optional - Meat Spoiling Addon` & `ilrathCXV's Meat Spoiling Timer in Tooltips`
+- Delete all .ltx in `Anomaly\appdata` but the `user.ltx`. This is so when you load them it wont load the outdated ones from manual updates.
 
 
 **Move mini-map to top-right with most hud mods by doing the following**:
@@ -496,6 +506,106 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 ✅ = Enabled  
 ❌ = Disabled  
 ⛔ = Switch between it on/off/new playthrough + Not tested  
+
+#### Frosty Weapon Pack (From mod post in `G.A.M.M.A Discord server` - No tweaking needed for this one, unlike Juan's, as his wasn't made strictly for G.A.M.M.A.)
+- (00) EFT Weapon Pack Full - Battlestate Games, Frosty ✅
+- (01) EFT 3DSS And PRS Module Full - 12.11.25 (ONLY ENABLE FOR 3DSS AND PRS) ✅
+- (02) Balanced Economy For FWP - 12.11.2025 (DISABLES GUN TRADING) ✅
+- (03) Bullet Icons Like Escape From Tarkov (OPTIONAL ADDON) ✅
+
+#### Juans Weapon Delivery Service
+- [Juans Gun Collection](<https://drive.google.com/drive/folders/1_AMbGEbJDT8zioOTtNcEY62SmyMEilqI>) - Used: [Showcase Pictures](<https://imgur.com/a/juans-weapon-delivery-service-showcase-pictures-UQKgPwS>) to choose the ones I liked. Check the Discord post. ✅
+
+#### 0.5. Weapons / Gun Packs
+- [Desert Eagle Mark XIX CoDMII/Garrys port](<https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-mark-xix-codmiigarrys-port>) ✅
+- [Smith & Wesson model 327 MPR8](<https://www.moddb.com/mods/stalker-anomaly/addons/smith-wesson-model-327-mpr8>) ✅
+- [Meowies - ENHANCED HANDGUNS](<https://github.com/Meowietty/Enhanced_Handguns_v1.5>) ✅
+- [Meowies - ENAHNCED SMGs](<https://github.com/Meowietty/Enhanced_SMGs_v1.3>) ✅
+- [Meowies - Smaller Meowie Icons](<https://drive.google.com/file/d/1nHQVtn9vlTCFndn4n4cNLJQQHHe_ishe/view>) ✅
+- [Pillii - The Honey Badger and .300 BLK Framework](<https://drive.google.com/file/d/1-LZkl9or3lgpvF5r3usLRbcrP7PwXOFh/view>) - Discord? ✅
+- [Kmack - Weapon Repositories (AIO)](<https://drive.google.com/drive/folders/1imPcBUX35ZApF1EtgWtUE8kQNJtVf3Uv>) ✅
+- [Mosin Trio](<https://www.moddb.com/mods/stalker-anomaly/addons/mosin-trio>) ✅
+- [LEWD UFAMAS](<https://www.moddb.com/mods/stalker-anomaly/addons/lewd-ufamas>) ✅
+- [HK433](<https://www.moddb.com/mods/stalker-anomaly/addons/hk433>) ✅
+- `Raptr - Grenade Launcher` - Discord ✅
+- `Universal Animations` - Discord ❌
+- `Anim Core Fix` - Discord ❌
+
+#### 1. Important or Utility
+- `Curated Mod-List collection (bundle)` ✅
+- `MCM values - MY keybinds` ✅
+- [Quick Slots Plus](<https://www.moddb.com/mods/stalker-anomaly/addons/quickslotsplus>) ✅
+- `Important or Utility [Collection]` - Personal collection ✅
+- [DLTX - All weapons in all slots v5 (Sidearm Slot)](<https://www.moddb.com/mods/stalker-anomaly/addons/dltx-all-weapons-in-all-slots-sidearm-slot>) ✅
+ 
+#### 2. Optional Utility
+- [Heat Vision](<https://www.moddb.com/mods/stalker-anomaly/addons/heat-vision-1-3-hud-modification>) + [Heat Vision: icon](<https://www.moddb.com/mods/stalker-anomaly/addons/new-goggles-icon-for-heatvision-v13-dltx>) ❌
+- [Universal Craft, Repair, Cook from Stashes](<https://www.moddb.com/mods/stalker-anomaly/addons/universal-craft-repair-cook-from-stashes>) ❌
+- [Optimized Storage System + Global stash](<https://www.moddb.com/mods/stalker-anomaly/addons/rvr-storage-system>) ✅
+- [Anomaly Popup Messages](<https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-popup-messages-apm>) ✅
+- `Drunks Starting Loadouts v9` - Discord ✅
+
+#### 3. Quality of Life - Other
+- `Quality of Life or Other [Collection]` - Personal collection ✅
+- `Painter of the Zone + Bullethole Decals merge Erandis Edit` - Discord ✅
+- `Burn's early Crafting Multitool v3` - Discord ✅
+
+#### 4. True Game Changers
+- [Toxic Air v2.0 REDUX](<https://www.moddb.com/mods/stalker-anomaly/addons/toxic-air-v20-redux>) + [RE-PACK Toxic Air](<https://www.moddb.com/mods/stalker-anomaly/addons/repack-toxic-air>) ✅
+- [Experience Framework](<https://www.moddb.com/mods/stalker-anomaly/addons/experience-framework>) ✅
+- [RPG Perks Pack for GAMMA - ilrathCXV](<https://github.com/ilrathCXV/RPG-XP-Redux-Orleon-ilrathCXV>) ✅
+- `LootBoxes - GAMMA patch` - Discord ✅
+
+#### 5. In-game Sounds - Audio
+- [The Movement Sound](<https://www.moddb.com/mods/stalker-anomaly/addons/relaxing-the-movement-sound-for-anomaly-beta090>) ✅
+- [Saint's Ka Ching Trading Sounds](<https://www.moddb.com/mods/stalker-anomaly/addons/saints-ka-ching-trading-sounds>) ✅
+- [S.T.A.L.K.E.R. 2 HoC - Ambience Overhaul](<https://www.moddb.com/mods/stalker-anomaly/addons/stalker-2-hoc-ambience-overhaul-for-anomaly>) ⛔
+
+#### 6. Textures - Visuals
+- `UI Rework G.A.M.M.A v1.6 (My edit)` ⛔
+- `Textures or Visual [Collection]` - Personal collection ✅
+- `Emergent Zone` -  Discord ⛔
+- [peak - volumetric lights](<https://www.moddb.com/mods/stalker-anomaly/addons/peak-volumetrics-1-1>)
+
+#### 7. Heavier Textures
+- [ATO 5](<https://www.moddb.com/mods/stalker-anomaly/addons/ato-5>) ⛔
+- [Rotten Life 3.0](<https://www.moddb.com/mods/stalker-anomaly/addons/rotten-life-30>) ✅
+- [C-Consciousness Grass & Trees v0.71](<https://www.moddb.com/mods/stalker-anomaly/addons/ccon-grass-n-trees>) ✅
+- [Grass and Trees by PanceRide](<https://www.moddb.com/mods/stalker-anomaly/addons/grass-and-trees-by-panceride-v10>) ⛔
+- [Terrain Textures Redone](<https://www.moddb.com/mods/stalker-anomaly/addons/terrain-textures-redone>) ✅
+- [Zone Textures Rework](<https://www.moddb.com/mods/stalker-anomaly/addons/zone-textures-rework-ztr>) ❌
+- [Project I.N.V.E.R.N.O v1.08](<https://www.moddb.com/mods/stalker-anomaly/addons/inverno-fx>) ⛔
+
+#### 8. Added for next build (Remove when you update)
+- [Portraits of The Zone](<https://www.moddb.com/mods/stalker-anomaly/addons/portraits-of-the-zone-beta>)
+- [iTheon New Tasks REBALANCE + GAMMA Compatible](<https://www.moddb.com/mods/stalker-anomaly/addons/itheon-new-tasks-rebalance>) ✅
+- [Show guide task giver on a map](<https://www.moddb.com/mods/stalker-anomaly/addons/show-guide-task-giver-on-a-map>) ✅
+
+#### 9. Enhanced GUI
+- `Modern White Font - 2k (from SOTA UI)` - Ripped from: [UI Rework G.A.M.M.A.](<https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota>) ✅
+- `GAMMA Enhanced GUI HUD` -  Discord ⛔
+- `GAMMA Enhanced GUI Inventory` -  Discord ⛔
+- `GAMMA Enhanced GUI Menu` -  Discord ⛔
+- `Enhanced GUI - Ecologist Edition + Quest Arrow` -  Discord ⛔
+- `Accurate Stats v041` -  Discord ⛔
+- `Accurate Stats Extended` -  Discord ⛔
+- `Smaller inventory icon (from Sota UI)` -  Discord ✅
+- [Enhanced Graphical User Interface INC](<https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-gui>) ❌
+
+#### 10. Re-Collection Mods
+- [RE:DONE Collection v2.3.4 VOL.1](<https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection>) ❌
+- [RE:DONE Collection 1.1.2 Vol.2](<https://www.moddb.com/mods/stalker-anomaly/addons/redone-collection-vol-2>) ❌
+- [RE-DONE Combat AI 2.1.1](<https://www.moddb.com/mods/stalker-anomaly/addons/redone-combat-ai>) ❌
+- [Cordon Truce v2.0 (Rewrite & MCM)](<https://www.moddb.com/mods/stalker-anomaly/addons/cordon-truce>) ❌
+- [Mora's Combat ignore military fix](<https://www.moddb.com/mods/stalker-anomaly/addons/moras-combat-ignore-military-fix-v152>) ❌
+- [ZLM ZCP Loot Module revised](<https://www.moddb.com/mods/stalker-anomaly/addons/zlm-zcp-loot-module-revised>) ❌
+- [Paced progression](<https://www.moddb.com/mods/stalker-anomaly/addons/paced-progression>) ❌
+
+
+
+<details>
+  <summary align="center">Outdated list (keep for now)</summary>
+  <br>
 
 **Other Categories / Bulk stuff / Noted / Not used**  
 - [NO Dizziness from Drugs and Medicine](https://www.moddb.com/mods/stalker-anomaly/addons/no-dizziness-from-drugs-and-medicine)
@@ -664,6 +774,10 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [FDDA Enhanced Animations Enhanced](https://www.moddb.com/mods/stalker-anomaly/addons/fdda-enhanced-animations-enhanced)
 - [FDDA Backpack Freedom of Movement Tweak](https://www.moddb.com/mods/stalker-anomaly/addons/fdda-backpack-fluidity-tweak) (Set `local crouch_toggle` to false)
 - `FDDA animations MCM unlocker - Screwyou` (From G.A.M.M.A Discord)
+
+</details>
+
+
 
 <details>
   <summary align="center">📷 Mods I have enabled + load order (I left out G.A.M.M.A Fixes; refer to above for that order) | May become outdated</summary>
