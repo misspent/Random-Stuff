@@ -539,7 +539,6 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [DLTX - All weapons in all slots v5 (Sidearm Slot)](<https://www.moddb.com/mods/stalker-anomaly/addons/dltx-all-weapons-in-all-slots-sidearm-slot>) ✅
  
 #### 2. Optional Utility
-- [Heat Vision](<https://www.moddb.com/mods/stalker-anomaly/addons/heat-vision-1-3-hud-modification>) + [Heat Vision: icon](<https://www.moddb.com/mods/stalker-anomaly/addons/new-goggles-icon-for-heatvision-v13-dltx>) ❌
 - [Universal Craft, Repair, Cook from Stashes](<https://www.moddb.com/mods/stalker-anomaly/addons/universal-craft-repair-cook-from-stashes>) ❌
 - [Optimized Storage System + Global stash](<https://www.moddb.com/mods/stalker-anomaly/addons/rvr-storage-system>) ✅
 - [Anomaly Popup Messages](<https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-popup-messages-apm>) ✅
