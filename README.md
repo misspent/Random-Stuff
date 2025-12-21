@@ -509,8 +509,8 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 #### Frosty Weapon Pack (From mod post in `G.A.M.M.A Discord server` - No tweaking needed for this one, unlike Juan's, as his wasn't made strictly for G.A.M.M.A.)
 - (00) EFT Weapon Pack Full - Battlestate Games, Frosty ✅
-- (01) EFT 3DSS And PRS Module Full - 12.11.25 (ONLY ENABLE FOR 3DSS AND PRS) ✅
-- (02) Balanced Economy For FWP - 12.11.2025 (DISABLES GUN TRADING) ✅
+- (01) EFT 3DSS And PRS Module Full (ONLY ENABLE FOR 3DSS AND PRS) ✅
+- (02) Balanced Economy For FWP (DISABLES GUN TRADING) ✅
 - (03) Bullet Icons Like Escape From Tarkov (OPTIONAL ADDON) ✅
 
 #### Juans Weapon Delivery Service
@@ -537,6 +537,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Quick Slots Plus](<https://www.moddb.com/mods/stalker-anomaly/addons/quickslotsplus>) ✅
 - `Important or Utility [Collection]` - Personal collection ✅
 - [DLTX - All weapons in all slots v5 (Sidearm Slot)](<https://www.moddb.com/mods/stalker-anomaly/addons/dltx-all-weapons-in-all-slots-sidearm-slot>) ✅
+- [More dynamic items](<https://www.moddb.com/mods/stalker-anomaly/addons/more-dynamic-items>) ✅
  
 #### 2. Optional Utility
 - [Universal Craft, Repair, Cook from Stashes](<https://www.moddb.com/mods/stalker-anomaly/addons/universal-craft-repair-cook-from-stashes>) ❌
@@ -547,10 +548,10 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 #### 3. Quality of Life - Other
 - `Quality of Life or Other [Collection]` - Personal collection ✅
 - `Painter of the Zone + Bullethole Decals merge Erandis Edit` - Discord ✅
-- `Burn's early Crafting Multitool v3` - Discord ✅
+- `Burn's early Crafting Multitool v3` - Discord ❌
 
 #### 4. True Game Changers
-- [Toxic Air v2.0 REDUX](<https://www.moddb.com/mods/stalker-anomaly/addons/toxic-air-v20-redux>) + [RE-PACK Toxic Air](<https://www.moddb.com/mods/stalker-anomaly/addons/repack-toxic-air>) ✅
+- [Toxic Air REDUX](<https://www.moddb.com/mods/stalker-anomaly/addons/toxic-air-v20-redux>) + [RE-PACK Toxic Air](<https://www.moddb.com/mods/stalker-anomaly/addons/repack-toxic-air>) ✅
 - [Experience Framework](<https://www.moddb.com/mods/stalker-anomaly/addons/experience-framework>) ✅
 - [RPG Perks Pack for GAMMA - ilrathCXV](<https://github.com/ilrathCXV/RPG-XP-Redux-Orleon-ilrathCXV>) ✅
 - `LootBoxes - GAMMA patch` - Discord ✅
@@ -563,22 +564,23 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 #### 6. Textures - Visuals
 - `UI Rework G.A.M.M.A v1.6 (My edit)` ⛔
 - `Textures or Visual [Collection]` - Personal collection ✅
+- [Project I.N.V.E.R.N.O v1.08](<https://www.moddb.com/mods/stalker-anomaly/addons/inverno-fx>) ⛔
 - `Emergent Zone` -  Discord ⛔
-- [peak - volumetric lights](<https://www.moddb.com/mods/stalker-anomaly/addons/peak-volumetrics-1-1>)
+- `COAR Collection v2` -  Discord ⛔
+- [peak - volumetric lights](<https://www.moddb.com/mods/stalker-anomaly/addons/peak-volumetrics-1-1>) ⛔
+- [DLTX - Blades of the Zone](<https://drive.google.com/file/d/1bYssymZCWtT7KFcQaQtBeGXEeBPvk54C/view>) ✅
 
 #### 7. Heavier Textures
-- [ATO 5](<https://www.moddb.com/mods/stalker-anomaly/addons/ato-5>) ⛔
 - [Rotten Life 3.0](<https://www.moddb.com/mods/stalker-anomaly/addons/rotten-life-30>) ✅
 - [C-Consciousness Grass & Trees v0.71](<https://www.moddb.com/mods/stalker-anomaly/addons/ccon-grass-n-trees>) ✅
 - [Grass and Trees by PanceRide](<https://www.moddb.com/mods/stalker-anomaly/addons/grass-and-trees-by-panceride-v10>) ⛔
 - [Terrain Textures Redone](<https://www.moddb.com/mods/stalker-anomaly/addons/terrain-textures-redone>) ✅
 - [Zone Textures Rework](<https://www.moddb.com/mods/stalker-anomaly/addons/zone-textures-rework-ztr>) ❌
-- [Project I.N.V.E.R.N.O v1.08](<https://www.moddb.com/mods/stalker-anomaly/addons/inverno-fx>) ⛔
 
-#### 8. Added for next build (Remove when you update)
-- [Portraits of The Zone](<https://www.moddb.com/mods/stalker-anomaly/addons/portraits-of-the-zone-beta>)
+#### 8. Added for next build (Maybe remove when you update)
 - [iTheon New Tasks REBALANCE + GAMMA Compatible](<https://www.moddb.com/mods/stalker-anomaly/addons/itheon-new-tasks-rebalance>) ✅
 - [Show guide task giver on a map](<https://www.moddb.com/mods/stalker-anomaly/addons/show-guide-task-giver-on-a-map>) ✅
+- `Azazel Mode - Improved` -  Discord ✅
 
 #### 9. Enhanced GUI
 - `Modern White Font - 2k (from SOTA UI)` - Ripped from: [UI Rework G.A.M.M.A.](<https://www.moddb.com/mods/stalker-anomaly/addons/ui-rework-gamma-style-by-sota>) ✅
@@ -591,15 +593,19 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `Smaller inventory icon (from Sota UI)` -  Discord ✅
 - [Enhanced Graphical User Interface INC](<https://www.moddb.com/mods/stalker-anomaly/addons/enhanced-gui>) ❌
 
-#### 10. Re-Collection Mods
+#### 10. Re-Collection Mods ([G.A.M.M.A: How to setup](https://docs.google.com/document/d/13fBpqSK7G9Peet-rbLgcjgmlMtIPGe0hS8SVQDuhWhY))
 - [RE:DONE Collection v2.3.4 VOL.1](<https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection>) ❌
 - [RE:DONE Collection 1.1.2 Vol.2](<https://www.moddb.com/mods/stalker-anomaly/addons/redone-collection-vol-2>) ❌
 - [RE-DONE Combat AI 2.1.1](<https://www.moddb.com/mods/stalker-anomaly/addons/redone-combat-ai>) ❌
 - [Cordon Truce v2.0 (Rewrite & MCM)](<https://www.moddb.com/mods/stalker-anomaly/addons/cordon-truce>) ❌
 - [Mora's Combat ignore military fix](<https://www.moddb.com/mods/stalker-anomaly/addons/moras-combat-ignore-military-fix-v152>) ❌
 - [ZLM ZCP Loot Module revised](<https://www.moddb.com/mods/stalker-anomaly/addons/zlm-zcp-loot-module-revised>) ❌
+- [RE:VISION for Enhanced Visual Awareness and Motion Perception](<https://www.moddb.com/mods/stalker-anomaly/addons/revision-for-enhanced-visual-awareness-and-motion-perception-fomod>) ❌
+- [RE:DONE Alife Performance 1.0](<https://www.moddb.com/mods/stalker-anomaly/addons/redone-alife-performance-10>) ❌
 - [Paced progression](<https://www.moddb.com/mods/stalker-anomaly/addons/paced-progression>) ❌
 
+#### Other
+- Installed [AOEngine](<https://www.moddb.com/mods/stalker-anomaly/addons/aoengine>) - For a more up-to-date version you'll have to download it from the discord server. Maybe try: [X-Ray Monolith: Next Gen](<https://github.com/CnRJay/xray-monolith-gc64>) instead (this one is in G.A.M.M.A Discord)
 
 
 <details>
