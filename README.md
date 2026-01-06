@@ -537,7 +537,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [Quick Slots Plus](<https://www.moddb.com/mods/stalker-anomaly/addons/quickslotsplus>) ✅
 - `Important or Utility [Collection]` - Personal collection ✅
 - [DLTX - All weapons in all slots v5 (Sidearm Slot)](<https://www.moddb.com/mods/stalker-anomaly/addons/dltx-all-weapons-in-all-slots-sidearm-slot>) ✅
-- [More dynamic items](<https://www.moddb.com/mods/stalker-anomaly/addons/more-dynamic-items>) ✅
+- [DLTX - More dynamic items](<https://www.moddb.com/mods/stalker-anomaly/addons/more-dynamic-items>) ✅
  
 #### 2. Optional Utility
 - [Universal Craft, Repair, Cook from Stashes](<https://www.moddb.com/mods/stalker-anomaly/addons/universal-craft-repair-cook-from-stashes>) ❌
@@ -549,6 +549,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `Quality of Life or Other [Collection]` - Personal collection ✅
 - `Painter of the Zone + Bullethole Decals merge Erandis Edit` - Discord ✅
 - `Burn's early Crafting Multitool v3` - Discord ❌
+- [Cozy Campfires](<https://www.moddb.com/mods/stalker-anomaly/addons/cozy-campfires>) - Tweaked values for better experience ✅
 
 #### 4. True Game Changers
 - [Toxic Air REDUX](<https://www.moddb.com/mods/stalker-anomaly/addons/toxic-air-v20-redux>) + [RE-PACK Toxic Air](<https://www.moddb.com/mods/stalker-anomaly/addons/repack-toxic-air>) ✅
