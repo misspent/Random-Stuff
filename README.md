@@ -3,6 +3,7 @@
   <br>
 
 ⭐ [Awesome Android root](<https://github.com/awesome-android-root/awesome-android-root>)    
+⭐ [Android / iOS • freemediaheckyeah](<https://fmhy.net/mobile#android-apks>)
 
 ## 📥 My Tweaks (What I do after re-install)
 
