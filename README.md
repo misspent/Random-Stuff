@@ -463,7 +463,6 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `G.A.M.M.A. Press Key to Drop Item`
 - `G_FLAT's Indirect Parts Favoriter`
 - `122- Zone Tales in Loading Screens`
-- `452- Interaction Dot Marks - Catspaw`
 - `457- RETUNE Ambiant Sounds - Aphrodite_child`
 - `195- Better blood decals - Ni7L5T` | If you use: `Painter of The Zone`
 - `282- GAMMA Loading Screens - CS Eden` | If you use: `Atmospheric Loading Screen`
@@ -474,18 +473,18 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 **Enable the following**:
 
-- `New Item Highlight`
-- `Body Dots on Minimap`
+- ~~`New Item Highlight`~~
 - `No Tinnitus Sound Effects`
-- `Demonized Death Animations`
+- ~~`Demonized Death Animations`~~
 - `No Weapon Jam Chance at Full Condition`
 - `Dark Valley Lamp Remover (better FPS at Bandit Base)`
 - `340- Black Market (Buyable Gear) - SalamanderAnder & nox`
+- `Body Dots on Minimap` | Enable dot minimap in `Milspec` MCM
 - `218- Quick Companion Teleport (teleports rescue mission targets) - RazorShultz`
 
 **Moved / Tweaked for following**:
-- Re-installed: 290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot
-- Re-installed: Screen Space Shaders > Disabled: `Bloom` & `Motion Blur`
+- **Re-installed**: 290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot
+- **Re-installed**: Screen Space Shaders > Disabled: `Bloom` & `Motion Blur`
 - Launch: `Anomaly Launcher` > Enable: `prefetch sounds` & remember to hit `save settings`
 - `Grass Tweaks (reinstall for different options) - Aydin` | Rotate how I make the game look with this + other visual mods
 - `349- Hideout Furniture Expansion - Maid & HarukaSai` Re-install it & disable `Optional - Meat Spoiling Addon` & `ilrathCXV's Meat Spoiling Timer in Tooltips`
