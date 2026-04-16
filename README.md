@@ -442,7 +442,6 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 `r2_sun_lumscale_amb`: 1.5 // This is interiour lighting (MASSIVE QoL) | Default: 1.0  
 
 #### 🐛 Bugs / Testing / Debugging
-- `G.A.M.M.A. Psy Fields in the North` | Causes a crash every now and then when something tries to call the mod (happened when I killed then went to loot a mutant dog in cordon)
 - Oscoar (from GAMMA discord) recommends ATO 3/4 as ATO 5 used the wrong format for parallax
 
 ---
@@ -453,23 +452,32 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 **Disable the following**:  
 
 - `NPC loot claim`
-- `329- Fair Fast Travel`
-- `41- LowerSprintAnimaiton`
-- `156- No Exos in the South`
+- `Fair Fast Travel`
+- `Dynamic Dialog UI`
+- `LowerSprintAnimaiton`
+- `No Exos in the South`
+- `Psy Fields in the North`
+- `YACS Better Campfire Saves`
+- `Campfire slowly regens life`
+- `Zone Tales in Loading Screens`
 - `G.A.M.M.A. No Copyrighted Music`
-- `203- YACS Better Campfire Saves`
-- `115- Campfire slowly regens life`
 - `G.A.M.M.A. Not so instant tooltip`
 - `G.A.M.M.A. Press Key to Drop Item`
 - `G_FLAT's Indirect Parts Favoriter`
-- `122- Zone Tales in Loading Screens`
+- `G.A.M.M.A. Quick Action Wheel Balance`
 - `457- RETUNE Ambiant Sounds - Aphrodite_child`
-- `195- Better blood decals - Ni7L5T` | If you use: `Painter of The Zone`
-- `282- GAMMA Loading Screens - CS Eden` | If you use: `Atmospheric Loading Screen`
-- `234- Dynamic Anomalies Overhaul - Demonized` | If you use: `Arrival - Anomalies`
-- `95- Doom-like weapon inspection - Grokitach` & `G.A.M.M.A. Inspect on double tap F disabler`
-- `290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot` | If you use: `Melancholy weathers by PIPNIK`
+- `Better blood decals - Ni7L5T` | If use: `Painter of The Zone`
+- `Dialogues Expanded` | If use: `Ultimate Dialogue Expansion (ude)`
+- `GAMMA Loading Screens - CS Eden` | If use: `Atmospheric Loading Screen`
+- `Dynamic Anomalies Overhaul - Demonized` | If use: `Arrival - Anomalies`
+- `Doom-like weapon inspection - Grokitach` & `G.A.M.M.A. Inspect on double tap F disabler`
+- `Atmospherics Shaders Weathers and Reshade Latest - Hippobot` | If use: `Melancholy weathers by PIPNIK`
 - `G.A.M.M.A. Voiced Actor`, `15- Voiced Actor - DesmanMetzger`, `8- Better Merc voicelines` & `YankeeGolf & G.A.M.M.A. Better Mercs Voices`
+
+**Disabled (cause of crash / error in crash log | Personal tests):**:
+
+- `Identification UI - CrookR`
+- `Crook's Identification UI Fix`
 
 **Enable the following**:
 
@@ -483,8 +491,9 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `218- Quick Companion Teleport (teleports rescue mission targets) - RazorShultz`
 
 **Moved / Tweaked for following**:
+- **Re-installed**: `Nicer Flashlights` > Option: `FEAR`
 - **Re-installed**: 290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot
-- **Re-installed**: Screen Space Shaders > Disabled: `Bloom` & `Motion Blur`
+- **Re-installed**: Screen Space Shaders > Disabled: `Bloom`, `Motion Blur`, `Weapons DOF` & `PostProcess - Bloom`
 - Launch: `Anomaly Launcher` > Enable: `prefetch sounds` & remember to hit `save settings`
 - `Grass Tweaks (reinstall for different options) - Aydin` | Rotate how I make the game look with this + other visual mods
 - `349- Hideout Furniture Expansion - Maid & HarukaSai` Re-install it & disable `Optional - Meat Spoiling Addon` & `ilrathCXV's Meat Spoiling Timer in Tooltips`
@@ -712,7 +721,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - [JSRS Lite Patch For Performance](https://www.moddb.com/mods/stalker-anomaly/addons/jsrs-lite-patch-for-performance) ✅
 
 **True Game changer**
-- [RE:DONE Collection v2.3.4 VOL.1](https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection) ❌
+- [RE:DONE Collection v2.3.4 VOL.1](https://www.moddb.com/mods/stalker-anomaly/addons/redonecollection) ❌
 - [RE:DONE Collection 1.1.2 Vol.2](https://www.moddb.com/mods/stalker-anomaly/addons/redone-collection-vol-2) ❌
 - [RE-SPAWN Mutant Collection - Part A v1.5](https://www.moddb.com/mods/stalker-anomaly/addons/respawn-mutant-collection-part-a-10) ⛔
 - [Gifts From Companions v0.6.4](https://www.moddb.com/mods/stalker-anomaly/addons/gifts-from-companions-addon) ✅
@@ -933,24 +942,24 @@ https://www.moddb.com/mods/stalker-anomaly/addons/red-eotech-reticle-for-gamma-t
   
 AS-VAL  
   
-| Ammo Type | RU Amount |  
-|----------------|:---------------:|  
-| SP-5 | 960 |  
-| SP-6 | 3120 |  
+| Ammo Type | RU Amount |
+| --------- | :-------: |
+| SP-5      |    960    |
+| SP-6      |   3120    |
   
 AK-105 “Specialist”  
   
-| Ammo Type | RU Amount |  
-|-------------------|:-----------------:|  
-| 5.45x39 FMJ | 810 |  
-| 5.45x39 HP | 1200 |  
-| 5.45x39 AP | 3060 |  
+| Ammo Type   | RU Amount |
+| ----------- | :-------: |
+| 5.45x39 FMJ |    810    |
+| 5.45x39 HP  |   1200    |
+| 5.45x39 AP  |   3060    |
   
 SR-2M Veresk  
   
-| Ammo Type | RU Amount |  
-|-------------------|:-----------------:|  
-| 9x21 SP10 | 1290 |  
+| Ammo Type | RU Amount |
+| --------- | :-------: |
+| 9x21 SP10 |   1290    |
 
 ---
 
