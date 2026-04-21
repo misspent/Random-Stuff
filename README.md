@@ -452,7 +452,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 **Disable the following**:  
 
 - `NPC loot claim`
-- `Fair Fast Travel`
+- ~~`Fair Fast Travel`~~
 - `Dynamic Dialog UI`
 - `LowerSprintAnimaiton`
 - `No Exos in the South`
