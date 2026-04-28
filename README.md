@@ -454,18 +454,24 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `NPC loot claim`
 - ~~`Fair Fast Travel`~~
 - `Dynamic Dialog UI`
-- `LowerSprintAnimaiton`
+- ~~`LowerSprintAnimaiton`~~
 - `No Exos in the South`
 - `Psy Fields in the North`
+- `Better sound - Grokitach`
 - `YACS Better Campfire Saves`
+- `EFT footsteps and tinnitus`
 - `Campfire slowly regens life`
 - `Zone Tales in Loading Screens`
+- `Knife Pistol in Binocular Slot`
 - `G.A.M.M.A. No Copyrighted Music`
 - `G.A.M.M.A. Not so instant tooltip`
 - `G.A.M.M.A. Press Key to Drop Item`
 - `G_FLAT's Indirect Parts Favoriter`
 - `G.A.M.M.A. Quick Action Wheel Balance`
+- `High Res Loading Screens - Bazingarrey`
+- `Quieter Wood Boxes Breaking - cringeybabey`
 - `457- RETUNE Ambiant Sounds - Aphrodite_child`
+- `Main Menu Theme - Deathcard Cabin - Grokitach`
 - `Better blood decals - Ni7L5T` | If use: `Painter of The Zone`
 - `Dialogues Expanded` | If use: `Ultimate Dialogue Expansion (ude)`
 - `GAMMA Loading Screens - CS Eden` | If use: `Atmospheric Loading Screen`
