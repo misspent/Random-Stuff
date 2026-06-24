@@ -436,10 +436,11 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 #### Console in-game:
 
-`r2_sun_lumscale`: 2.2/3 // Sunray?  
-`r2_sunshafts_min`: 0.02  // Sun shaft min  
-`r2_sun_lumscale_hemi` 1.2 // Exteriour lighting | Default: 0.9  
-`r2_sun_lumscale_amb`: 1.5 // This is interiour lighting (MASSIVE QoL) | Default: 1.0  
+`r2_sun_lumscale`: 2.2/3 - Sunray?  
+`r2_sunshafts_min`: 0.02 - Sun shaft min  
+`r2_sun_lumscale_hemi` 1.2 - Exteriour lighting | Default: 0.9  
+`r2_sun_lumscale_amb`: 1.5 - This is interiour lighting (MASSIVE QoL) | Default: 1.0  
+`save` - Save game with ease (save {insert name})
 
 #### 🐛 Bugs / Testing / Debugging
 - Oscoar (from GAMMA discord) recommends ATO 3/4 as ATO 5 used the wrong format for parallax
@@ -460,6 +461,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `Better sound - Grokitach`
 - `YACS Better Campfire Saves`
 - `EFT footsteps and tinnitus`
+- `Attach patches with hotkey`
 - `Campfire slowly regens life`
 - `Zone Tales in Loading Screens`
 - `Knife Pistol in Binocular Slot`
@@ -472,6 +474,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `Quieter Wood Boxes Breaking - cringeybabey`
 - `457- RETUNE Ambiant Sounds - Aphrodite_child`
 - `Main Menu Theme - Deathcard Cabin - Grokitach`
+- `New Player Experience` + `G.A.M.M.A. Tutorials`
 - `Better blood decals - Ni7L5T` | If use: `Painter of The Zone`
 - `Dialogues Expanded` | If use: `Ultimate Dialogue Expansion (ude)`
 - `GAMMA Loading Screens - CS Eden` | If use: `Atmospheric Loading Screen`
@@ -502,6 +505,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - **Re-installed**: Screen Space Shaders > Disabled: `Bloom`, `Motion Blur`, `Weapons DOF` & `PostProcess - Bloom`
 - Launch: `Anomaly Launcher` > Enable: `prefetch sounds` & remember to hit `save settings`
 - `Grass Tweaks (reinstall for different options) - Aydin` | Rotate how I make the game look with this + other visual mods
+- `Gadgets for Hideout Furniture` > Find & open `bind_trading_computer.script` set `MAX_TRADER_DISTANCE` to value: 0 (infinite range)
 - `349- Hideout Furniture Expansion - Maid & HarukaSai` Re-install it & disable `Optional - Meat Spoiling Addon` & `ilrathCXV's Meat Spoiling Timer in Tooltips`
 - Delete all .ltx in `Anomaly\appdata` but the `user.ltx`. This is so when you load them it wont load the outdated ones from manual updates.
 
