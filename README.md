@@ -457,6 +457,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `Dynamic Dialog UI`
 - ~~`LowerSprintAnimaiton`~~
 - `No Exos in the South`
+- `Repair Notifications`
 - `Psy Fields in the North`
 - `Better sound - Grokitach`
 - `YACS Better Campfire Saves`
