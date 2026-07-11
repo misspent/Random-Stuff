@@ -451,7 +451,6 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 ### **🔎 Tweaks**
 
 **Disable the following**:  
-
 - `NPC loot claim`
 - ~~`Fair Fast Travel`~~
 - `Tasks Guide Spot`
@@ -486,12 +485,11 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `G.A.M.M.A. Voiced Actor`, `15- Voiced Actor - DesmanMetzger`, `8- Better Merc voicelines` & `YankeeGolf & G.A.M.M.A. Better Mercs Voices`
 
 **Disabled (cause of crash / error in crash log | Personal tests):**:
-
 - `Identification UI - CrookR`
 - `Crook's Identification UI Fix`
 
 **Enable the following**:
-
+- `Spatial Audio Rework`
 - ~~`New Item Highlight`~~
 - `No Tinnitus Sound Effects`
 - ~~`Demonized Death Animations`~~
