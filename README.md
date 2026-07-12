@@ -502,6 +502,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 **Moved / Tweaked for following**:
 - **Re-installed**: `Nicer Flashlights` > Option: `FEAR`
 - **Re-installed**: 290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot
+- **Re-installed**: `Modular Compass Minimap` to change minimap positito, player icon, etc
 - **Re-installed**: Screen Space Shaders > Disabled: `Bloom`, `Motion Blur`, `Weapons DOF` & `PostProcess - Bloom`
 - Launch: `Anomaly Launcher` > Enable: `prefetch sounds` & remember to hit `save settings`
 - `Grass Tweaks (reinstall for different options) - Aydin` | Rotate how I make the game look with this + other visual mods
