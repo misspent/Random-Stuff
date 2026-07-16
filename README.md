@@ -442,6 +442,11 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 `r2_sun_lumscale_amb`: 1.5 - This is interiour lighting (MASSIVE QoL) | Default: 1.0  
 `save` - Save game with ease (save {insert name})
 
+#### Shadow Map (messing so ignore)
+- Shadow Map to `1546` & enable `Prefetch sounds` (the latter = slightly increases loading times)
+- If you're using SSS, it's in the mod config menu > SSS Settings > Shadows and Light (default 1536); if you're not using SSS, then it's in the Anomaly Launcher (default 2048)
+> It downgrades the quality somewhat, but you can mitigate it by increasing the quality of another in-game setting. I can't remember what it is now, but I'll check when I get home
+
 #### 🐛 Bugs / Testing / Debugging
 - Oscoar (from GAMMA discord) recommends ATO 3/4 as ATO 5 used the wrong format for parallax
 
