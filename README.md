@@ -447,6 +447,12 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - If you're using SSS, it's in the mod config menu > SSS Settings > Shadows and Light (default 1536); if you're not using SSS, then it's in the Anomaly Launcher (default 2048)
 > It downgrades the quality somewhat, but you can mitigate it by increasing the quality of another in-game setting. I can't remember what it is now, but I'll check when I get home
 
+#### Memory crash, out-of-memory, stutters, etc
+- `lua_gcstep 750` - Fixes microstutters (proven effective)
+- `r__no_ram_textures off` - Frees VRAM, but likely harmful (Grok)
+- `r__tex_evict_enabled 1` - Every unused texture gets unloaded and reloaded later, *may* cause stutters. It's *possibly* wasteful and buggy, especially if VRAM is sufficient.
+- [[Atak] Anomaly Texture Analysis Kit](<https://github.com/noisethanks/atak>) - A texture compression and backup utility for STALKER GAMMA modlists
+
 #### 🐛 Bugs / Testing / Debugging
 - Oscoar (from GAMMA discord) recommends ATO 3/4 as ATO 5 used the wrong format for parallax
 
@@ -810,18 +816,6 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 
 
-<details>
-  <summary align="center">📷 Mods I have enabled + load order (I left out G.A.M.M.A Fixes; refer to above for that order) | May become outdated</summary>
-  <br>
-
-
-![My Mods - Stalker GAMMA v7](https://github.com/user-attachments/assets/5b55889d-90b8-4f5c-ab06-62311fbc27e0)
-
-
-</details>
-
-
-
 #### 💡 Partial automation
 1. Use [JDownloader 2](https://jdownloader.org/jdownloader2) 
 2. Copy & paste all **automatic** links from the dropdown below into it, and it'll auto-download the zips. | Make it not extract the files (maybe?)
@@ -946,36 +940,6 @@ https://www.moddb.com/mods/stalker-anomaly/addons/red-eotech-reticle-for-gamma-t
 <h3 align="center">Crafting parts & disassemble</h3>
 
 ![Crafting parts](image-1.png)
-
----
-
-# 📂 Joplin Export
-
-### 💲 PRICES
-
-####  **TRADER: Sidorovich, Cordon main trader (Fat one) & Owl, Zaton**
-
-  
-AS-VAL  
-  
-| Ammo Type | RU Amount |
-| --------- | :-------: |
-| SP-5      |    960    |
-| SP-6      |   3120    |
-  
-AK-105 “Specialist”  
-  
-| Ammo Type   | RU Amount |
-| ----------- | :-------: |
-| 5.45x39 FMJ |    810    |
-| 5.45x39 HP  |   1200    |
-| 5.45x39 AP  |   3060    |
-  
-SR-2M Veresk  
-  
-| Ammo Type | RU Amount |
-| --------- | :-------: |
-| 9x21 SP10 |   1290    |
 
 ---
 
