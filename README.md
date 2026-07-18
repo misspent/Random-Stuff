@@ -436,11 +436,12 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 
 #### Console in-game:
 
-`r2_sun_lumscale`: 2.2/3 - Sunray?  
+`r2_sun_lumscale`: 2.3 - Sunray?  
 `r2_sunshafts_min`: 0.02 - Sun shaft min  
 `r2_sun_lumscale_hemi` 1.2 - Exteriour lighting | Default: 0.9  
-`r2_sun_lumscale_amb`: 1.5 - This is interiour lighting (MASSIVE QoL) | Default: 1.0  
-`save` - Save game with ease (save {insert name})
+`r2_sun_lumscale_amb`: 1/1.5 - This is interiour lighting (MASSIVE QoL) | Default: 1.0  
+`r__tf_mipbias` -1
+`save` - Save game with ease (save {insert name})  
 
 #### Shadow Map (messing so ignore)
 - Shadow Map to `1546` & enable `Prefetch sounds` (the latter = slightly increases loading times)
@@ -493,6 +494,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `Dynamic Anomalies Overhaul - Demonized` | If use: `Arrival - Anomalies`
 - `Doom-like weapon inspection - Grokitach` & `G.A.M.M.A. Inspect on double tap F disabler`
 - `Atmospherics Shaders Weathers and Reshade Latest - Hippobot` | If use: `Melancholy weathers by PIPNIK`
+- `Main Menu Theme - Deathcard Cabin` & deleted `_anomaly_ilya_ponomarenko_day_one.ogg` from the mod `G.A.M.M.A. New Main Menu`
 - `G.A.M.M.A. Voiced Actor`, `15- Voiced Actor - DesmanMetzger`, `8- Better Merc voicelines` & `YankeeGolf & G.A.M.M.A. Better Mercs Voices`
 
 **Disabled (cause of crash / error in crash log | Personal tests):**:
