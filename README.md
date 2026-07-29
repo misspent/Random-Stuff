@@ -494,8 +494,8 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `Dynamic Anomalies Overhaul - Demonized` | If use: `Arrival - Anomalies`
 - `Doom-like weapon inspection - Grokitach` & `G.A.M.M.A. Inspect on double tap F disabler`
 - `Atmospherics Shaders Weathers and Reshade Latest - Hippobot` | If use: `Melancholy weathers by PIPNIK`
-- `Main Menu Theme - Deathcard Cabin` & deleted `_anomaly_ilya_ponomarenko_day_one.ogg` from the mod `G.A.M.M.A. New Main Menu`
 - `G.A.M.M.A. Voiced Actor`, `15- Voiced Actor - DesmanMetzger`, `8- Better Merc voicelines` & `YankeeGolf & G.A.M.M.A. Better Mercs Voices`
+- Deleted `_anomaly_ilya_ponomarenko_day_one.ogg` from the mod `G.A.M.M.A. New Main Menu` (**DO NOT** disable `Main Menu Theme - Deathcard Cabin`)
 
 **Disabled (cause of crash / error in crash log | Personal tests):**:
 - `Identification UI - CrookR`
@@ -522,6 +522,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `Gadgets for Hideout Furniture` > Find & open `bind_trading_computer.script` set `MAX_TRADER_DISTANCE` to value: 0 (infinite range)
 - `349- Hideout Furniture Expansion - Maid & HarukaSai` Re-install it & disable `Optional - Meat Spoiling Addon` & `ilrathCXV's Meat Spoiling Timer in Tooltips`
 - Delete all .ltx in `Anomaly\appdata` but the `user.ltx`. This is so when you load them it wont load the outdated ones from manual updates.
+- Search `grok_remove_belt_duplicates.script` at bottom right in MO2 in the **Data** section > right-click the file (it's in `G.A.M.M.A. Artefacts Reinvention` mod) and click `hide`
 
 
 **Move mini-map to top-right with most hud mods by doing the following**:
