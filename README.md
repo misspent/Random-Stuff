@@ -484,6 +484,7 @@ This is how `skilldex` from G.A.M.M.A discord server does it (he has ultra wide)
 - `G_FLAT's Indirect Parts Favoriter`
 - `G.A.M.M.A. Quick Action Wheel Balance`
 - `High Res Loading Screens - Bazingarrey`
+- `G.A.M.M.A. No trade with random stalkers`
 - `Quieter Wood Boxes Breaking - cringeybabey`
 - `457- RETUNE Ambiant Sounds - Aphrodite_child`
 - `Main Menu Theme - Deathcard Cabin - Grokitach`
